@@ -3,6 +3,9 @@
 <h1 align="center"> 🤖 <br />
 AI Club IGDTUW </h1>
 
+# Installing jupyter and python libraries
+https://www.youtube.com/watch?v=unu0makpA5g
+
 
 # ✒️ Cheatsheets
 https://towardsdatascience.com/5-minutes-cheat-sheet-explaining-all-machine-learning-models-3fea1cf96f05 <br />
