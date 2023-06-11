@@ -1,72 +1,58 @@
-<style>
-.column {
-  float: left;
-  width: 50%;
-}
-</style>
-
 <h1 align="center"> 🤖 <br />
 MINOR PROJECTS - AI Club IGDTUW </h1> <br />
 
 <h2>Problem Statements</h2>
 
-<div class="column">
-  <ol>
-    <li><a href="#project1">Twitter Sentiment Analysis</a></li>
-    <li><a href="#project2">Disease Burden by Cause 1990-2019</a></li>
-    <li><a href="#project3">Gender Development Index 2019</a></li>
-    <li><a href="#project4">Factors affecting Campus Placement</a></li>
-    <li><a href="#project5">Employee Attrition</a></li>
-    <li><a href="#project6">Wine Quality Prediction</a></li>
-    <li><a href="#project7">Breast Cancer Prediction</a></li>
-    <li><a href="#project8">Iris Flower Dataset</a></li>
-    <li><a href="#project9">Stroke Prediction Dataset</a></li>
-    <li><a href="#project10">Heart Failure Prediction</a></li>
-    <li><a href="#project11">Wind Speed Prediction</a></li>
-    <li><a href="#project12">Body Fat Prediction</a></li>
-    <li><a href="#project13">Cirrhosis Prediction</a></li>
-    <li><a href="#project14">Stellar Classification</a></li>
-    <li><a href="#project15">Hepatitis C Prediction</a></li>
-    <li><a href="#project16">Company Bankruptcy Pediction</a></li>
-    <li><a href="#project17">Credit Card Approval Prediction</a></li>
-    <li><a href="#project18">Diabetes Prediction</a></li>
-    <li><a href="#project19">World Happiness Prediction</a></li>
-    <li><a href="#project20">Source-Based Fake News Prediction</a></li>
-    <li><a href="#project21">Honda Cars Model Resale</a></li>
-    <li><a href="#project22">Movie recommendation</a></li>
-    <li><a href="#project23">Smart Watch prices</a></li>
-    <li><a href="#project24">Video Games Rating By 'ESRB'</a></li>
-    <li><a href="#project25">Robot Kinematics Dataset</a></li>
-  </ol>
-</div>
-
-<div class="column">
-  <ol start="26">
-    <li><a href="#project26">Powerball Lottery Winning Numbers</a></li>
-    <li><a href="#project27">Recruitment Scam</a></li>
-    <li><a href="#project28">Classification of Robots from their conversation</a></li>
-    <li><a href="#project29">IIT and NIT Colleges Admission Criteria</a></li>
-    <li><a href="#project30">Email Spam Classification Dataset</a></li>
-    <li><a href="#project31">Heart Attack Analysis & Prediction</a></li>
-    <li><a href="#project32">Mushroom Classification</a></li>
-    <li><a href="#project33">Titanic - Machine Learning from Disaster</a></li>
-    <li><a href="#project34">Flowcast: Credit Card Approval Fraud Detection</a></li>
-    <li><a href="#project35">PCOS Diagnostic</a></li>
-    <li><a href="#project36">Movie Revenue and Rating Prediction</a></li>
-    <li><a href="#project37">Capegemini:Movie Revenue and Rating Prediction</a></li>
-    <li><a href="#project38">Customer Ad Clicks</a></li>
-    <li><a href="#project39">Global Temperature and Pollution</a></li>
-    <li><a href="#project40">Red Wine Quality</a></li>
-    <li><a href="#project41">Used Cars</a></li>
-    <li><a href="#project42">Fetal Health</a></li>
-    <li><a href="#project43">Mechanical Tools Classification Dataset</a></li>
-    <li><a href="#project44">Zomato Dataset</a></li>
-    <li><a href="#project45">Uber vs Lyft Dataset</a></li>
-    <li><a href="#project46">TED Talks Web-scraped dataset</a></li>
-    <li><a href="#project47">Company Bankruptcy Prediction</a></li>
-    <li><a href="#project48">Dog Emotion Image Classification</a></li>
-  </ol>
-</div>
+<ol>
+  <li><a href="#project1">Twitter Sentiment Analysis</a></li>
+  <li><a href="#project2">Disease Burden by Cause 1990-2019</a></li>
+  <li><a href="#project3">Gender Development Index 2019 </a></li>
+  <li><a href="#project4">Factors affecting Campus Placement</a></li>
+  <li><a href="#project5">Employee Attrition </a></li>
+  <li><a href="#project6">Wine Quality Prediction</a></li>
+  <li><a href="#project7">Breast Cancer Prediction </a></li>
+  <li><a href="#project8">Iris Flower Dataset </a></li>
+  <li><a href="#project9">Stroke Prediction Dataset </a></li>
+  <li><a href="#project10">Heart Failure Prediction</a></li>
+  <li><a href="#project11">Wind Speed Prediction</a></li>
+  <li><a href="#project12">Body Fat Prediction</a></li>
+  <li><a href="#project13">Cirrhosis Prediction</a></li>
+  <li><a href="#project14">Stellar Classification</a></li>
+  <li><a href="#project15">Hepatitis C Prediction</a></li>
+  <li><a href="#project16">Company Bankruptcy Pediction</a></li>
+  <li><a href="#project17">Credit Card Approval Prediction</a></li>
+  <li><a href="#project18">Diabetes Prediction</a></li>
+  <li><a href="#project19">World Happiness Prediction</a></li>
+  <li><a href="#project20">Source-Based Fake News Prediction</a></li>
+  <li><a href="#project21">Honda Cars Model Resale</a></li>
+  <li><a href="#project22">Movie recommendation</a></li>
+  <li><a href="#project23">Smart Watch prices</a></li>
+  <li><a href="#project24">Video Games Rating By 'ESRB'</a></li>
+  <li><a href="#project25">Robot Kinematics Dataset</a></li>
+  <li><a href="#project26">Powerball Lottery Winning Numbers</a></li>
+  <li><a href="#project27">Recruitment Scam</a></li>
+  <li><a href="#project28">Classification of Robots from their conversation</a></li>
+  <li><a href="#project29">IIT and NIT Colleges Admission Criteria</a></li>
+  <li><a href="#project30">Email Spam Classification Dataset </a></li>
+  <li><a href="#project31">Heart Attack Analysis & Prediction</a></li>
+  <li><a href="#project32">Mushroom Classification</a></li>
+  <li><a href="#project33">Titanic - Machine Learning from Disaster</a></li>
+  <li><a href="#project34">Flowcast: Credit Card Approval Fraud Detection</a></li>
+  <li><a href="#project35">PCOS Diagnostic</a></li>
+  <li><a href="#project36">Movie Revenue and Rating Prediction</a></li>
+  <li><a href="#project37">Capegemini:Movie Revenue and Rating Prediction</a></li>
+  <li><a href="#project38">Customer Ad Clicks</a></li>
+  <li><a href="#project39">Global Temperature and Pollution</a></li>
+  <li><a href="#project40">Red Wine Quality</a></li>
+  <li><a href="#project41">Used Cars</a></li>
+  <li><a href="#project42">Fetal Health</a></li>
+  <li><a href="#project43">Mechanical Tools Classification Dataset</a></li>
+  <li><a href="#project44">Zomato Dataset</a></li>
+  <li><a href="#project45">Uber vs Lyft Dataset</a></li>
+  <li><a href="#project46">TED Talks Web-scraped dataset</a></li>
+  <li><a href="#project47">Company Bankruptcy Prediction</a></li>
+  <li><a href="#project48">Dog Emotion Image Classification</a></li>
+</ol>
 
 
 <h3 id="project1">1. Twitter Sentiment Analysis ✒️ </h3>
