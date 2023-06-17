@@ -290,3 +290,52 @@ MINOR PROJECTS - AI Club IGDTUW </h1> <br />
 <li>Plot a countplot depicting Winners vs No of Grand Slam Tournament wins</li>
 <li>Are there any duplicated values?If so, how will you handle them?</li>
 <li>Plot a stacked bar chart depicting distribution of Tournament wins(in different colours) of top 5 WTA players.</li></ul> <br />
+
+
+<h3 id="project21">21. Honda Cars Model Resale  ✒ </h3>
+<p>This dataset contains relevant information cars.com provides such as:
+ The car's model, Condition, Price, Ratings, Drivetrain, Transmission. The objective is to classify the cars on re-sale value by creating a predictive model.<p>
+<h4>👩‍💻 Dataset - </h4><p>https://www.kaggle.com/datasets/omartorres25/honda-data<p>
+<h4>📌 Tasks - </h4>
+<ul>
+<li>What is the distribution of car conditions in the dataset? How many cars are classified under each condition category (e.g., excellent, good, fair)? Are there any missing values in the condition column?</li>
+<li>Are there any significant correlations between the car ratings (reliability, exterior styling, value for money, performance, interior design, comfort) and the car's resale value? Can you calculate the correlation coefficients between these variables?</li>
+<li>How does the car's drivetrain (e.g., front-wheel drive, rear-wheel drive, all-wheel drive) affect its resale value? Can you compare the average resale value for different drivetrain categories using a suitable plot, such as a boxplot or bar plot?</li>
+<li>Are there any noticeable differences in the average resale value based on the car's transmission type (e.g., automatic, manual)? Can you calculate the average resale value for each transmission category and determine if there is a significant difference?</li>
+<li>Can you visualize the distribution of car prices in the dataset using a histogram or boxplot? Are there any outliers or unusual price ranges that may need further investigation?</li></ul> <br />
+
+
+<h3 id="project22">22. Movie recommendation  ✒ </h3>
+<p>Movies have been a source of entertainment, inspiration, and education for decades.However, with such a vast selection, it can be difficult to decide which movies to watch, particularly when considering the opinions of others. In order to understand the trend in movie preferences, build a predictive model using movie ratings on different genres, old/new movies.<p>
+<h4>👩‍💻 Dataset - </h4><p>https://www.kaggle.com/datasets/ulrikthygepedersen/more-movie-ratings<p>
+<h4>📌 Tasks - </h4>
+<ul>
+<li>What is the distribution of movie ratings in the dataset? Are the ratings normally distributed or skewed? Can you calculate the mean, median, and standard deviation of the ratings?</li>
+<li>How does the movie genre (e.g., Action, Animation, Comedy, Drama, Documentary, Romance) affect the movie ratings? Can you compare the average ratings for different genres using a suitable plot, such as a bar plot or boxplot?</li>
+<li> Is there any relationship between the movie budget and its rating? Can you calculate the correlation coefficient between these variables and determine if there is a significant relationship?</li>
+<li>Are there any significant differences in the average ratings between old and new movies? Can you compare the average ratings for movies released before a certain year (e.g., 2000) and movies released after that year?</li>
+<li>Can you identify the top-rated movies based on the average ratings across all genres? Can you create a list or plot to showcase the top-rated movies and their corresponding ratings?</li></ul> <br />
+
+
+<h3 id="project23">23. Smart Watch prices  ✒ </h3>
+<p>The Smartwatch Price Dataset contains information about the features and prices of popular smartwatch models from various brands. The dataset includes columns such as Brand, Model, Operating System, Connectivity, Price (USD), etc. The dataset provides a comprehensive overview of the different smartwatches available in the market and can be used for various purposes such as price comparison, feature analysis, and market research. Create a model for the same.<p>
+<h4>👩‍💻 Dataset - </h4><p>https://www.kaggle.com/datasets/rkiattisak/smart-watch-prices<p>
+<h4>📌 Tasks - </h4>
+<ul>
+<li>What is the distribution of smartwatch prices in the dataset? Are the prices normally distributed or skewed? Can you calculate the mean, median, and range of the prices?</li>
+<li>Is there any relationship between the display size and the price of smartwatches? Can you analyze the correlation between these variables and determine if there is a significant relationship?</li>
+<li> How does the operating system impact the price of smartwatches? Can you compare the average prices for different operating systems using a suitable plot, such as a bar plot or boxplot?</li>
+<li>Does the presence of specific features, such as GPS, NFC, or a heart rate monitor, affect the price of smartwatches? Can you analyze the average prices for smartwatches with and without these features and determine if there are significant differences?</li>
+<li> Can you identify the top brands in terms of average smartwatch prices? Can you create a list or plot to showcase the brands and their corresponding average prices?</li></ul> <br />
+
+
+<h3 id="project24">24. Video Games Rating By 'ESRB'  ✒ </h3>
+<p>This data contains the name for 1895 games with 34 of ESRB rating content with the name and console as features for each game. A single data point is represented as a binary value 0-1 for Console and a binary vector for the features of ESRB content. Try classifying games based on the content that the game is rated on and compare it with given ESRB rating<p>
+<h4>👩‍💻 Dataset - </h4><p>https://www.kaggle.com/datasets/imohtn/video-games-rating-by-esrb<p>
+<h4>📌 Tasks - </h4>
+<ul>
+<li>What is the distribution of ESRB ratings in the dataset? How many games fall into each rating category (E, ET, T, M)? Can you create a bar plot to visualize the distribution?</li>
+<li>Are there any specific ESRB content features that are more prevalent in certain rating categories? Can you analyze the frequency of each content feature for different ESRB ratings and determine if there are any significant differences?</li>
+<li>  Is there a correlation between the presence of certain content features (e.g., violence, sexual content) and the assigned ESRB rating? Can you analyze the correlation between these variables and determine if certain features are strong indicators of a specific rating category?</li>
+<li>Can you identify any patterns in the relationship between ESRB ratings and the presence of multiple content features? For example, are there certain combinations of features that are more common in specific rating categories?</li>
+<li> How well can the ESRB rating be predicted based on the presence of different content features? Can you build a classification model to predict the ESRB rating using the available features and evaluate its performance using appropriate metrics?</li></ul> <br />
