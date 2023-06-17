@@ -23,7 +23,7 @@ MINOR PROJECTS - AI Club IGDTUW </h1> <br />
   <li><a href="#project17">Credit Card Approval Prediction</a></li>
   <li><a href="#project18">Diabetes Prediction</a></li>
   <li><a href="#project19">World Happiness Prediction</a></li>
-  <li><a href="#project20">Company Bankruptcy Prediction</a></li>
+  <li><a href="#project20">WTA Tennis Dataset</a></li>
   <li><a href="#project21">Honda Cars Model Resale</a></li>
   <li><a href="#project22">Movie recommendation</a></li>
   <li><a href="#project23">Smart Watch prices</a></li>
@@ -280,13 +280,13 @@ MINOR PROJECTS - AI Club IGDTUW </h1> <br />
 <li>What is the average level of freedom to make life choices across different countries? Can you calculate the mean freedom score and identify countries with high and low levels of freedom?</li></ul> <br />
 
 
-<h3 id="project20">20. Company Bankruptcy Prediction  ✒ </h3>
-<p>The data were collected from the Taiwan Economic Journal for the years 1999 to 2009. Company bankruptcy was defined based on the business regulations of the Taiwan Stock Exchange.<p>
-<h4>👩‍💻 Dataset - </h4><p>https://www.kaggle.com/fedesoriano/company-bankruptcy-prediction<p>
+<h3 id="project20">20. WTA Tennis Dataset  ✒ </h3>
+<p>This dataset contains 37k+ WTA matches(2007-2023). Each match includes the tournament, date, type of tournament, whether the match was played indoors or not, type of court surface, round of the match, maximum number of sets in the match, participants in the match, winner, ranks of the participants, odds to win and match score.<p>
+<h4>👩‍💻 Dataset - </h4><p>https://www.kaggle.com/datasets/dissfya/wta-tennis-2007-2023-daily-update<p>
 <h4>📌 Tasks - </h4>
 <ul>
-<li>1. Are there any missing values in the dataset on company bankruptcy?If so, how will you handle them?</li>
-<li>Plot a bar graph depicting Bankrupt Distribution.</li>
-<li>Plot a boxplot depicting 'Bankrupt vs Net Income to Total Assets'.</li>
+<li>Are there any missing values in the dataset?If so, how will you handle them?</li>
+<li>Present rows consisting information of final rounds of Wimbledon Tournament.</li>
+<li>Plot a countplot depicting Winners vs No of Grand Slam Tournament wins</li>
 <li>Are there any duplicated values?If so, how will you handle them?</li>
-<li>Plot a boxplot depicting 'Bankrupt vs Debt ratio Correlation'.</li></ul> <br />
+<li>Plot a stacked bar chart depicting distribution of Tournament wins(in different colours) of top 5 WTA players.</li></ul> <br />
