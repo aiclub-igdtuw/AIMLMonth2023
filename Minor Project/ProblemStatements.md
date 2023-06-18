@@ -446,3 +446,194 @@ MINOR PROJECTS - AI Club IGDTUW </h1> <br />
 <li>Which plot will be the best to show relation between color and class of mushrom. 
 </li>
 <li> Find a relation between population and Habitat of Mushroom</li></ul> <br />
+
+
+
+<h3 id="project33">33. Titanic - Machine Learning from Disaster   ✒ </h3>
+<p> In this challenge, we ask you to build a predictive model that answers the question: “what sorts of people were more likely to survive?” using passenger data (ie name, age, gender, socio-economic class, etc).<p>
+<h4>👩‍💻 Dataset - </h4><p>https://www.kaggle.com/competitions/titanic/data<p>
+<h4>📌 Tasks - </h4>
+<ul>
+<li> Are there any inconsistent or incorrect data entries that need to be corrected or standardized?</li>
+<li> How can we visualize the survival rate of passengers based on different variables such as age, gender, and socio-economic class? </li>
+<li>Can we create visualizations to understand the relationship between different passenger characteristics (e.g., age, class) and survival? </li>
+<li>How can we visualize the distribution of different variables (e.g., age, fare) to identify any patterns or outliers?
+</li>
+<li> Can we visualize the distribution of survivors and non-survivors based on different variables to gain insights into the factors that influenced survival?</li></ul> <br />
+
+
+
+<h3 id="project34">34. Flowcast: Credit Card Approval Fraud Detection   ✒ </h3>
+<p> Fraud can take numerous forms, whether it’s a single stolen credit card or credit card details getting compromised by a merchant using tools like credit card skimming devices.This take-home project takes 1-2 hours to complete and asks you to create a model to determine if a credit card transaction is fraudulent.You are also required to document your solution by providing a clear and concise explanation of the methods you used, the assumptions you made about the data, and any other methods you considered.<p>
+<h4>👩‍💻 Dataset - </h4><p>https://www.interviewquery.com/takehomes/flowcast-1<p>
+<h4>📌 Tasks - </h4>
+<ul>
+<li> Are there any inconsistent or incorrect data entries that need to be corrected or standardized?</li>
+<li> How can we visualize the distribution of fraudulent and non-fraudulent credit card transactions in the dataset? </li>
+<li>Can we create visualizations to understand the relationship between different variables (e.g., transaction amount, transaction type) and the likelihood of fraud?</li>
+<li>How can we visualize the correlation between different features or variables and identify any significant relationships?
+</li>
+<li> Can we visualize the distribution of different features for fraudulent and non-fraudulent transactions separately to identify patterns?</li></ul> <br />
+
+
+
+<h3 id="project35">35. PCOS Diagnostic   ✒ </h3>
+<p> Disease diagnostics is a crucial aspect of how data science is involved in many aspects of our lives. PCOS is one of the conditions that machine learning models have proven efficient in decreasing the chances of misdiagnosis due to human error.  Build a regression Diagnostic models for PCOS.<p>
+<h4>👩‍💻 Dataset - </h4><p>https://www.kaggle.com/prasoonkottarathil/polycystic-ovary-syndrome-pcos<p>
+<h4>📌 Tasks - </h4>
+<ul>
+<li> Are there any inconsistent or incorrect data entries that need to be corrected or standardized?</li>
+<li>How can we visualize the distribution of PCOS diagnosis in the dataset? </li>
+<li>Can we create visualizations to understand the relationship between different diagnostic features (e.g., hormonal levels, physical characteristics) and the likelihood of PCOS?</li>
+<li>How can we visualize the correlation between different features and identify any significant relationships?
+</li>
+<li> Can we visualize the distribution of different features for PCOS positive and negative cases separately to identify patterns?</li></ul> <br />
+
+
+
+<h3 id="project36">36. Weather History Prediction   ✒ </h3>
+<p> Weather history visualization of a particular area has been given.<p>
+<h4>👩‍💻 Dataset - </h4><p>https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata<p>
+<h4>📌 Tasks - </h4>
+<ul>
+<li> Are there any inconsistent or incorrect data entries that need to be corrected or standardized?</li>
+<li>How can we visualize the distribution of movie revenue and rating in the dataset?</li>
+<li>Can we create visualizations to understand the relationship between different variables (e.g., genre, budget) and movie revenue or rating?</li>
+<li>How can we visualize the correlation between different features (e.g., budget, runtime) and movie revenue or rating?
+</li>
+<li> Can we visualize the distribution of different genres in the dataset and their respective revenue and rating trends?</li></ul> <br />
+
+
+
+<h3 id="project37">37. Weather histoy    ✒ </h3>
+<p> Weather history visulisation of a periticuar area has been provided.<p>
+<h4>👩‍💻 Dataset - </h4><p>https://github.com/fivethirtyeight/data/blob/master/us-weather-history/KCLT.csv<p>
+<h4>📌 Tasks - </h4>
+<ul>
+<li>What are the key insights you can derive from the dataset in terms of its structure, size, and basic statistics? Create a summary report .( hint: use pandas .describe() function ) , Also share your insights you learned by this report.</li>
+<li>What will be the best way to Visualize the average_min_temprature  over year 2014</li>
+<li>Are there any outliers in actual_max_temp use an appropriate plot to show.</li>
+<li>Which month has highest average_precipitation over the year 2014 and 2015 , use a suitable filtering of data to find.
+</li>
+<li> Print the first 10 rows, then remove the row containing data of ‘2014-7-3’, save this row
+in a variable of type series (data structure). Print the first 10 rows after removal of row.</li></ul> <br />
+
+
+
+<h3 id="project38">38. Customer Ad Clicks    ✒ </h3>
+<p> We all have to deal with ads online – you’ve probably seen a few just in getting to this article. When it comes to ads, customer engagement is the top priority. The more clicks an ad gets, the higher the possibility that a customer will make a purchase.<p>
+<h4>👩‍💻 Dataset - </h4><p>https://www.kaggle.com/farhanmd29/predicting-customer-ad-clicks<p>
+<h4>📌 Tasks - </h4>
+<ul>
+<li>Are there any missing values in the dataset related to ad data or customer engagement metrics? How should these missing values be handled?</li>
+<li>Are there any duplicate entries in the dataset that need to be identified and removed?</li>
+<li>Plot a histogram with Kernel density estimation for the 'Age' variable.</li>
+<li>How many unique countries are there in the dataset.
+</li>
+<li>How can we visualize the correlation between different features (e.g., ad placement, ad creative) and ad performance?
+</li></ul> <br />
+
+
+
+<h3 id="project39">39. Global Temperature and Pollution    ✒ </h3>
+<p> Pollution and its impact on the environment are among the most significant concerns globally. Data science and machine learning can help us better understand how to tackle and solve that problem. you can use one of the dataset provided in the respository to do prediction.<p>
+<h4>👩‍💻 Dataset - </h4><p>https://github.com/OpenFloodAI/Climate-Change-Datasets<p>
+<h4>📌 Tasks - </h4>
+<ul>
+<li>Are there any missing values in the pollution dataset? How should these missing values be handled?</li>
+<li>Are there any duplicate entries in the dataset that need to be identified and removed?</li>
+<li>How can we visualize the distribution of pollution levels in the dataset across different regions or time periods?</li>
+<li>How can we visualize the correlation between different features (e.g., wind speed, particulate matter) and pollution levels?
+</li>
+<li>Can we visualize the temporal patterns of pollution levels over time using line plots or other suitable visualizations?
+</li></ul> <br />
+
+
+
+<h3 id="project40">40. Red Wine Quality   ✒ </h3>
+<p> PThe two datasets are related to red and white variants of the Portuguese "Vinho Verde" wine. For more details, consult the reference [Cortez et al., 2009]. Due to privacy and logistic issues, only physicochemical (inputs) and sensory (the output) variables are available (e.g. there is no data about grape types, wine brand, wine selling price, etc.). Use machine learning to determine which physiochemical properties make a wine 'good'!<p>
+<h4>👩‍💻 Dataset - </h4><p>https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009<p>
+<h4>📌 Tasks - </h4>
+<ul>
+<li>Are there any missing values in the wine dataset? How should these missing values be handled?</li>
+<li>Are there any duplicate entries in the dataset that need to be identified and removed?</li>
+<li>Can we create visualizations to understand the relationship between different physicochemical properties (e.g., acidity, alcohol content) and the sensory rating of the wine?</li>
+<li> How can we visualize the correlation between different features (e.g., pH level, volatile acidity) and the quality rating of the wine?
+</li>
+<li>Can we visualize the distribution of different quality ratings and their respective physicochemical property trends?
+</li></ul> <br />
+
+
+
+<h3 id="project41">41. Used Cars ✒ </h3>
+<p> Analyze the relationship between car prices and age (year of registration) using a linear regression model to suggest which cars provide the best value for money.<p>
+<h4>👩‍💻 Dataset - </h4><p>https://www.kaggle.com/datasets/thedevastator/uncovering-factors-that-affect-used-car-prices<p>
+<h4>📌 Tasks - </h4>
+<ul>
+<li>Are there any missing values in the car price and age dataset? How should these missing values be handled?</li>
+<li>How many unique vehicle types are present in the dataset?</li>
+<li>Can we create visualizations to understand the relationship between car age and prices using scatter plots or other suitable visualizations?</li>
+<li>How can we visualize the correlation between car age and prices to determine the strength of the relationship?
+</li>
+<li>Can we visualize the trend of car prices as age increases to identify the potential best value for money cars?
+</li></ul> <br />
+
+
+
+<h3 id="project42">42. Fetal Health ✒ </h3>
+<p> Reduction of child mortality is reflected in several of the United Nations' Sustainable Development Goals and is a key indicator of human progress. Create a multiclass model to classify CTG features into the three fetal health states.<p>
+<h4>👩‍💻 Dataset - </h4><p>https://www.kaggle.com/datasets/andrewmvd/fetal-health-classification<p>
+<h4>📌 Tasks - </h4>
+<ul>
+<li>Are there any missing values in the CTG features dataset? How should these missing values be handled?</li>
+<li>Are there any duplicate entries in the dataset that need to be identified and removed?</li>
+<li> Are there any inconsistent or incorrect data entries that need to be corrected or standardized?</li>
+<li>How can we visualize the distribution of CTG features across the three fetal health states?
+</li>
+<li>Can we create visualizations to understand the relationship between different CTG features (e.g., acceleration, deceleration) and the fetal health states?
+</li></ul> <br />
+
+
+
+<h3 id="project43">43. WTA Tennis Dataset ✒ </h3>
+<p>This dataset contains 37k+ WTA matches(2007-2023). Each match includes the tournament, date, type of tournament, whether the match was played indoors or not, type of court surface, round of the match, maximum number of sets in the match, participants in the match, winner, ranks of the participants, odds to win and match score.<p>
+<h4>👩‍💻 Dataset - </h4><p>https://www.kaggle.com/datasets/dissfya/wta-tennis-2007-2023-daily-update<p>
+<h4>📌 Tasks - </h4>
+<ul>
+<li>Are their any missing values in the dataset?</li>
+<li>Present rows consisting information of final rounds of Wimbledon Tournament.</li>
+<li> Plot a countplot depicting Winners vs No of Grand Slam Tournament wins</li>
+<li>Fill missing values with N/A.
+</li>
+<li>Plot a stacked bar chart depicting distribution of Tournament wins(in different colours) of top 5 WTA players.
+</li></ul> <br />
+
+
+
+<h3 id="project44">44. Zomato Dataset ✒ </h3>
+<p>Zomato Dataset consisting information of names, rating, delivery service(online or not), booking table, type, location, phone number, popularity of different restaurants<p>
+<h4>👩‍💻 Dataset - </h4><p>https://www.kaggle.com/datasets/pranavuikey/zomato-eda<p>
+<h4>📌 Tasks - </h4>
+<ul>
+<li>Are there any missing values in the Zomato dataset?</li>
+<li>Delete redundant columns like url,phone and address.</li>
+<li>Replace null values in the dataset with N/A.</li>
+<li>Plot a bar graph of restaurants that deliver food online or offline
+</li>
+<li>Plot a bar graph comparing 'Table booking Rate vs Rating'
+</li></ul> <br />
+
+
+
+<h3 id="project45">45. Uber vs Lyft Datasett ✒ </h3>
+<p>Uber vs Lyft Dataset of Boston to compare the preference of customers based on price,weather, source and destination.<p>
+<h4>👩‍💻 Dataset - </h4><p>https://www.kaggle.com/datasets/brllrb/uber-and-lyft-dataset-boston-ma<p>
+<h4>📌 Tasks - </h4>
+<ul>
+<li>Are there any missing values in the Uber vs Lyft dataset? </li>
+<li>Which company has more rides, depict the value in percentage</li>
+<li>Plot an Uber vs Lyft ride distrubution bar graph.</li>
+<li>Show which time of the day has the most amount of rides(depict using an appropriate visualization figure)
+</li>
+<li>Which are the most popular destinations on Uber and Lyft?(depict it using stacked bar graph)
+</li></ul> <br />
