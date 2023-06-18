@@ -39,8 +39,8 @@ MINOR PROJECTS - AI Club IGDTUW </h1> <br />
   <li><a href="#project33">Titanic - Machine Learning from Disaster</a></li>
   <li><a href="#project34">Flowcast: Credit Card Approval Fraud Detection</a></li>
   <li><a href="#project35">PCOS Diagnostic</a></li>
-  <li><a href="#project36">Movie Revenue and Rating Prediction</a></li>
-  <li><a href="#project37">Capegemini:Movie Revenue and Rating Prediction</a></li>
+  <li><a href="#project36">Weather histoy Dataset</a></li>
+  <li><a href="#project37">Weather histoy</a></li>
   <li><a href="#project38">Customer Ad Clicks</a></li>
   <li><a href="#project39">Global Temperature and Pollution</a></li>
   <li><a href="#project40">Red Wine Quality</a></li>
