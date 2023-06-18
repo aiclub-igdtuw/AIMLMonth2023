@@ -595,17 +595,17 @@ in a variable of type series (data structure). Print the first 10 rows after rem
 
 
 
-<h3 id="project43">43. WTA Tennis Dataset ✒ </h3>
-<p>This dataset contains 37k+ WTA matches(2007-2023). Each match includes the tournament, date, type of tournament, whether the match was played indoors or not, type of court surface, round of the match, maximum number of sets in the match, participants in the match, winner, ranks of the participants, odds to win and match score.<p>
-<h4>👩‍💻 Dataset - </h4><p>https://www.kaggle.com/datasets/dissfya/wta-tennis-2007-2023-daily-update<p>
+<h3 id="project43">43. Mechanical tools classification ✒ </h3>
+<p>Dataset contains images of tools like hammer, wrench, ropes, toolbox, gasoline can.<p>
+<h4>👩‍💻 Dataset - </h4><p>https://www.kaggle.com/datasets/salmaneunus/mechanical-tools-dataset<p>
 <h4>📌 Tasks - </h4>
 <ul>
-<li>Are their any missing values in the dataset?</li>
-<li>Present rows consisting information of final rounds of Wimbledon Tournament.</li>
-<li> Plot a countplot depicting Winners vs No of Grand Slam Tournament wins</li>
-<li>Fill missing values with N/A.
+<li>What is the size and composition of the dataset in terms of the number of images and classes of tools? Are there any class imbalances or missing images/labels?</li>
+<li>What are the properties of the images in the dataset, such as resolution, color/grayscale, file formats, and quality? Are there any variations in lighting conditions or backgrounds?</li>
+<li> What additional information or annotations are available for each image, such as metadata, textual descriptions, bounding boxes, or segmentation masks? Have any preprocessing steps been applied to the images?</li>
+<li>Are there any known biases, limitations, legal/ethical considerations, or research objectives associated with the dataset that should be taken into account during analysis?
 </li>
-<li>Plot a stacked bar chart depicting distribution of Tournament wins(in different colours) of top 5 WTA players.
+<li>Have there been any previous analyses or studies conducted using this dataset? If so, what were the main findings or insights, and are there any recommended software or libraries for visualizing and analyzing the images in the dataset?
 </li></ul> <br />
 
 
