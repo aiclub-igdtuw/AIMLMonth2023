@@ -7,7 +7,7 @@ MINOR PROJECTS - AI Club IGDTUW </h1> <br />
   <li><a href="#project1">Twitter Sentiment Analysis</a></li>
   <li><a href="#project2">Disease Burden by Cause 1990-2019</a></li>
   <li><a href="#project3">Gender Development Index 2019 </a></li>
-  <li><a href="#project4">Factors affecting Campus Placement</a></li>
+  <li><a href="#project4">Factors Affecting Campus Placement</a></li>
   <li><a href="#project5">Employee Attrition </a></li>
   <li><a href="#project6">Wine Quality Prediction</a></li>
   <li><a href="#project7">Breast Cancer Prediction </a></li>
@@ -25,13 +25,13 @@ MINOR PROJECTS - AI Club IGDTUW </h1> <br />
   <li><a href="#project19">World Happiness Prediction</a></li>
   <li><a href="#project20">WTA Tennis Dataset</a></li>
   <li><a href="#project21">Honda Cars Model Resale</a></li>
-  <li><a href="#project22">Movie recommendation</a></li>
-  <li><a href="#project23">Smart Watch prices</a></li>
+  <li><a href="#project22">Movie Recommendation</a></li>
+  <li><a href="#project23">Smart Watch Prices</a></li>
   <li><a href="#project24">Video Games Rating By 'ESRB'</a></li>
   <li><a href="#project25">Robot Kinematics Dataset</a></li>
   <li><a href="#project26">Powerball Lottery Winning Numbers</a></li>
   <li><a href="#project27">TED Talks Web-scraped dataset</a></li>
-  <li><a href="#project28">Classification of Robots from their conversation</a></li>
+  <li><a href="#project28">Classification of Robots from their Conversation</a></li>
   <li><a href="#project29">IIT and NIT Colleges Admission Criteria</a></li>
   <li><a href="#project30">Email Spam Classification Dataset </a></li>
   <li><a href="#project31">Heart Attack Analysis & Prediction</a></li>
@@ -39,14 +39,14 @@ MINOR PROJECTS - AI Club IGDTUW </h1> <br />
   <li><a href="#project33">Titanic - Machine Learning from Disaster</a></li>
   <li><a href="#project34">Flowcast: Credit Card Approval Fraud Detection</a></li>
   <li><a href="#project35">PCOS Diagnostic</a></li>
-  <li><a href="#project36">Weather histoy Dataset</a></li>
-  <li><a href="#project37">Weather histoy</a></li>
+  <li><a href="#project36">Movie Success Prediction</a></li>
+  <li><a href="#project37">Weather History Dataset</a></li>
   <li><a href="#project38">Customer Ad Clicks</a></li>
   <li><a href="#project39">Global Temperature and Pollution</a></li>
   <li><a href="#project40">Red Wine Quality</a></li>
   <li><a href="#project41">Used Cars</a></li>
   <li><a href="#project42">Fetal Health</a></li>
-  <li><a href="#project43">Mechanical Tools Classification Dataset</a></li>
+  <li><a href="#project43">Mechanical Tools Classification </a></li>
   <li><a href="#project44">Zomato Dataset</a></li>
   <li><a href="#project45">Uber vs Lyft Dataset</a></li>
 </ol>
@@ -88,7 +88,7 @@ MINOR PROJECTS - AI Club IGDTUW </h1> <br />
 <li>How can we preprocess and normalize the data? How data normalization will help you in model training and prediction?</li></ul><br />
 
 
-<h3 id="project4">4. Factors affecting Campus Placement  ✒ </h3>
+<h3 id="project4">4. Factors Affecting Campus Placement  ✒ </h3>
 <p> The problem is to perform analysis on the "Factors Affecting Campus Placement" dataset, which contains information about various factors that may influence the placement outcomes of students in a university campus. The objective is to understand the relationship between independent variables (such as gender, educational background, specialization, work experience, etc.) and the dependent variable (placement status) in order to build a predictive model.<p>
 <h4>👩‍💻 Dataset - </h4><p>https://www.kaggle.com/datasets/benroshan/factors-affecting-campus-placement<p>
 <h4>📌 Tasks - </h4>
@@ -305,7 +305,7 @@ MINOR PROJECTS - AI Club IGDTUW </h1> <br />
 <li>Can you visualize the distribution of car prices in the dataset using a histogram or boxplot? Are there any outliers or unusual price ranges that may need further investigation?</li></ul> <br />
 
 
-<h3 id="project22">22. Movie recommendation  ✒ </h3>
+<h3 id="project22">22. Movie Recommendation  ✒ </h3>
 <p>Movies have been a source of entertainment, inspiration, and education for decades.However, with such a vast selection, it can be difficult to decide which movies to watch, particularly when considering the opinions of others. In order to understand the trend in movie preferences, build a predictive model using movie ratings on different genres, old/new movies.<p>
 <h4>👩‍💻 Dataset - </h4><p>https://www.kaggle.com/datasets/ulrikthygepedersen/more-movie-ratings<p>
 <h4>📌 Tasks - </h4>
@@ -317,7 +317,7 @@ MINOR PROJECTS - AI Club IGDTUW </h1> <br />
 <li>Can you identify the top-rated movies based on the average ratings across all genres? Can you create a list or plot to showcase the top-rated movies and their corresponding ratings?</li></ul> <br />
 
 
-<h3 id="project23">23. Smart Watch prices  ✒ </h3>
+<h3 id="project23">23. Smart Watch Prices  ✒ </h3>
 <p>The Smartwatch Price Dataset contains information about the features and prices of popular smartwatch models from various brands. The dataset includes columns such as Brand, Model, Operating System, Connectivity, Price (USD), etc. The dataset provides a comprehensive overview of the different smartwatches available in the market and can be used for various purposes such as price comparison, feature analysis, and market research. Create a model for the same.<p>
 <h4>👩‍💻 Dataset - </h4><p>https://www.kaggle.com/datasets/rkiattisak/smart-watch-prices<p>
 <h4>📌 Tasks - </h4>
@@ -367,7 +367,7 @@ MINOR PROJECTS - AI Club IGDTUW </h1> <br />
 
 
 
-<h3 id="project27">27. TED Talks Web-scraped dataset  ✒ </h3>
+<h3 id="project27">27. TED Talks Web-scraped Dataset  ✒ </h3>
 <p>TED Talks dataset for exploratory analysis containing information about speakers, events, youtube views,likes in different languages<p>
 <h4>👩‍💻 Dataset - </h4><p>https://www.kaggle.com/datasets/jeniagerasimov/ted-talks-info-dataset<p>
 <h4>📌 Tasks - </h4>
@@ -381,7 +381,7 @@ MINOR PROJECTS - AI Club IGDTUW </h1> <br />
 
 
 
-<h3 id="project28">28. Classification of Robots from their conversation  ✒ </h3>
+<h3 id="project28">28. Classification of Robots from their Conversation  ✒ </h3>
 <p> 5 Robots, named quite unexpectedly **0,1,2,3,4 **are having a uniform conversation, where each of them spits out a series of 10 numbers at a time in a round-robin fashion. The task is to train a model which can predict the robot when given the 10 numbers spoken by it, with a good accuracy. A log of a long conversation between these 5 robots has been given, this is your datasets.<p>
 <h4>👩‍💻 Dataset - </h4><p>https://www.kaggle.com/datasets/msk1097/classification-of-robots-from-their-conversation<p>
 <h4>📌 Tasks - </h4>
@@ -491,21 +491,23 @@ MINOR PROJECTS - AI Club IGDTUW </h1> <br />
 
 
 
-<h3 id="project36">36. Weather History Prediction   ✒ </h3>
-<p> Weather history visualization of a particular area has been given.<p>
-<h4>👩‍💻 Dataset - </h4><p>https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata<p>
+<h3 id="project36">36. Movie Success Prediction   ✒ </h3>
+<p>What can we say about the success of a movie before it is released? Are there certain companies (Pixar?) that have found a consistent formula?Given that major films costing over $100 million to produce can still flop, this question is more important than ever to the industry. Film aficionados might have different interests. Can we predict which films will be highly rated, whether or not they are a commercial success?
+
+This is a great place to start digging in to those questions, with data on the plot, cast, crew, budget, and revenues of several thousand films.<p>
+<h4>👩‍💻 Dataset - </h4><p>https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv<p>
 <h4>📌 Tasks - </h4>
 <ul>
-<li> Are there any inconsistent or incorrect data entries that need to be corrected or standardized?</li>
-<li>How can we visualize the distribution of movie revenue and rating in the dataset?</li>
-<li>Can we create visualizations to understand the relationship between different variables (e.g., genre, budget) and movie revenue or rating?</li>
-<li>How can we visualize the correlation between different features (e.g., budget, runtime) and movie revenue or rating?
+<li>Are there any inconsistent or incorrect data entries that need to be corrected or standardized?</li>
+<li>How can we visualize the distribution of movie revenue and runtime in the dataset?</li>
+<li>Can we create visualizations to understand the relationship between variables (popularity, budget) ?</li>
+<li>How can we visualize the correlation between features vote average and vote count ?
 </li>
-<li> Can we visualize the distribution of different genres in the dataset and their respective revenue and rating trends?</li></ul> <br />
+<li>What are the key insights you can derive from the dataset in terms of its structure, size, and basic statistics? Create a summary report .( hint: use pandas .describe() function ) , Also share your insights you learned by this report.</li></ul> <br />
 
 
 
-<h3 id="project37">37. Weather histoy    ✒ </h3>
+<h3 id="project37">37. Weather History Dataset  ✒ </h3>
 <p> Weather history visulisation of a periticuar area has been provided.<p>
 <h4>👩‍💻 Dataset - </h4><p>https://github.com/fivethirtyeight/data/blob/master/us-weather-history/KCLT.csv<p>
 <h4>📌 Tasks - </h4>
@@ -595,7 +597,7 @@ in a variable of type series (data structure). Print the first 10 rows after rem
 
 
 
-<h3 id="project43">43. Mechanical tools classification ✒ </h3>
+<h3 id="project43">43. Mechanical Tools Classification ✒ </h3>
 <p>Dataset contains images of tools like hammer, wrench, ropes, toolbox, gasoline can.<p>
 <h4>👩‍💻 Dataset - </h4><p>https://www.kaggle.com/datasets/salmaneunus/mechanical-tools-dataset<p>
 <h4>📌 Tasks - </h4>
