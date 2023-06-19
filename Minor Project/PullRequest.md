@@ -54,20 +54,20 @@ git push origin minorproject
 ## Step 6: Open a Pull Request
 Now that you have committed your changes to your forked repository's minorproject branch, it's time to submit it as a pull request to us for review.
 
-Ensure you are on the "minorproject" branch in your GitHub repository.
+* Ensure you are on the "minorproject" branch in your GitHub repository.
 
-On the repository page, you will see a message indicating that you are one commit ahead of the main branch.
+* On the repository page, you will see a message indicating that you are one commit ahead of the main branch.
 
-Look for the "Contribute" button (or a similar option) and click on it.
+* Look for the "Contribute" button (or a similar option) and click on it.
 
-From the dropdown menu, select "Open pull request."
+* From the dropdown menu, select "Open pull request."
 
-Make a pull request with < Your Roll no - Your Problem Statement Title > as the pull request title.
+* Make a pull request with < Your Roll no - Your Problem Statement Title > as the pull request title.
 
-Optionally, write a brief description elaborating on the modifications you made or any additional information you would like to share.
+* Optionally, write a brief description elaborating on the modifications you made or any additional information you would like to share.
 
-Review the changes and files that are being included in the pull request.
+* Review the changes and files that are being included in the pull request.
 
-Double-check that the "base" branch is set to the main branch.
+* Double-check that the "base" branch is set to the main branch.
 
-When you're ready, click on the "Create pull request" button to submit your pull request.
+* When you're ready, click on the "Create pull request" button to submit your pull request.
