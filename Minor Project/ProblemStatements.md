@@ -627,7 +627,7 @@ in a variable of type series (data structure). Print the first 10 rows after rem
 
 
 
-<h3 id="project45">45. Uber vs Lyft Datasett ✒ </h3>
+<h3 id="project45">45. Uber vs Lyft Dataset ✒ </h3>
 <p>Uber vs Lyft Dataset of Boston to compare the preference of customers based on price,weather, source and destination.<p>
 <h4>👩‍💻 Dataset - </h4><p>https://www.kaggle.com/datasets/brllrb/uber-and-lyft-dataset-boston-ma<p>
 <h4>📌 Tasks - </h4>
