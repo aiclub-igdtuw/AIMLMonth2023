@@ -1,9 +1,9 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       :   23475
 
-Student Name      :   < Your good name >
+Student Name      :   Adit Kesarwani
 
-Project Title     :   < Problem statement allotted to you >
+Project Title     :   Credit Card Fraud Detection
 
-Google Colab Link :   < View only link of your Google Colab Notebook >
+Google Colab Link :   paste your link here
 
-Summary(Optional) :   < Brief summary of your project >
+Summary(Optional) :   Accuracy , Result , findings etc.
