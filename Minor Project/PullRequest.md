@@ -72,6 +72,7 @@ Now that you have committed your changes to your forked repository's `minorproje
 
 * When you're ready, click on the "Create pull request" button to submit your pull request.
 
+</br>
 
-<h3>Submission demontration video- </h3>
+<h2>Submission demontration video- </h2>
 https://drive.google.com/file/d/12AXwiMD-pMBUACCjW_Wkbhwj0isXbVq2/view?usp=sharing
