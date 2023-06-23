@@ -42,7 +42,7 @@ MINOR PROJECTS - AI Club IGDTUW </h1> <br />
   <li><a href="#project36">Movie Success Prediction</a></li>
   <li><a href="#project37">Weather History Dataset</a></li>
   <li><a href="#project38">Customer Ad Clicks</a></li>
-  <li><a href="#project39">Global Temperature and Pollution</a></li>
+  <li><a href="#project39">Global Air Pollution</a></li>
   <li><a href="#project40">Red Wine Quality</a></li>
   <li><a href="#project41">Used Cars</a></li>
   <li><a href="#project42">Fetal Health</a></li>
@@ -537,17 +537,17 @@ in a variable of type series (data structure). Print the first 10 rows after rem
 
 
 
-<h3 id="project39">39. Global Temperature and Pollution    ✒ </h3>
-<p> Pollution and its impact on the environment are among the most significant concerns globally. Data science and machine learning can help us better understand how to tackle and solve that problem. you can use one of the dataset provided in the respository to do prediction.<p>
-<h4>👩‍💻 Dataset - </h4><p>https://github.com/OpenFloodAI/Climate-Change-Datasets<p>
+<h3 id="project39">39. Global Air Pollution    ✒ </h3>
+<p> Air Pollution is contamination of the indoor or outdoor environment by any chemical, physical or biological agent that modifies the natural characteristics of the atmosphere. Pollutants of major public health concern include particulate matter, carbon monoxide, ozone, nitrogen dioxide and sulfur dioxide. Outdoor and indoor air pollution cause respiratory and other diseases .
+<p>
+<h4>👩‍💻 Dataset - </h4><p>https://www.kaggle.com/datasets/hasibalmuzdadid/global-air-pollution-dataset<p>
 <h4>📌 Tasks - </h4>
 <ul>
-<li>Are there any missing values in the pollution dataset? How should these missing values be handled?</li>
-<li>Are there any duplicate entries in the dataset that need to be identified and removed?</li>
-<li>How can we visualize the distribution of pollution levels in the dataset across different regions or time periods?</li>
-<li>How can we visualize the correlation between different features (e.g., wind speed, particulate matter) and pollution levels?
-</li>
-<li>Can we visualize the temporal patterns of pollution levels over time using line plots or other suitable visualizations?
+<li>Show if there are any columns with missing values with their count.</li>
+<li>Plot the distplot of 'AQI Value' vs 'AQI Category'.(kind-'kde')</li>
+<li>Plot a stacked bar graph of 'Ozone AQI Value' vs 'AQI Category'.</li>
+<li>Show the list of cities without a stated country. Fill the missing columns with 'Unknown'.</li>
+<li>Plot the most represented countries in this dataset using a horizontal bar graph.
 </li></ul> <br />
 
 
