@@ -74,8 +74,8 @@ Now that you have committed your changes to your forked repository's `minorproje
 
 </br>
 
-<h2>Submission template (google colab notebook)- </h2>
+<h2>Submission Template (Google Colab Notebook)- </h2>
 https://colab.research.google.com/drive/1Ayd5GG4qyLplqfT_YTXQupqpPCqQwpVd?usp=sharing
 
-<h2>Submission demontration video- </h2>
+<h2>Submission Demonstration Video- </h2>
 https://drive.google.com/file/d/12AXwiMD-pMBUACCjW_Wkbhwj0isXbVq2/view?usp=sharing
