@@ -1,9 +1,9 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       :   23454
 
-Student Name      :   < Your good name >
+Student Name      :   Tanvi Bisht
 
-Project Title     :   < Problem statement allotted to you >
+Project Title     :   TED Talks Web Scraped Dataset
 
 Google Colab Link :   < View only link of your Google Colab Notebook >
 
-Summary(Optional) :   < Brief summary of your project >
+Summary(Optional) :  
