@@ -526,15 +526,18 @@ in a variable of type series (data structure). Print the first 10 rows after rem
 
 <h3 id="project38">38. Customer Ad Clicks    ✒ </h3>
 <p> We all have to deal with ads online – you’ve probably seen a few just in getting to this article. When it comes to ads, customer engagement is the top priority. The more clicks an ad gets, the higher the possibility that a customer will make a purchase.<p>
-<h4>👩‍💻 Dataset - </h4><p>https://www.kaggle.com/farhanmd29/predicting-customer-ad-clicks<p>
+<h4>👩‍💻 Dataset - </h4><p>https://www.kaggle.com/datasets/hiimanshuagarwal/advertising-ef<p>
 <h4>📌 Tasks - </h4>
 <ul>
-<li>Are there any missing values in the dataset related to ad data or customer engagement metrics? How should these missing values be handled?</li>
-<li>Are there any duplicate entries in the dataset that need to be identified and removed?</li>
-<li>Plot a histogram with Kernel density estimation for the 'Age' variable.</li>
-<li>How many unique countries are there in the dataset.
+<li>Are there any missing values in the dataset related to ad data or customer engagement metrics? How should these missing values be handled?
 </li>
-<li>How can we visualize the correlation between different features (e.g., ad placement, ad creative) and ad performance?
+<li> Are there any duplicate entries in the dataset that need to be identified and removed?
+</li>
+<li>What is the distribution of different demographic variables in the dataset (e.g., age, gender, country)?
+</li>
+<li>How are the numerical variables (e.g., "Daily Time Spent on Site," "Age," "Area Income") distributed? Are there any outliers?
+</li>
+<li> How does the average time spent on the website vary for different demographic groups?
 </li></ul> <br />
 
 
