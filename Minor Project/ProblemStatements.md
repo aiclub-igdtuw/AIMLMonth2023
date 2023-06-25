@@ -311,10 +311,10 @@ MINOR PROJECTS - AI Club IGDTUW </h1> <br />
 <h4>📌 Tasks - </h4>
 <ul>
 <li>What is the distribution of movie ratings in the dataset? Are the ratings normally distributed or skewed? Can you calculate the mean, median, and standard deviation of the ratings?</li>
-<li>How does the movie genre (e.g., Action, Animation, Comedy, Drama, Documentary, Romance) affect the movie ratings? Can you compare the average ratings for different genres using a suitable plot, such as a bar plot or boxplot?</li>
-<li> Is there any relationship between the movie budget and its rating? Can you calculate the correlation coefficient between these variables and determine if there is a significant relationship?</li>
+<li> How does the movie genre (e.g., Action, Animation, Comedy, Drama, Documentary, Romance) affect the movie ratings? Can you compare the average ratings for different genres using a suitable plot, such as a bar plot or boxplot?</li>
+<li>Is there any relationship between the movie duration and its rating? Can you calculate the correlation coefficient between these variables and determine if there is a significant relationship? </li>
 <li>Are there any significant differences in the average ratings between old and new movies? Can you compare the average ratings for movies released before a certain year (e.g., 2000) and movies released after that year?</li>
-<li>Can you identify the top-rated movies based on the average ratings across all genres? Can you create a list or plot to showcase the top-rated movies and their corresponding ratings?</li></ul> <br />
+<li>Can you identify the top-rated movies based on the average ratings across all genres? Can you create a list or plot to showcase the top-rated movies and their corresponding ratings?</li></ul> <br />
 
 
 <h3 id="project23">23. Smart Watch Prices  ✒ </h3>
