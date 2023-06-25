@@ -466,14 +466,16 @@ MINOR PROJECTS - AI Club IGDTUW </h1> <br />
 <h3 id="project34">34. Flowcast: Credit Card Approval Fraud Detection   ✒ </h3>
 <p> Fraud can take numerous forms, whether it’s a single stolen credit card or credit card details getting compromised by a merchant using tools like credit card skimming devices.This take-home project takes 1-2 hours to complete and asks you to create a model to determine if a credit card transaction is fraudulent.You are also required to document your solution by providing a clear and concise explanation of the methods you used, the assumptions you made about the data, and any other methods you considered.<p>
 <h4>👩‍💻 Dataset - </h4><p>https://www.interviewquery.com/takehomes/flowcast-1<p>
+  <p> Refer this who are facing trouble working on the dataset- https://colab.research.google.com/drive/16kVDxWgF5IKQTM6iPgah8OKv_XIwVCpk?usp=sharing </p>
 <h4>📌 Tasks - </h4>
 <ul>
-<li> Are there any inconsistent or incorrect data entries that need to be corrected or standardized?</li>
-<li> How can we visualize the distribution of fraudulent and non-fraudulent credit card transactions in the dataset? </li>
-<li>Can we create visualizations to understand the relationship between different variables (e.g., transaction amount, transaction type) and the likelihood of fraud?</li>
-<li>How can we visualize the correlation between different features or variables and identify any significant relationships?
+<li> Find the outliers in column "cardLast4Digits".(hint: do all data in the column have length 4)</li>
+<li> Find the ids which entered wrong CVV while doing transaction.( compare and find from columns cardCVV and entered CVV) </li>
+<li>Which type of plot is best to visualise general range of transaction. State and plot the column Transaction Amount
 </li>
-<li> Can we visualize the distribution of different features for fraudulent and non-fraudulent transactions separately to identify patterns?</li></ul> <br />
+<li>Is there any transaction which is greater than credit card limit?
+</li>
+<li> Find and visualise the relation between currentBalance and availableMoney</li></ul> <br />
 
 
 
