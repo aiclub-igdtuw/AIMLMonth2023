@@ -1,9 +1,7 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       :   23341
 
-Student Name      :   < Your good name >
+Student Name      :   Sakshi Meena
 
-Project Title     :   < Problem statement allotted to you >
+Project Title     :   PCOS Diagnostic
 
-Google Colab Link :   < View only link of your Google Colab Notebook >
-
-Summary(Optional) :   < Brief summary of your project >
+Google Colab Link :  https://colab.research.google.com/drive/1sSX31Yx3uYkfaZ5AwCktr32dgbL_hXeM?usp=sharing
