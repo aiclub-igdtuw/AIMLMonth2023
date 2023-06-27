@@ -241,7 +241,7 @@ MINOR PROJECTS - AI Club IGDTUW </h1> <br />
 <li>How does the distribution of the "Operating Profit Rate" differ between bankrupt and non-bankrupt companies? Can you create a suitable plot to visualize this difference?</li>
 <li>Can you detect any anomalies or outliers in the dataset that could potentially impact the prediction of bankruptcy status? How would you handle such outliers during the modeling phase?</li>
 <li>Perform feature selection or dimensionality reduction techniques to identify the most relevant features for predicting bankruptcy. Which indicators show the strongest association with bankruptcy status?</li>
-<li>Are there any categorical variables in the dataset, such as industry classification or a binary "Net Income Flag"? How can you encode them into numerical values for analysis? Can you explain the importance of encoding categorical variables and propose suitable encoding methods for variables like "Liability-Assets Flag" and "Net Income Flag"?</li></ul> <br />
+<li>Among the provided financial ratios, which ones exhibit the strongest correlation with the likelihood of bankruptcy? Are there any ratios that consistently differ between bankrupt and non-bankrupt companies?</li></ul> <br />
 
 
 <h3 id="project17">17. Credit Card Approval Prediction  ✒ </h3>
