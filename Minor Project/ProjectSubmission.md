@@ -1,9 +1,9 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       :   23171
 
-Student Name      :   < Your good name >
+Student Name      :   Jyoti
 
-Project Title     :   < Problem statement allotted to you >
+Project Title     :   Heart Failure Prediction
 
-Google Colab Link :   < View only link of your Google Colab Notebook >
+Google Colab Link :   https://colab.research.google.com/drive/1Yj9HkSO8LCTL1ZilDBh0Zll4Us552cD5?usp=sharing
 
-Summary(Optional) :   < Brief summary of your project >
+Summary(Optional) :   Analysis of heart failure prediction dataset: In this project, a dataset with patient attributes is preprocessed, relevant features are selected, and a machine learning model (e.g. logistic regression) is trained and evaluated using metrics like accuracy. The trained model is then deployed for heart failure prediction.
