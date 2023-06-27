@@ -71,8 +71,8 @@ MINOR PROJECTS - AI Club IGDTUW </h1> <br />
 <ul>
 <li>Are there any missing values and duplicate instances in the dataset? If so, how do you plan to handle them?</li>
 <li>What is the distribution of the disease burden (DALYs) across different sub-categories of disease or injury?</li>
-<li>How does the disease burden vary across different countries  or regions and years? Are there any significant trends or patterns? How does the disease burden vary across different demographic factors, such as age groups or gender?</li>
-<li>Can we identify any outliers or extreme values in the disease burden data? How do they impact the overall analysis? Perform required visualization task.</li>
+<li>How does the disease burden vary across different countries or regions and years? Are there any significant trends or patterns?</li>
+<li>Can we identify any outliers or extreme values in the disease burden data? How do they impact the overall analysis? Perform the required visualization task.</li>
 <li>Perform preprocessing and normalization on the data? How data normalization will help you in model training and prediction.</li></ul><br />
 
 
