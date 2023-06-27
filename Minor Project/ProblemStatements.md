@@ -239,9 +239,10 @@ MINOR PROJECTS - AI Club IGDTUW </h1> <br />
 <ul>
 <li>What is the distribution of bankruptcy and non-bankruptcy classes in the dataset? Are the classes balanced or imbalanced?</li>                             
 <li>How does the distribution of the "Operating Profit Rate" differ between bankrupt and non-bankrupt companies? Can you create a suitable plot to visualize this difference?</li>
-<li>Can you detect any anomalies or outliers in the dataset that could potentially impact the prediction of bankruptcy status? How would you handle such outliers during the modeling phase?</li>
-<li>Perform feature selection or dimensionality reduction techniques to identify the most relevant features for predicting bankruptcy. Which indicators show the strongest association with bankruptcy status?</li>
-<li>Among the provided financial ratios, which ones exhibit the strongest correlation with the likelihood of bankruptcy? Are there any ratios that consistently differ between bankrupt and non-bankrupt companies?</li></ul> <br />
+<li>plot a bar graph to show how many companies are bankrupt or not(already asked in first ques)
+</li>
+<li>Plot a countplot for Liability Assets Flag(use Bankrupt column for colour encoding)</li>
+<li>Plot a heatmap without using the bankrupt column(using the seaborn lib)</li></ul> <br />
 
 
 <h3 id="project17">17. Credit Card Approval Prediction  ✒ </h3>
