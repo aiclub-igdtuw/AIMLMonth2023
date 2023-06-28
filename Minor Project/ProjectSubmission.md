@@ -1,9 +1,9 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       :   23056
 
-Student Name      :   < Your good name >
+Student Name      :   ANJALI
 
-Project Title     :   < Problem statement allotted to you >
+Project Title     :   Factors Affecting Campus Placement
 
-Google Colab Link :   < View only link of your Google Colab Notebook >
+Google Colab Link :   https://colab.research.google.com/drive/1Ku3oCB4ZpNSyTM70m6pZF6kqWZeBG3IO?usp=sharing
 
-Summary(Optional) :   < Brief summary of your project >
+Summary(Optional) :   Analyzing the dataset of Factors Affecting Campus Placement. Processing the data and creating a model.
