@@ -1,9 +1,9 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       :   < 23447 >
 
-Student Name      :   < Your good name >
+Student Name      :   < Tamanna kukreja >
 
-Project Title     :   < Problem statement allotted to you >
+Project Title     :   < ted talks>
 
-Google Colab Link :   < View only link of your Google Colab Notebook >
+Google Colabotary  :   https://colab.research.google.com/drive/1rSc6IGw5x12bvVPEPbnFnWtullOkBtrW?usp=sharing
 
-Summary(Optional) :   < Brief summary of your project >
+Summary(Optional)  >  my project is about ted talks.It tells and cover brief of model score,results and eda
