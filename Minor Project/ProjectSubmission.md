@@ -1,9 +1,8 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       :   23229
 
-Student Name      :   < Your good name >
+Student Name      :   Manya Chandna
 
-Project Title     :   < Problem statement allotted to you >
+Project Title     :  Movie Success prediction
 
-Google Colab Link :   < View only link of your Google Colab Notebook >
-
+Google Colab Link :  https://colab.research.google.com/drive/1OR3ZNoMEaZqMhDG3236lHc87mlIdk0OJ?usp=sharing
 Summary(Optional) :   < Brief summary of your project >
