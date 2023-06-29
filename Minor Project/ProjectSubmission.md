@@ -8,7 +8,10 @@ Google Colab Link :   https://colab.research.google.com/drive/14j7vr7jdUDLyXfamp
 
 Summary(Optional) :  Visualisation of frequency trends in winning numbers through bar plot, heat map showing correlation between multipliers and winning numbers
 
-I used LSTM(Time series Analysis model) thought it was not taught in the class along with fine tuning until project submission but got accuracy of 99%
+I used LSTM(Time series Analysis model) thought it was not taught in the class along with fine tuning until project submission.
+
+accuracy of 99%
+
 Linear regression model to predict the luckiest number .
 
 Also used Random Forest classifier model(not taught in class) to make predictions but both have low accuracy because of random nature of powerball datasets. 
