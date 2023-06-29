@@ -1,9 +1,9 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       :   23492
 
-Student Name      :   < Your good name >
+Student Name      :   Uday Mudgal
 
-Project Title     :   < Problem statement allotted to you >
+Project Title     :   IIT and NIT Colleges Admission Criteria 
 
-Google Colab Link :   < View only link of your Google Colab Notebook >
+Google Colab Link :   [< View only link of your Google Colab Notebook >](https://colab.research.google.com/drive/1-FiYZCOV2hfoxquKPqOrQoy58TYPOTrQ)https://colab.research.google.com/drive/1-FiYZCOV2hfoxquKPqOrQoy58TYPOTrQ
 
-Summary(Optional) :   < Brief summary of your project >
+Summary(Optional) :   Mean Absolute Error
