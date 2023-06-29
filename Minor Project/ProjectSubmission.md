@@ -1,8 +1,8 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       :   23271
 
-Student Name      :   < Your good name >
+Student Name      :   Palak Mangla
 
-Project Title     :   < Problem statement allotted to you >
+Project Title     :   Credit Card Approval Prediction (last year's)
 
 Google Colab Link :   < View only link of your Google Colab Notebook >
 
