@@ -1,9 +1,8 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       :   < 23162 >
+Student Name      :   < Jeevisha Shukla >
 
-Student Name      :   < Your good name >
+Project Title     :   < Honda_Car Model Resale >
 
-Project Title     :   < Problem statement allotted to you >
+Google Colab Link :   < https://colab.research.google.com/drive/1TWxRmxmffrZdsmCR5b6U3y6uSNeWSLQP?usp=sharing >
 
-Google Colab Link :   < View only link of your Google Colab Notebook >
-
-Summary(Optional) :   < Brief summary of your project >
+Summary(Optional) :   < Minor project analyzing the data of honda cars. >
