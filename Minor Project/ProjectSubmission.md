@@ -1,9 +1,7 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       :   23476
 
-Student Name      :   < Your good name >
+Student Name      :   Varda Mahajan
 
-Project Title     :   < Problem statement allotted to you >
+Project Title     :   Fetal Health 
 
-Google Colab Link :   < View only link of your Google Colab Notebook >
-
-Summary(Optional) :   < Brief summary of your project >
+Google Colab Link :   https://colab.research.google.com/drive/1DWave6NhMJeyz6OPo6BzVOszdiIBKUHv?usp=sharing
