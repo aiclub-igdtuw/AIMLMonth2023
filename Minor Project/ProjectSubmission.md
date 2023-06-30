@@ -1,9 +1,9 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       :   23193
 
-Student Name      :   < Your good name >
+Student Name      :   Khushi Kankheria
 
-Project Title     :   < Problem statement allotted to you >
+Project Title     :   Body Fat Prediction
 
-Google Colab Link :   < View only link of your Google Colab Notebook >
+Google Colab Link :   https://colab.research.google.com/drive/1Q8DV_5VZFOmgAByElAksGeWzc55VPyLm?usp=drive_link
 
-Summary(Optional) :   < Brief summary of your project >
+Summary(Optional) :    After prediction of the predicted body fat and the real body fat the RMSE was 0.61 and MAE is 0.45
