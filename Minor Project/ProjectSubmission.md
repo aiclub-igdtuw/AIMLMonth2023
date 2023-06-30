@@ -1,9 +1,9 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       :  23005
 
-Student Name      :   < Your good name >
+Student Name      :  Aakriti Tyagi
 
-Project Title     :   < Problem statement allotted to you >
+Project Title     :  Twitter Sentiment Analysis
 
-Google Colab Link :   < View only link of your Google Colab Notebook >
+Google Colab Link :  https://colab.research.google.com/drive/1dV2W9otG8nVolXtFoDIwLfsDljG0yzLZ?usp=sharing
 
 Summary(Optional) :   < Brief summary of your project >
