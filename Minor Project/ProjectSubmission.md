@@ -1,9 +1,9 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       :    23457
 
-Student Name      :   < Your good name >
+Student Name      :   Tanya Mishra
 
-Project Title     :   < Problem statement allotted to you >
+Project Title     :   IIT and NIT Colleges Admission Criteria
 
 Google Colab Link :   < View only link of your Google Colab Notebook >
 
-Summary(Optional) :   < Brief summary of your project >
+Summary(Optional) :   The admission criteria is not that good. The low rankers also gets admission in these top institutes via quota admission.
