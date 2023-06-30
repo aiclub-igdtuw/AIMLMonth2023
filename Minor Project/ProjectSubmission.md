@@ -1,9 +1,9 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       :   < 23429 >
 
-Student Name      :   < Your good name >
+Student Name      :   < Sparshita Singh >
 
-Project Title     :   < Problem statement allotted to you >
+Project Title     :   < Titanic Dataset >
 
-Google Colab Link :   < View only link of your Google Colab Notebook >
+Google Colab Link :   < https://colab.research.google.com/drive/1c0zEKVFImXNFn3iaUG5VWr_R5HYDDcoM?usp=sharing >
 
-Summary(Optional) :   < Brief summary of your project >
+Summary(Optional) :   < Performed an EDA analysis on titanic dataset and did logistic regression >
