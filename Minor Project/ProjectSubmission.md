@@ -1,9 +1,9 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       :   23131
 
-Student Name      :   < Your good name >
+Student Name      :   Gunika Goyal
 
-Project Title     :   < Problem statement allotted to you >
+Project Title     :   Iris Flower Dataset
 
-Google Colab Link :   < View only link of your Google Colab Notebook >
+Google Colab Link :   https://colab.research.google.com/drive/1HAh1cv8VfmowTKzjXZQmPKhXv1P3XPVv?usp=sharing
 
-Summary(Optional) :   < Brief summary of your project >
+Summary(Optional) :   Accuracy of the dataset is found to be 96.6%, macro average score is 0.96 and weighted average of all are 0.97
