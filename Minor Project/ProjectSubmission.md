@@ -2,7 +2,7 @@ Roll Number       :   23147
 
 Student Name      :   ILLA
 
-Project Title     :  stroke prediction dataset
+Project Title     :  stroke prediction 
 
 Google Colab Link :   https://colab.research.google.com/drive/1HNbIOR_i8x_LF9MSzfteGLyExfGarh6I?usp=sharing
 
