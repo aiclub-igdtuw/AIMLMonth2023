@@ -4,5 +4,4 @@ Student Name      :   < Vrinda Goel >
 
 Project Title     :   < Mushroom Classification >
 
-Google Colab Link :   < View only link of your Google Colab Notebook >
-
+Google Colab Link :   < https://colab.research.google.com/drive/1leJrxGKHiWfwfVVKzwclhJZgYlwekPFP?usp=sharing >
