@@ -1,9 +1,7 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       :   < 23485 >
 
-Student Name      :   < Your good name >
+Student Name      :   < Vrinda Goel >
 
-Project Title     :   < Problem statement allotted to you >
+Project Title     :   < Mushroom Classification >
 
-Google Colab Link :   < View only link of your Google Colab Notebook >
-
-Summary(Optional) :   < Brief summary of your project >
+Google Colab Link :   < https://colab.research.google.com/drive/1leJrxGKHiWfwfVVKzwclhJZgYlwekPFP?usp=sharing >
