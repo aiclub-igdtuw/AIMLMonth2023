@@ -1,9 +1,7 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       :   23067
 
-Student Name      :   < Your good name >
+Student Name      :   Anshika Yadav
 
-Project Title     :   < Problem statement allotted to you >
+Project Title     :   Employee Attrition
 
-Google Colab Link :   < View only link of your Google Colab Notebook >
-
-Summary(Optional) :   < Brief summary of your project >
+Google Colab Link :   https://colab.research.google.com/drive/1kXa_JLyTRyrAn9A7uAFnTz4KqK8tMSMr?usp=sharing
