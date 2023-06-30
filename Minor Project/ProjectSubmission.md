@@ -1,9 +1,9 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       :   23356
 
-Student Name      :   < Your good name >
+Student Name      :   Sania Saini
 
-Project Title     :   < Problem statement allotted to you >
+Project Title     :   Weather History
 
-Google Colab Link :   < View only link of your Google Colab Notebook >
+Google Colab Link :   https://colab.research.google.com/drive/1sjn-Wo28aZNQL75bSTXYzi9GjTE_aI9W?usp=sharing
 
-Summary(Optional) :   < Brief summary of your project >
+Summary(Optional) :   Minor project on US Weather History data.
