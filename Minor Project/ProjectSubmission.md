@@ -1,9 +1,9 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       :   23362
 
-Student Name      :   < Your good name >
+Student Name      :   Saumya Sharma
 
-Project Title     :   < Problem statement allotted to you >
+Project Title     :   Weather History Dataset
 
-Google Colab Link :   < View only link of your Google Colab Notebook >
+Google Colab Link :   N/A
 
-Summary(Optional) :   < Brief summary of your project >
+Summary(Optional) :   Provided in README of jupyter notebook
