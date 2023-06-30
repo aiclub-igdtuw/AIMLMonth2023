@@ -1,9 +1,9 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       :   <23144 >
 
-Student Name      :   < Your good name >
+Student Name      :   < Himanshi Verma >
 
-Project Title     :   < Problem statement allotted to you >
+Project Title     :   < Stroke Prediction Dataset >
 
-Google Colab Link :   < View only link of your Google Colab Notebook >
+Google Colab Link :   < https://colab.research.google.com/drive/1fZmXc3gAwurUszAY_4EaVLV7au_ejro0?usp=sharing >
 
-Summary(Optional) :   < Brief summary of your project >
+Summary(Optional) :   < The dataset contains patient information, and the task is to develop a model that can accurately classify patients >
