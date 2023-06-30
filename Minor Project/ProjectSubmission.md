@@ -1,9 +1,9 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       : 23426
 
-Student Name      :   < Your good name >
+Student Name      : Soumya Gupta
 
-Project Title     :   < Problem statement allotted to you >
+Project Title     : Powerball Lottery Winning Numbers
 
-Google Colab Link :   < View only link of your Google Colab Notebook >
+Google Colab Link : Project has been done on Jupyter Notebook
 
-Summary(Optional) :   < Brief summary of your project >
+Summary(Optional) : The above project has been done using regression with root mean_squared error equals to approx. 9
