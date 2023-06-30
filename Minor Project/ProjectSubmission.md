@@ -1,9 +1,9 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       :    23233 
 
-Student Name      :   < Your good name >
+Student Name      :   Mehak Sharma
 
-Project Title     :   < Problem statement allotted to you >
+Project Title     :   Stellar Classification
 
-Google Colab Link :   < View only link of your Google Colab Notebook >
+Google Colab Link :   https://colab.research.google.com/drive/1G1M4Ape7fc6Dldz8FDxN1MZJndf4RWDo?usp=sharing
 
-Summary(Optional) :   < Brief summary of your project >
+Summary(Optional) :   A model to classify a stellar object on basis of 17 features into GALAXY, STAR OR QSO.
