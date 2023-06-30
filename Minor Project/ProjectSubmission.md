@@ -1,9 +1,9 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       :   23400
 
-Student Name      :   < Your good name >
+Student Name      :  Shweta Tyagi
 
-Project Title     :   < Problem statement allotted to you >
+Project Title     :   Movie Recommendation System
 
-Google Colab Link :   < View only link of your Google Colab Notebook >
+Google Colab Link :   https://colab.research.google.com/drive/1Zp1hm3nlvmvbDnzk_5l9Dlxb0T9eqshy?usp=sharing
 
-Summary(Optional) :   < Brief summary of your project >
+Summary(Optional) :   Movie Recommendation, with dataset provided that includes movies from 7 different genres along with its rating, that demonstrates audience reception. 
