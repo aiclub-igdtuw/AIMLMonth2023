@@ -1,9 +1,9 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       :   23206
 
-Student Name      :   < Your good name >
+Student Name      :   Kusum Kumari
 
-Project Title     :   < Problem statement allotted to you >
+Project Title     :   Cirrohsis Prediction
 
-Google Colab Link :   < View only link of your Google Colab Notebook >
+Google Colab Link : https://colab.research.google.com/drive/1L39bd2rDwjpvWtL-vS0nId1BiNM_qsZ0?usp=sharing
 
-Summary(Optional) :   < Brief summary of your project >
+Summary(Optional) :   accuracy of our model is 0.011
