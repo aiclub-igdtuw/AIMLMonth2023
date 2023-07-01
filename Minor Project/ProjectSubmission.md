@@ -1,9 +1,9 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       :   23283
 
-Student Name      :   < Your good name >
+Student Name      :   Praggya Verma
 
-Project Title     :   < Problem statement allotted to you >
+Project Title     :   Credit Card Approval Prediction (last year's)
 
-Google Colab Link :   < View only link of your Google Colab Notebook >
+Google Colab Link :   Minor Project on Jupyter Notebook .ipynb
 
-Summary(Optional) :   < Brief summary of your project >
+Summary(Optional) :   Minor Project is based on the Credit Card dataset (given files application.csv and credit.csv) Task 1 involved EDA tasks and Task 2 involved classification / regression related tasks.
