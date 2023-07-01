@@ -1,9 +1,9 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       :   23115
 
-Student Name      :   < Your good name >
+Student Name      :   DEPANSHU RANAKOTI
 
-Project Title     :   < Problem statement allotted to you >
+Project Title     :   Breast Cancer Prediction 
 
-Google Colab Link :   < View only link of your Google Colab Notebook >
+Google Colab Link :  juptyer notebook file is attached.
 
-Summary(Optional) :   < Brief summary of your project >
+Summary(Optional) :   In this breast cancer prediction dataset ,I have performed various tasts and as a result here are my few analysis on this dataset. It is an imbalanced dataset, there are no categorical values in it, we can observe that 'MEAN_RADIUS' and 'MEAN_PERIMETER' are highly correlated, 'MEAN_RADIUS' and 'MEAN_AREA' are highly correlated,'MEAN_PERIMETER' and 'MEAN_AREA' are highly correlated. Thus, multicollinearity is present.
