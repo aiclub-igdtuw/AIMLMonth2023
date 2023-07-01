@@ -1,9 +1,9 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       : Roll no. allotted for this internship- 23374
+                       
+Student Name      :   Shivangi Singh
 
-Student Name      :   < Your good name >
+Project Title     : Global Air Pollution 
 
-Project Title     :   < Problem statement allotted to you >
+Google Colab Link : https://colab.research.google.com/drive/1Ghi5S8MOFP4Rw_DsWVWrhQq3PBXrurmI 
 
-Google Colab Link :   < View only link of your Google Colab Notebook >
-
-Summary(Optional) :   < Brief summary of your project >
+Summary(Optional) :  using the dataset provided to analyse the parameters of air pollution of different regions and presenting it in a graphical form
