@@ -1,9 +1,9 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       :   23198
 
-Student Name      :   < Your good name >
+Student Name      :   kirti saini
 
-Project Title     :   < Problem statement allotted to you >
+Project Title     :   Body fat prediction
 
-Google Colab Link :   < View only link of your Google Colab Notebook >
+Google Colab Link :   https://colab.research.google.com/drive/1NjPGkycJbc_Y2v6y78DqLJJNX7onlpPu?authuser=0#scrollTo=FWRUtEdoP_md
 
 Summary(Optional) :   < Brief summary of your project >
