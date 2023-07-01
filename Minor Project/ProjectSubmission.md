@@ -1,9 +1,9 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       :   23117
 
-Student Name      :   < Your good name >
+Student Name      :   Devansh Chhabra
 
-Project Title     :   < Problem statement allotted to you >
+Project Title     :   Iris Flower Dataset
 
-Google Colab Link :   < View only link of your Google Colab Notebook >
+Google Colab Link :   https://colab.research.google.com/drive/19AYgJsMHm3A-gbJAAtvRNCtvqDn4eK4c?usp=sharing
 
-Summary(Optional) :   < Brief summary of your project >
+Summary(Optional) :   This project involves exploring the Iris flower dataset through EDA, preprocessing the data, selecting and training a machine learning model, evaluating its performance, and making predictions.
