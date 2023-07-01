@@ -1,9 +1,9 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       :   23155
 
-Student Name      :   < Your good name >
+Student Name      :   Ishita Yadav
 
-Project Title     :   < Problem statement allotted to you >
+Project Title     :   Stroke Prediction Dataset
 
-Google Colab Link :   < View only link of your Google Colab Notebook >
+Google Colab Link :   https://colab.research.google.com/drive/1pdmctbBMHzJk3V8h35NmtGogdI6HrqzV?usp=sharing
 
-Summary(Optional) :   < Brief summary of your project >
+Summary(Optional) :  In this AI/ML project, we will use a stroke prediction dataset to create a computer program that can predict stroke risks based on factors such as age, gender, BMI, smoking status, work type, marital status, residence type, hypertension, and heart disease. The program aims to help identify individuals who may be at a higher risk of having a stroke, improving early detection and prevention efforts.
