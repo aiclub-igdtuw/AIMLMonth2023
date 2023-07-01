@@ -1,12 +1,12 @@
-Roll Number       :   <23006 >
+Roll Number       :   23006 
 
-Student Name      :   < Aanya Singh Dhaka >
+Student Name      :   Aanya Singh Dhaka 
 
-Project Title     :   < Twitter Sentiment Analysis >
+Project Title     :  Twitter Sentiment Analysis
 
-Google Colab Link :   <https://colab.research.google.com/drive/1wzDaD23s6K5I5R2K6nMqSpc3lX9CL6Mz?usp=sharing>
+Google Colab Link :  https://colab.research.google.com/drive/1wzDaD23s6K5I5R2K6nMqSpc3lX9CL6Mz?usp=sharing
 
-Summary(Optional) :   < This minor project focused on sentiment analysis using the Sentiment140 dataset, which contains tweets labeled with sentiment values. The objective was to develop a model that could predict the sentiment of a given tweet or sentence.
+Summary: This minor project focused on sentiment analysis using the Sentiment140 dataset, which contains tweets labeled with sentiment values. The objective was to develop a model that could predict the sentiment of a given tweet or sentence.
 
 The project involved several essential steps. Firstly, the dataset was preprocessed to clean the text and remove any irrelevant information or noise. Next, feature engineering was applied to represent the text using the Bag-of-Words (BoW) approach, which transformed the text into a numerical representation.
 
@@ -19,4 +19,4 @@ Once the model was trained and fine-tuned, it was ready for predictions. By prov
 By running the model on any tweet or sentence of choice, one could obtain the sentiment prediction as a numerical value, making it possible to classify the sentiment as negative, positive, or neutral.
 
 **In summary, this minor project successfully implemented sentiment analysis using the Sentiment140 dataset. The trained model allowed users to input their own tweets or sentences and receive sentiment predictions in the form of numerical values, enabling classification into negative, positive, or neutral
-sentiments.** >
+sentiments.**
