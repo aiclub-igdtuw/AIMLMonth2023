@@ -1,9 +1,8 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       : 23236
 
-Student Name      :   < Your good name >
+Student Name      : Mitali Rani
 
-Project Title     :   < Problem statement allotted to you >
+Project Title     : Stellar Classification
 
-Google Colab Link :   < View only link of your Google Colab Notebook >
+Google Colab Link : https://colab.research.google.com/drive/1TIfuZhBAMV2wzJyHM3brGtK5LVrSTPTV?usp=sharing
 
-Summary(Optional) :   < Brief summary of your project >
