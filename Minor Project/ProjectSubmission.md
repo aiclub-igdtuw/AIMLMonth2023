@@ -1,9 +1,8 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       :   23428
+Student Name      :   Sowmya Emani
 
-Student Name      :   < Your good name >
+Project Title     :   Powerball Lottery Winning
 
-Project Title     :   < Problem statement allotted to you >
+Google Colab Link :   https://colab.research.google.com/drive/1wZBGrqYM6rjUttKRmeJ4RHOB0u7bDAcD#scrollTo=Mab-HfmkRI9L
 
-Google Colab Link :   < View only link of your Google Colab Notebook >
-
-Summary(Optional) :   < Brief summary of your project >
+Summary(Optional) :   
