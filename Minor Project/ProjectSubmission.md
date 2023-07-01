@@ -1,9 +1,9 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       :   < 23250 >
 
-Student Name      :   < Your good name >
+Student Name      :   < NAVYA JAIN >
 
-Project Title     :   < Problem statement allotted to you >
+Project Title     :   < HEPATITIS C PREDICTION >
 
-Google Colab Link :   < View only link of your Google Colab Notebook >
+Google Colab Link :   < https://colab.research.google.com/drive/1_YBqwQsl_9KgzFTisjIMg9kGLlVzfDaH?usp=drive_link >
 
 Summary(Optional) :   < Brief summary of your project >
