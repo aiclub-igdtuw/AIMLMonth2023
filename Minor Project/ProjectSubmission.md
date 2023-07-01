@@ -1,9 +1,9 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       :   <23039>
 
-Student Name      :   < Your good name >
+Student Name      :   < amrit janjuha >
 
-Project Title     :   < Problem statement allotted to you >
+Project Title     :   < gender development index>
 
-Google Colab Link :   < View only link of your Google Colab Notebook >
+Google Colab Link :   < https://colab.research.google.com/drive/1KBwxbz5JAkXLfIxmUJ3qPaZXPI3Zv0Pb?authuser=2#scrollTo=WNy3P4C2wdgh >
 
-Summary(Optional) :   < Brief summary of your project >
+Summary(Optional) :   < >
