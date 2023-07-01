@@ -1,9 +1,9 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       :   23392
 
-Student Name      :   < Your good name >
+Student Name      :   Shruti Goyal
 
-Project Title     :   < Problem statement allotted to you >
+Project Title     :   Movie Recommendation
 
-Google Colab Link :   < View only link of your Google Colab Notebook >
+Google Colab Link :   https://colab.research.google.com/drive/1dJyAbhZpVmfoBzDRPcidWaVPEVcDWSP0?usp=sharing
 
-Summary(Optional) :   < Brief summary of your project >
+Summary(Optional) :   The dataset contains movie rankings, duration, release year, genres, etc., and has been analyzed thoroughly. To improve model performance, additional analysis, experimentation with regression techniques, and consideration of alternative models are suggested for better movie rating predictions.
