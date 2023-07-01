@@ -1,9 +1,7 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       :   23440
+Student Name      :   Sunishka
 
-Student Name      :   < Your good name >
+Project Title     :   26. Powerball Lottery Winning Numbers 
 
-Project Title     :   < Problem statement allotted to you >
+Google Colab Link :   https://colab.research.google.com/drive/1Ro6KBpard2oztYgMHS_4gw1dNbGR-GqN?usp=sharing
 
-Google Colab Link :   < View only link of your Google Colab Notebook >
-
-Summary(Optional) :   < Brief summary of your project >
