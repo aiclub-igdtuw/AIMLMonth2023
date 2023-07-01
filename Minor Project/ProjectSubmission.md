@@ -1,9 +1,9 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       :   < 23483 >
 
-Student Name      :   < Your good name >
+Student Name      :   < vradhi aggarwal >
 
-Project Title     :   < Problem statement allotted to you >
+Project Title     :   < Used Cars >
 
-Google Colab Link :   < View only link of your Google Colab Notebook >
+Google Colab Link :   < https://colab.research.google.com/drive/1TQXAvMHLlcfIje1-RFXTv3TnPGEUrKuo?usp=sharing >
 
-Summary(Optional) :   < Brief summary of your project >
+Summary(Optional) :   < In this project I have made a relation between car age and its fuel efficiency. >
