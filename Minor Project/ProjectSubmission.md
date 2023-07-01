@@ -1,9 +1,9 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       :  23405
 
-Student Name      :   < Your good name >
+Student Name      :   Simran Solanki
 
-Project Title     :   < Problem statement allotted to you >
+Project Title     :  Smart warch price
 
-Google Colab Link :   < View only link of your Google Colab Notebook >
+Google Colab Link :  https://www.kaggle.com/code/simran125solanki/notebooka8c751687e/edit
 
-Summary(Optional) :   < Brief summary of your project >
+Summary(Optional) :  
