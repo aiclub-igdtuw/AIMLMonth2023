@@ -1,9 +1,9 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       :  23013
 
-Student Name      :   < Your good name >
+Student Name      :   Aarushi Singh
 
-Project Title     :   < Problem statement allotted to you >
+Project Title     :   TWITTER SENTIMENT ANALYSIS
 
-Google Colab Link :   < View only link of your Google Colab Notebook >
+Google Colab Link :   https://colab.research.google.com/drive/1a2oN9OJBy7I7cs5GPP_lKGv0kA5k5nmV?usp=sharing
 
-Summary(Optional) :   < Brief summary of your project >
+Summary(Optional) :   Twitter sentiment analysis automatically analyzes tweets to determine the sentiment expressed, such as positive, negative, or neutral. It helps understand public opinion, customer feedback, and brand perception on Twitter. By applying machine learning techniques, tweets are classified into sentiment categories. First of all we are training the model then after training we are using it to predict the sentiment of the tweet.
