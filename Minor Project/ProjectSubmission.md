@@ -1,9 +1,7 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       :   23009
+Student Name      :   Aarushi Jain
 
-Student Name      :   < Your good name >
+Project Title     :   Honda Cars Model Resale
 
-Project Title     :   < Problem statement allotted to you >
-
-Google Colab Link :   < View only link of your Google Colab Notebook >
-
-Summary(Optional) :   < Brief summary of your project >
+Google Colab Link :   https://colab.research.google.com/drive/1MSzRAQxqvipo5H0sn0FBPzVVSUQLJI2x?usp=sharing
+Summary(Optional) :   Result- Using Decision Tree Regressor Test data Score-54.09% and Training Data Score- 97.78%
