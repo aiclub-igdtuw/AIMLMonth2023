@@ -1,9 +1,9 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       :    23406 
 
-Student Name      :   < Your good name >
+Student Name      :    Sneha
 
-Project Title     :   < Problem statement allotted to you >
+Project Title     :   Smart watch prices
 
-Google Colab Link :   < View only link of your Google Colab Notebook >
+Google Colab Link :   https://colab.research.google.com/drive/1eMjPpZBAE7MuNNyKayl5BgdEGtPw7OWK#scrollTo=XlPcs9bcMQsE
 
 Summary(Optional) :   < Brief summary of your project >
