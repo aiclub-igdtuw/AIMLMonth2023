@@ -1,9 +1,9 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       :   <23071>
 
-Student Name      :   < Your good name >
+Student Name      :   <Anushka>
 
-Project Title     :   < Problem statement allotted to you >
+Project Title     :   <Employee_Attrition>
 
-Google Colab Link :   < View only link of your Google Colab Notebook >
+Google Colab Link :   <https://colab.research.google.com/drive/1icydD_WYPociXseRLhYs8ReqNwFiVh5Y>
 
-Summary(Optional) :   < Brief summary of your project >
+Summary(Optional) :   < this project is about employee attrition .here we analysed fata about employee and mounted it into graphs ,bar grapls tabular for,using libraries really make this task easier >
