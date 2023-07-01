@@ -1,9 +1,11 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       :   23183
 
-Student Name      :   < Your good name >
+Student Name      :   Karuna Sharma
 
-Project Title     :   < Problem statement allotted to you >
+Project Title     :   Movie Success Prediction
 
-Google Colab Link :   < View only link of your Google Colab Notebook >
+Google Colab Link :   https://colab.research.google.com/drive/1uZ3me2mvfdxeLVlSsA8X4nQtmFjSaYYt?usp=sharing
 
-Summary(Optional) :   < Brief summary of your project >
+Summary(Optional) :   This project is based on whether a movie will succeed after analyzing the dataset on Kaggle for more than 4000 movies.
+                      its accuracy is 100% and the model can now predict if a movie will be successful or not.
+                      
