@@ -1,9 +1,9 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       :   23487
 
-Student Name      :   < Your good name >
+Student Name      :   Yashika Garg
 
-Project Title     :   < Problem statement allotted to you >
+Project Title     :   Flowcast: Credit card approval Fraud detection
 
-Google Colab Link :   < View only link of your Google Colab Notebook >
+Google Colab Link :   https://colab.research.google.com/drive/1ckODmWW6mM6s6Lh6Vky4WPZsOAIIs4K5#scrollTo=YF-C65V6cqHh
 
-Summary(Optional) :   < Brief summary of your project >
+Summary(Optional) :   accuracy is 98.293 %
