@@ -1,9 +1,9 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       :   23245
 
-Student Name      :   < Your good name >
+Student Name      :   Nancy Pathak
 
-Project Title     :   < Problem statement allotted to you >
+Project Title     :  Hepatitis C Prediction
 
-Google Colab Link :   < View only link of your Google Colab Notebook >
+Google Colab Link :   https://colab.research.google.com/drive/1BK4k258k84zBnLlt88BYeR0snOnQ--kA?usp=sharing
 
-Summary(Optional) :   < Brief summary of your project >
+Summary(Optional) :  The mini project on hepatitis C prediction focused on developing a model to predict the presence or absence of hepatitis C virus (HCV) based on a given dataset. 
