@@ -1,9 +1,9 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       :   23159 
 
-Student Name      :   < Your good name >
+Student Name      :   Jasgun Chandnani 
 
-Project Title     :   < Problem statement allotted to you >
+Project Title     :   Heart Failure Prediction
 
 Google Colab Link :   < View only link of your Google Colab Notebook >
 
-Summary(Optional) :   < Brief summary of your project >
+Summary(Optional) :   Accuracy , result ,findings
