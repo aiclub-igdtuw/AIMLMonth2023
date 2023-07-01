@@ -1,9 +1,9 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       :   23189
 
-Student Name      :   < Your good name >
+Student Name      :   Khushboo Verma
 
-Project Title     :   < Problem statement allotted to you >
+Project Title     :   Wind Speed Prediction
 
-Google Colab Link :   < View only link of your Google Colab Notebook >
+Google Colab Link :   https://colab.research.google.com/drive/1XCVRTGmcVGzbIi_PRFvAqQwbCJJi29Dp?usp=sharing
 
-Summary(Optional) :   < Brief summary of your project >
+Summary(Optional) :   Performed exploratory data analysis on the wind speed dataset, analysed trends and used linear regression to make a wind speed prediction model.
