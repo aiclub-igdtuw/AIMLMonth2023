@@ -1,9 +1,9 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       :   23220
 
-Student Name      :   < Your good name >
+Student Name      :    Manisha
 
-Project Title     :   < Problem statement allotted to you >
+Project Title     :    Cirrhosis Prediction 
 
-Google Colab Link :   < View only link of your Google Colab Notebook >
+Google Colab Link :    https://colab.research.google.com/drive/1TF6ltCWCA9AYbSraod4CsyU4452a2cii?usp=sharing)https://colab.research.google.com/drive/1TF6ltCWCA9AYbSraod4CsyU4452a2cii?usp=sharing 
 
-Summary(Optional) :   < Brief summary of your project >
+Summary(Optional) :    handling missing values, creating bar plots and stacked plots ,identifying relationship between different columns 
