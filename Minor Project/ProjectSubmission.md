@@ -1,9 +1,9 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       :   23253
 
-Student Name      :   < Your good name >
+Student Name      :   Navya Saini
 
-Project Title     :   < Problem statement allotted to you >
+Project Title     :   Hepatitis C Prediction
 
-Google Colab Link :   < View only link of your Google Colab Notebook >
+Google Colab Link :   https://colab.research.google.com/drive/1q7yrE5JVbYYu2TQIlJ06wcXoQ7NJXsHM?usp=sharing
 
-Summary(Optional) :   < Brief summary of your project >
+Summary(Optional) :   Hepatitis C prediction project is a machine learning model to predict the disease based on various medical features. We first analysed and explored the data to understand its features and distribution and handle the missing values. The data was processed, and the model was trained, evaluated and fine-tuned. Predictions were made at last to conclude the overall performance of the model. 
