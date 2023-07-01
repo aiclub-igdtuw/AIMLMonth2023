@@ -1,9 +1,9 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       :   08801012022
 
-Student Name      :   < Your good name >
+Student Name      :   Khushi
 
-Project Title     :   < Problem statement allotted to you >
+Project Title     :   Body Fat Prediction 
 
-Google Colab Link :   < View only link of your Google Colab Notebook >
+Google Colab Link :   https://colab.research.google.com/drive/1rI54dT4eaxgFU8177U4oH_EAovIS8b9c?usp=sharing
 
-Summary(Optional) :   < Brief summary of your project >
+Summary(Optional) :   Accuracy of the model in 75 percent which is quite good. In scatter plot of data it was found that there are some outliers that was removed by normalization and scaling.
