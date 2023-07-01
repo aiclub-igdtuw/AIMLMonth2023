@@ -1,9 +1,9 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       :   < 23369 >
 
-Student Name      :   < Your good name >
+Student Name      :   < Sheba Alam >
 
-Project Title     :   < Problem statement allotted to you >
+Project Title     :   < Global Air Pollution >
 
-Google Colab Link :   < View only link of your Google Colab Notebook >
+Google Colab Link :   < https://colab.research.google.com/drive/1BI-5TkHLUCLsCxQwvSn06Wt4knOnxwWt?usp=sharing >
 
-Summary(Optional) :   < Brief summary of your project >
+Summary(Optional) :   < performed tasks involving data analysis and regression using the global air pollution dataset provided >
