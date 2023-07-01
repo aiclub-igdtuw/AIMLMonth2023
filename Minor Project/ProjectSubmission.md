@@ -1,9 +1,7 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       :   < 23231
 
-Student Name      :   < Your good name >
+Student Name      :  Megha
 
-Project Title     :   < Problem statement allotted to you >
+Project Title     :   Stellar prediction
 
-Google Colab Link :   < View only link of your Google Colab Notebook >
-
-Summary(Optional) :   < Brief summary of your project >
+Google Colab Link :   https://colab.research.google.com/drive/1MAWPAFv_O3f58rqSsPxzzuro81gon9pM?usp=sharing
