@@ -2,7 +2,7 @@ Roll Number       :   23055
 
 Student Name      :   Anishka Gupta
 
-Project Title     :  Robotic Kinematic Dataset
+Project Title     :  Robot Kinematics Dataset
 
 Google Colab Link :   https://colab.research.google.com/drive/1UbPGIVuM0m2aTy-q-feVFaeiop3GIYFd?usp=sharing
 
