@@ -42,7 +42,7 @@ MINOR PROJECTS - AI Club IGDTUW </h1> <br />
   <li><a href="#project36">Movie Success Prediction</a></li>
   <li><a href="#project37">Weather History Dataset</a></li>
   <li><a href="#project38">Customer Ad Clicks</a></li>
-  <li><a href="#project39">Global Temperature and Pollution</a></li>
+  <li><a href="#project39">Global Air Pollution</a></li>
   <li><a href="#project40">Red Wine Quality</a></li>
   <li><a href="#project41">Used Cars</a></li>
   <li><a href="#project42">Fetal Health</a></li>
@@ -71,8 +71,8 @@ MINOR PROJECTS - AI Club IGDTUW </h1> <br />
 <ul>
 <li>Are there any missing values and duplicate instances in the dataset? If so, how do you plan to handle them?</li>
 <li>What is the distribution of the disease burden (DALYs) across different sub-categories of disease or injury?</li>
-<li>How does the disease burden vary across different countries  or regions and years? Are there any significant trends or patterns? How does the disease burden vary across different demographic factors, such as age groups or gender?</li>
-<li>Can we identify any outliers or extreme values in the disease burden data? How do they impact the overall analysis? Perform required visualization task.</li>
+<li>How does the disease burden vary across different countries or regions and years? Are there any significant trends or patterns?</li>
+<li>Can we identify any outliers or extreme values in the disease burden data? How do they impact the overall analysis? Perform the required visualization task.</li>
 <li>Perform preprocessing and normalization on the data? How data normalization will help you in model training and prediction.</li></ul><br />
 
 
@@ -239,9 +239,10 @@ MINOR PROJECTS - AI Club IGDTUW </h1> <br />
 <ul>
 <li>What is the distribution of bankruptcy and non-bankruptcy classes in the dataset? Are the classes balanced or imbalanced?</li>                             
 <li>How does the distribution of the "Operating Profit Rate" differ between bankrupt and non-bankrupt companies? Can you create a suitable plot to visualize this difference?</li>
-<li>Can you detect any anomalies or outliers in the dataset that could potentially impact the prediction of bankruptcy status? How would you handle such outliers during the modeling phase?</li>
-<li>Perform feature selection or dimensionality reduction techniques to identify the most relevant features for predicting bankruptcy. Which indicators show the strongest association with bankruptcy status?</li>
-<li>Are there any categorical variables in the dataset, such as industry classification or a binary "Net Income Flag"? How can you encode them into numerical values for analysis? Can you explain the importance of encoding categorical variables and propose suitable encoding methods for variables like "Liability-Assets Flag" and "Net Income Flag"?</li></ul> <br />
+<li>plot a bar graph to show how many companies are bankrupt or not(already asked in first ques)
+</li>
+<li>Plot a countplot for Liability Assets Flag(use Bankrupt column for colour encoding)</li>
+<li>Plot a heatmap without using the bankrupt column(using the seaborn lib)</li></ul> <br />
 
 
 <h3 id="project17">17. Credit Card Approval Prediction  ✒ </h3>
@@ -263,7 +264,7 @@ MINOR PROJECTS - AI Club IGDTUW </h1> <br />
 <ul>
 <li>What is the distribution of diabetes status in the dataset? How many individuals are diagnosed with diabetes and how many are not?</li>
 <li>Is there any relationship between glucose levels and the presence of diabetes? Can you compare the mean glucose levels for individuals with and without diabetes and determine if there is a significant difference using a hypothesis test?</li>
-<li>Are there any missing values in the dataset for variables like "Insulin" and "SkinThickness"? Can you identify variables with missing data and suggest an appropriate strategy, such as imputation or removal, for handling them?</li>
+<li>Analyze the distribution of skin thickness and blood pressure among individuals with and without diabetes. Are there any significant differences or patterns in skin thickness values and in the blood pressure values between the two groups?</li>
 <li>Can you visualize the distribution of body mass index (BMI) for individuals with and without diabetes using a suitable plot, such as a boxplot or histogram? Are there any noticeable differences in BMI between the two groups?</li>
 <li>What is the average age of individuals with diabetes compared to those without diabetes? Can you calculate and compare the mean ages for the two groups and analyze if there is a significant difference?</li></ul> <br />
 
@@ -311,10 +312,10 @@ MINOR PROJECTS - AI Club IGDTUW </h1> <br />
 <h4>📌 Tasks - </h4>
 <ul>
 <li>What is the distribution of movie ratings in the dataset? Are the ratings normally distributed or skewed? Can you calculate the mean, median, and standard deviation of the ratings?</li>
-<li>How does the movie genre (e.g., Action, Animation, Comedy, Drama, Documentary, Romance) affect the movie ratings? Can you compare the average ratings for different genres using a suitable plot, such as a bar plot or boxplot?</li>
-<li> Is there any relationship between the movie budget and its rating? Can you calculate the correlation coefficient between these variables and determine if there is a significant relationship?</li>
+<li> How does the movie genre (e.g., Action, Animation, Comedy, Drama, Documentary, Romance) affect the movie ratings? Can you compare the average ratings for different genres using a suitable plot, such as a bar plot or boxplot?</li>
+<li>Is there any relationship between the movie duration and its rating? Can you calculate the correlation coefficient between these variables and determine if there is a significant relationship? </li>
 <li>Are there any significant differences in the average ratings between old and new movies? Can you compare the average ratings for movies released before a certain year (e.g., 2000) and movies released after that year?</li>
-<li>Can you identify the top-rated movies based on the average ratings across all genres? Can you create a list or plot to showcase the top-rated movies and their corresponding ratings?</li></ul> <br />
+<li>Can you identify the top-rated movies based on the average ratings across all genres? Can you create a list or plot to showcase the top-rated movies and their corresponding ratings?</li></ul> <br />
 
 
 <h3 id="project23">23. Smart Watch Prices  ✒ </h3>
@@ -466,14 +467,16 @@ MINOR PROJECTS - AI Club IGDTUW </h1> <br />
 <h3 id="project34">34. Flowcast: Credit Card Approval Fraud Detection   ✒ </h3>
 <p> Fraud can take numerous forms, whether it’s a single stolen credit card or credit card details getting compromised by a merchant using tools like credit card skimming devices.This take-home project takes 1-2 hours to complete and asks you to create a model to determine if a credit card transaction is fraudulent.You are also required to document your solution by providing a clear and concise explanation of the methods you used, the assumptions you made about the data, and any other methods you considered.<p>
 <h4>👩‍💻 Dataset - </h4><p>https://www.interviewquery.com/takehomes/flowcast-1<p>
+  <p> Refer this who are facing trouble working on the dataset- https://colab.research.google.com/drive/16kVDxWgF5IKQTM6iPgah8OKv_XIwVCpk?usp=sharing </p>
 <h4>📌 Tasks - </h4>
 <ul>
-<li> Are there any inconsistent or incorrect data entries that need to be corrected or standardized?</li>
-<li> How can we visualize the distribution of fraudulent and non-fraudulent credit card transactions in the dataset? </li>
-<li>Can we create visualizations to understand the relationship between different variables (e.g., transaction amount, transaction type) and the likelihood of fraud?</li>
-<li>How can we visualize the correlation between different features or variables and identify any significant relationships?
+<li> Find the outliers in column "cardLast4Digits".(hint: do all data in the column have length 4)</li>
+<li> Find the ids which entered wrong CVV while doing transaction.( compare and find from columns cardCVV and entered CVV) </li>
+<li>Which type of plot is best to visualise general range of transaction. State and plot the column Transaction Amount
 </li>
-<li> Can we visualize the distribution of different features for fraudulent and non-fraudulent transactions separately to identify patterns?</li></ul> <br />
+<li>Is there any transaction which is greater than credit card limit?
+</li>
+<li> Find and visualise the relation between currentBalance and availableMoney</li></ul> <br />
 
 
 
@@ -524,30 +527,33 @@ in a variable of type series (data structure). Print the first 10 rows after rem
 
 <h3 id="project38">38. Customer Ad Clicks    ✒ </h3>
 <p> We all have to deal with ads online – you’ve probably seen a few just in getting to this article. When it comes to ads, customer engagement is the top priority. The more clicks an ad gets, the higher the possibility that a customer will make a purchase.<p>
-<h4>👩‍💻 Dataset - </h4><p>https://www.kaggle.com/farhanmd29/predicting-customer-ad-clicks<p>
+<h4>👩‍💻 Dataset - </h4><p>https://www.kaggle.com/datasets/hiimanshuagarwal/advertising-ef<p>
 <h4>📌 Tasks - </h4>
 <ul>
-<li>Are there any missing values in the dataset related to ad data or customer engagement metrics? How should these missing values be handled?</li>
-<li>Are there any duplicate entries in the dataset that need to be identified and removed?</li>
-<li>Plot a histogram with Kernel density estimation for the 'Age' variable.</li>
-<li>How many unique countries are there in the dataset.
+<li>Are there any missing values in the dataset related to ad data or customer engagement metrics? How should these missing values be handled?
 </li>
-<li>How can we visualize the correlation between different features (e.g., ad placement, ad creative) and ad performance?
+<li> Are there any duplicate entries in the dataset that need to be identified and removed?
+</li>
+<li>What is the distribution of different demographic variables in the dataset (e.g., age, gender, country)?
+</li>
+<li>How are the numerical variables (e.g., "Daily Time Spent on Site," "Age," "Area Income") distributed? Are there any outliers?
+</li>
+<li> How does the average time spent on the website vary for different demographic groups?
 </li></ul> <br />
 
 
 
-<h3 id="project39">39. Global Temperature and Pollution    ✒ </h3>
-<p> Pollution and its impact on the environment are among the most significant concerns globally. Data science and machine learning can help us better understand how to tackle and solve that problem. you can use one of the dataset provided in the respository to do prediction.<p>
-<h4>👩‍💻 Dataset - </h4><p>https://github.com/OpenFloodAI/Climate-Change-Datasets<p>
+<h3 id="project39">39. Global Air Pollution    ✒ </h3>
+<p> Air Pollution is contamination of the indoor or outdoor environment by any chemical, physical or biological agent that modifies the natural characteristics of the atmosphere. Pollutants of major public health concern include particulate matter, carbon monoxide, ozone, nitrogen dioxide and sulfur dioxide. Outdoor and indoor air pollution cause respiratory and other diseases .
+<p>
+<h4>👩‍💻 Dataset - </h4><p>https://www.kaggle.com/datasets/hasibalmuzdadid/global-air-pollution-dataset<p>
 <h4>📌 Tasks - </h4>
 <ul>
-<li>Are there any missing values in the pollution dataset? How should these missing values be handled?</li>
-<li>Are there any duplicate entries in the dataset that need to be identified and removed?</li>
-<li>How can we visualize the distribution of pollution levels in the dataset across different regions or time periods?</li>
-<li>How can we visualize the correlation between different features (e.g., wind speed, particulate matter) and pollution levels?
-</li>
-<li>Can we visualize the temporal patterns of pollution levels over time using line plots or other suitable visualizations?
+<li>Show if there are any columns with missing values with their count.</li>
+<li>Plot the distplot of 'AQI Value' vs 'AQI Category'.(kind-'kde')</li>
+<li>Plot a stacked bar graph of 'Ozone AQI Value' vs 'AQI Category'.</li>
+<li>Show the list of cities without a stated country. Fill the missing columns with 'Unknown'.</li>
+<li>Plot the most represented countries in this dataset using a horizontal bar graph.
 </li></ul> <br />
 
 
@@ -627,7 +633,7 @@ in a variable of type series (data structure). Print the first 10 rows after rem
 
 
 
-<h3 id="project45">45. Uber vs Lyft Datasett ✒ </h3>
+<h3 id="project45">45. Uber vs Lyft Dataset ✒ </h3>
 <p>Uber vs Lyft Dataset of Boston to compare the preference of customers based on price,weather, source and destination.<p>
 <h4>👩‍💻 Dataset - </h4><p>https://www.kaggle.com/datasets/brllrb/uber-and-lyft-dataset-boston-ma<p>
 <h4>📌 Tasks - </h4>
