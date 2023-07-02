@@ -1,9 +1,7 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       : 23037
 
-Student Name      :   < Your good name >
+Student Name      :  AMISHI BHAMRA
 
-Project Title     :   < Problem statement allotted to you >
+Project Title     :   GENDER DEVELOPMENT INDEX 2019
 
-Google Colab Link :   < View only link of your Google Colab Notebook >
-
-Summary(Optional) :   < Brief summary of your project >
+Google Colab Link :  https://colab.research.google.com/drive/15k3YLrCE-XARpv-FD0jM5nk_q8KPVtvP?usp=sharing
