@@ -1,9 +1,9 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       :   < 23401 >
 
-Student Name      :   < Your good name >
+Student Name      :   < siddharth kansal>
 
-Project Title     :   < Problem statement allotted to you >
+Project Title     :   < Customer Ad Clicks>
 
-Google Colab Link :   < View only link of your Google Colab Notebook >
+Google Colab Link :  
 
 Summary(Optional) :   < Brief summary of your project >
