@@ -1,9 +1,10 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       :   23123
 
-Student Name      :   < Your good name >
+Student Name      :   Drishti Vaswani
 
-Project Title     :   < Problem statement allotted to you >
+Project Title     :   Zomato Dataset
 
-Google Colab Link :   < View only link of your Google Colab Notebook >
+Google Colab Link :   https://colab.research.google.com/drive/12K5thspaTioTwSp4WFCqJTQn7V2gxscL?usp=sharing
 
-Summary(Optional) :   < Brief summary of your project >
+Summary(Optional) :   We have successfully carried out Exploratory Data Analysis(EDA) on the Zomato dataset provided to us.
+The Decision Tree Algorithm works best on the set provided to us.  
