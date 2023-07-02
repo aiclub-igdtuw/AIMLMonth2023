@@ -1,9 +1,9 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       :   23173
 
-Student Name      :   < Your good name >
+Student Name      :   Jyotika Jaichand
 
-Project Title     :   < Problem statement allotted to you >
+Project Title     :   Heart failure prediction
 
-Google Colab Link :   < View only link of your Google Colab Notebook >
+Google Colab Link :   https://colab.research.google.com/drive/1iz5JdoBZQDvriJ3OIKB1mo8va54h0jbF?usp=sharing
 
-Summary(Optional) :   < Brief summary of your project >
+Summary(Optional) :   I had to predict heart failure chances in the alloted dataset. I used logistic regression model and scored an accuracy of 85%.
