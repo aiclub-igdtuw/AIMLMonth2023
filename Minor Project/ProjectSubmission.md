@@ -4,6 +4,5 @@ Student Name      :    Chhavi Nain
 
 Project Title     :    Breast Cancer Detection
 
-Google Colab Link :   < View only link of your Google Colab Notebook >
-
-Summary(Optional) :   < Brief summary of your project >
+Google Colab Link :   (http://localhost:8888/notebooks/Desktop/jupyter/23108_ChhaviNain_MinorProject.ipynb)http://localhost:8888/notebooks/Desktop/jupyter/23108_ChhaviNain_MinorProject.ipynb
+Summary(Optional) :   
