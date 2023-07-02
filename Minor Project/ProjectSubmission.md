@@ -1,9 +1,9 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       :   23069
 
-Student Name      :   < Your good name >
+Student Name      :   Anusha Mahajan
 
-Project Title     :   < Problem statement allotted to you >
+Project Title     :   Robot kinematics dataset
 
-Google Colab Link :   < View only link of your Google Colab Notebook >
+Google Colab Link :   https://colab.research.google.com/drive/1b8a0hNipQnGqk2FL9qSsGrnMGRYV7lsd?usp=sharing
 
-Summary(Optional) :   < Brief summary of your project >
+Summary(Optional) :   
