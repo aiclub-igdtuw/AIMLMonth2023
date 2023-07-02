@@ -1,9 +1,8 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       :   23048
 
-Student Name      :   < Your good name >
+Student Name      :   Ananya Mishra
 
-Project Title     :   < Problem statement allotted to you >
+Project Title     :   Email Spam Classification Dataset
 
-Google Colab Link :   < View only link of your Google Colab Notebook >
-
-Summary(Optional) :   < Brief summary of your project >
+Google Colab Link :   https://colab.research.google.com/drive/1E_-NPgMfQ0fsQlm2PuxsEIlaPofLB71L?usp=sharing
+Summary(Optional) :  In conclusion, we use the random forest model to analyse the dataset as it gives an accuracy of 97%.
