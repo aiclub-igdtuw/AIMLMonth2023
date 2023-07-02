@@ -1,9 +1,9 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       :   23088
 
-Student Name      :   < Your good name >
+Student Name      :   Avanti Verma
 
-Project Title     :   < Problem statement allotted to you >
+Project Title     :   Wine Quality dataset
 
-Google Colab Link :   < View only link of your Google Colab Notebook >
+Google Colab Link :   https://colab.research.google.com/drive/1XW_CXc5f_DLf5JcxHJjJDN9m7V0QSEoQ?usp=sharing
 
-Summary(Optional) :   < Brief summary of your project >
+Summary(Optional) :   The wine quality dataset was analyzed with various plots and graphs.
