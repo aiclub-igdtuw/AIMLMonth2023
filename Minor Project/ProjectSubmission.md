@@ -1,9 +1,9 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       :   23409
 
-Student Name      :   < Your good name >
+Student Name      :   Sneha Gautam
 
-Project Title     :   < Problem statement allotted to you >
+Project Title     :   smart watches
 
-Google Colab Link :   < View only link of your Google Colab Notebook >
+Google Colab Link :   https://colab.research.google.com/drive/14Vrq14t12zToBTITlpmjOrRcKKkEnRzN
 
-Summary(Optional) :   < Brief summary of your project >
+Summary(Optional) :   Minor project bases on smart watches.
