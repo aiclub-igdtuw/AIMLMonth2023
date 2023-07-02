@@ -1,9 +1,9 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       :   < 23095>
 
-Student Name      :   < Your good name >
+Student Name      :   <Ayushi Mangla>
 
-Project Title     :   < Problem statement allotted to you >
+Project Title     :   < Heart Attack Analysis And Prediction >
 
-Google Colab Link :   < View only link of your Google Colab Notebook >
+Google Colab Link :   < https://colab.research.google.com/drive/1pENwM3datKNIV5KONmlO9s9KJ5CUQd7V >
 
 Summary(Optional) :   < Brief summary of your project >
