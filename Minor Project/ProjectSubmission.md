@@ -1,9 +1,10 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       :   23191
 
-Student Name      :   < Your good name >
+Student Name      :   Khushi Arora
 
-Project Title     :   < Problem statement allotted to you >
+Project Title     :   Classification of robots
 
-Google Colab Link :   < View only link of your Google Colab Notebook >
+Google Colab Link :   https://colab.research.google.com/drive/1sI3d7z0ZFjYb9vUo8G6F-_7626uxmcv9?usp=sharing
+https://colab.research.google.com/drive/1SgqLL80Eaiu-O34Kfxx2gOJ3sBZtMdM8?usp=sharing
 
-Summary(Optional) :   < Brief summary of your project >
+Summary(Optional) :   
