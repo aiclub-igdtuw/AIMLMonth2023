@@ -1,9 +1,7 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       :  23484
 
-Student Name      :   < Your good name >
+Student Name      :  Vrinda Diwakar
 
-Project Title     :   < Problem statement allotted to you >
+Project Title     :  IIT and NIT Colleges Admission Criteria 
 
-Google Colab Link :   < View only link of your Google Colab Notebook >
-
-Summary(Optional) :   < Brief summary of your project >
+Google Colab Link :  https://colab.research.google.com/drive/1yfgXQPpkg5pzdliLzG26nlBX9SKJ9GtI?usp=sharing
