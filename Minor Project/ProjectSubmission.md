@@ -1,9 +1,9 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       :    23108
 
-Student Name      :   < Your good name >
+Student Name      :    Chhavi Nain
 
-Project Title     :   < Problem statement allotted to you >
+Project Title     :    Breast Cancer Detection
 
-Google Colab Link :   < View only link of your Google Colab Notebook >
+Google Colab Link :   http://localhost:8888/notebooks/Desktop/jupyter/23108_ChhaviNain_MinorProject.ipynb)http://localhost:8888/notebooks/Desktop/jupyter/23108_ChhaviNain_MinorProject.ipynb
 
-Summary(Optional) :   < Brief summary of your project >
+Summary(Optional) :   
