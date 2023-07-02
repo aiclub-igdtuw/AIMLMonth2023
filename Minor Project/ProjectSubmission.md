@@ -1,9 +1,9 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       :   23065 
 
-Student Name      :   < Your good name >
+Student Name      :   Anshika Singh
 
-Project Title     :   < Problem statement allotted to you >
+Project Title     :   Factors Affecting Campus Placement
 
-Google Colab Link :   < View only link of your Google Colab Notebook >
+Google Colab Link :   https://colab.research.google.com/drive/1-oW58aG2M6ECIbZe_YIm6S0Oc47zjz82?usp=sharing
 
-Summary(Optional) :   < Brief summary of your project >
+Summary(Optional) :   
