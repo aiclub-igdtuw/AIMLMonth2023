@@ -1,9 +1,9 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       :   23347
 
-Student Name      :   < Your good name >
+Student Name      :   Saloni Gupta
 
-Project Title     :   < Problem statement allotted to you >
+Project Title     :   Uber vs Lyft Dataset
 
-Google Colab Link :   < View only link of your Google Colab Notebook >
+Google Colab Link :   https://colab.research.google.com/drive/1a6z-PaOMCvIS2YKnFvTDzMdDrxYxP95O#scrollTo=YwKoWew9rN6u
 
-Summary(Optional) :   < Brief summary of your project >
+Summary(Optional) :   -
