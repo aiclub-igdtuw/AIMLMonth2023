@@ -1,9 +1,9 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       :   23154
 
-Student Name      :   < Your good name >
+Student Name      :   Ishita Rakchhit
 
-Project Title     :   < Problem statement allotted to you >
+Project Title     :   Classification of Robots from their Conversation
 
-Google Colab Link :   < View only link of your Google Colab Notebook >
+Google Colab Link :  (https://colab.research.google.com/drive/1pmhnalQgQo6hSzb_T5_acTuDvZPfhhqZ?usp=sharing)https://colab.research.google.com/drive/1pmhnalQgQo6hSzb_T5_acTuDvZPfhhqZ?usp=sharing
 
-Summary(Optional) :   < Brief summary of your project >
+Summary(Optional) :   The dataset had conversations of 5 robots as a sequence of 10 numbers. In EDA I found missing values, plotted pie chart, line graph, correlation matrix. Further I used Logistic Regression to classify the robots.
