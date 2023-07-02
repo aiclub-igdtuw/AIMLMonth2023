@@ -1,9 +1,9 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number:   23490
 
-Student Name      :   < Your good name >
+Student Name:   Yashpriya Malik
 
-Project Title     :   < Problem statement allotted to you >
+Project Title:   Credit Card Fraud Detection Statement 34
 
-Google Colab Link :   < View only link of your Google Colab Notebook >
+Google Colab Link :   https://colab.research.google.com/drive/1w7Cundk2FtYI8t4kyDNxVFJaAQxzgOIr?usp=sharing
 
-Summary(Optional) :   < Brief summary of your project >
+Summary(Optional) :   
