@@ -1,9 +1,6 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       :   <23127>
 
-Student Name      :   < Your good name >
+Student Name      :   < Garima >
 
-Project Title     :   < Problem statement allotted to you >
-
-Google Colab Link :   < View only link of your Google Colab Notebook >
-
-Summary(Optional) :   < Brief summary of your project >
+Project Title     :   < IRIS FLOWER DATASET >
+Google Colab Link :   < https://colab.research.google.com/drive/1xycmsJzqpkEWEIMdAly9fpxfbFtzDKwO?usp=sharing>
