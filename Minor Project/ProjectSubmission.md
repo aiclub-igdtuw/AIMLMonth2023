@@ -1,9 +1,9 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       :23211
 
-Student Name      :   < Your good name >
+Student Name      :   <livya jajoria>
 
-Project Title     :   < Problem statement allotted to you >
+Project Title     :   cirrhosis prediction 
 
-Google Colab Link :   < View only link of your Google Colab Notebook >
+Google Colab Link :   https://colab.research.google.com/drive/1yuRmsS8TVYDox9U6F6lXGi6cUv0zijJ6?usp=sharing
 
-Summary(Optional) :   < Brief summary of your project >
+Summary(Optional) :  
