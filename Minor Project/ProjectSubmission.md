@@ -1,9 +1,9 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       :   23248
 
-Student Name      :   < Your good name >
+Student Name      :   Natasha Meena
 
-Project Title     :   < Problem statement allotted to you >
+Project Title     :   Titanic - Machine Learning from Disaster
 
-Google Colab Link :   < View only link of your Google Colab Notebook >
+Google Colab Link :   https://colab.research.google.com/drive/1v6mQGPD9Ass4rlZUWvE7YC0diVWDVIJJ#scrollTo=ahyFtBUDto9Q
 
 Summary(Optional) :   < Brief summary of your project >
