@@ -1,9 +1,9 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       :   23001 
 
-Student Name      :   < Your good name >
+Student Name      :   Aahana Tiwari
 
-Project Title     :   < Problem statement allotted to you >
+Project Title     :   Tiitanic - Machine Learning from Disaster
 
-Google Colab Link :   < View only link of your Google Colab Notebook >
+Google Colab Link :   https://colab.research.google.com/drive/1GayVQ9APXVXogpnH8MDM8cjnxGlt0dnj?usp=sharing
 
-Summary(Optional) :   < Brief summary of your project >
+Summary(Optional) :   Performed logistic regression on the famous titanic dataset for machine learning, to classify passengers of the titanic as survivors or non-survivors. The model provided a score of 0.838, which means 83% accuracy.
