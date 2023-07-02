@@ -1,9 +1,9 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       :   <23026 >
 
-Student Name      :   < Your good name >
+Student Name      :   < Aditi Mishra >
 
-Project Title     :   < Problem statement allotted to you >
+Project Title     :   <Honda Cars Model Resale >
 
-Google Colab Link :   < View only link of your Google Colab Notebook >
+Google Colab Link :   < https://colab.research.google.com/drive/1zJDdFy-djwIYENwmugVgXyBABy1Bjy9e?usp=sharing >
 
-Summary(Optional) :   < Brief summary of your project >
+Summary(Optional) :   <This is my first python ml internship project. It is based on honda cars sale data and analysis.>
