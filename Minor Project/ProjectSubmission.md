@@ -1,9 +1,9 @@
-Roll Number       :   <23121 >
+Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
 
-Student Name      :   <Divya>
+Student Name      :   < Your good name >
 
-Project Title     :   <Iris Flower Detection>
+Project Title     :   < Problem statement allotted to you >
 
-Google Colab Link :   <https://colab.research.google.com/drive/1_HTrMmfZLCJIogIFNeAX_z2R1SdmJcf4?usp=sharing>
+Google Colab Link :   < View only link of your Google Colab Notebook >
 
-Summary(Optional) :   <The project contain details about three species of Iris flowers and classify on the basis of the factors like sepal length,sepal width,petal length,petal width.>
+Summary(Optional) :   < Brief summary of your project >
