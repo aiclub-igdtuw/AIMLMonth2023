@@ -1,9 +1,9 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       :   23150
 
-Student Name      :   < Your good name >
+Student Name      :   Isha Swami
 
-Project Title     :   < Problem statement allotted to you >
+Project Title     :   Stroke Prediction Dataset
 
-Google Colab Link :   < View only link of your Google Colab Notebook >
+Google Colab Link :   
 
-Summary(Optional) :   < Brief summary of your project >
+Summary(Optional) :   
