@@ -1,9 +1,9 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       :   < 23474
 
-Student Name      :   < Your good name >
+Student Name      :  Vanshika Tomar
 
-Project Title     :   < Problem statement allotted to you >
+Project Title     :   Used Cars
 
-Google Colab Link :   < View only link of your Google Colab Notebook >
+Google Colab Link :   https://colab.research.google.com/drive/1YcEdnT_2iWx3JkMeQ2vWvaczy6x6GdFz?usp=sharing
 
 Summary(Optional) :   < Brief summary of your project >
