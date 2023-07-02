@@ -1,8 +1,8 @@
-Roll Number       :   <23349> 
+Roll Number       :   23349 
 
-Student Name      :   <Samiya Malhotra >
+Student Name      :   Samiya Malhotra 
 
-Project Title     :   < Honda Car Model Resale >
+Project Title     :    Honda Car Model Resale 
 
 Google Colab Link :  https://colab.research.google.com/drive/1otGmBGNLoeAJ7qvLF8IvcztyB_L_zVVu#scrollTo=kZwV2ZPVmHZq
 
