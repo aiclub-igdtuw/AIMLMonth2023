@@ -1,9 +1,9 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       :    23218
 
-Student Name      :   < Your good name >
+Student Name      :   Manali Kumari
 
-Project Title     :   < Problem statement allotted to you >
+Project Title     :   Cirrhosis Prediction
 
-Google Colab Link :   < View only link of your Google Colab Notebook >
+Google Colab Link :   https://colab.research.google.com/drive/1DW0f4pCq1mFNkhPECv-XSvGZ-V9sdXBg
 
-Summary(Optional) :   < Brief summary of your project >
+Summary(Optional) :   
