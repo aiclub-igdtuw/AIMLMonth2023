@@ -1,9 +1,9 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       :   < 23289 >
 
-Student Name      :   < Your good name >
+Student Name      :   < Pratham Hastir >
 
-Project Title     :   < Problem statement allotted to you >
+Project Title     :   < Diabetes prediction >
 
-Google Colab Link :   < View only link of your Google Colab Notebook >
+Google Colab Link :   < jupyter notebook >
 
-Summary(Optional) :   < Brief summary of your project >
+Summary(Optional) :   <  >
