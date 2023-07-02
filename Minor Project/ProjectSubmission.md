@@ -1,9 +1,8 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       :   23397
 
-Student Name      :   < Your good name >
+Student Name      :   Shubhi Gupta
 
-Project Title     :   < Problem statement allotted to you >
+Project Title     :   Customer AD Clicks
 
-Google Colab Link :   < View only link of your Google Colab Notebook >
+Google Colab Link :  https://colab.research.google.com/drive/1YFAysekGglviJxv7RcSYCf4mT0pHXltP?usp=sharing
 
-Summary(Optional) :   < Brief summary of your project >
