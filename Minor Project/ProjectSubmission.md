@@ -1,9 +1,9 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       :23488
 
-Student Name      :   < Your good name >
+Student Name      : Yashika Mann
 
-Project Title     :   < Problem statement allotted to you >
+Project Title     : Credit Card Fraud Detection
 
-Google Colab Link :   < View only link of your Google Colab Notebook >
+Google Colab Link :   https://colab.research.google.com/drive/1OevcN1E_rkT7xTCozZh_oVav7kDSeNCQ?usp=sharing
 
-Summary(Optional) :   < Brief summary of your project >
+Summary(Optional) :   The model gives accuracy of about 98.34% on the test.As it gives a good accuracy, it is predicted it will work very well.
