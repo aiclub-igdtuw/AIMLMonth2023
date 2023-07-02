@@ -1,9 +1,9 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       :   23089
 
-Student Name      :   < Your good name >
+Student Name      :   Avisha
 
-Project Title     :   < Problem statement allotted to you >
+Project Title     :   Wine Quality Prediction
 
-Google Colab Link :   < View only link of your Google Colab Notebook >
+Google Colab Link :   https://colab.research.google.com/drive/1DfVqVhzZ7FQF1MIKCVgp35t2el3fY52f?usp=sharing
 
-Summary(Optional) :   < Brief summary of your project >
+Summary(Optional) :   Cleaned and processed the data, wine quality prediction model.
