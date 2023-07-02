@@ -1,9 +1,9 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       :   23212
 
-Student Name      :   < Your good name >
+Student Name      :   Madhulika Chaudhary
 
-Project Title     :   < Problem statement allotted to you >
+Project Title     :   Cirrhosis Prediction
 
-Google Colab Link :   < View only link of your Google Colab Notebook >
+Google Colab Link :   https://colab.research.google.com/drive/1pPDodR-xsRCsLs33SduQ2Is6VTxQzeVL#scrollTo=WX_-UwfTGltA
 
 Summary(Optional) :   < Brief summary of your project >
