@@ -2,7 +2,7 @@ Roll Number       :23488
 
 Student Name      : Yashika Mann
 
-Project Title     : Credit Card Fraud Detection
+Project Title     :Flowcast: Credit Card Approval Fraud Detection
 
 Google Colab Link :   https://colab.research.google.com/drive/1OevcN1E_rkT7xTCozZh_oVav7kDSeNCQ?usp=sharing
 
