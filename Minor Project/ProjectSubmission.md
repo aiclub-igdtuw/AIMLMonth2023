@@ -1,9 +1,9 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       :   23112
 
-Student Name      :   < Your good name >
+Student Name      :   Deepa
 
-Project Title     :   < Problem statement allotted to you >
+Project Title     :  Breast Cancer Prediction Minor Project
 
-Google Colab Link :   < View only link of your Google Colab Notebook >
+Google Colab Link :   https://colab.research.google.com/drive/18yUYgZiUCZqTQdhGdxm1QAxX2B3x8D2-?usp=sharing
 
-Summary(Optional) :   < Brief summary of your project >
+Summary(Optional) :  this project here is to analyze the data given about breast cancer prediction
