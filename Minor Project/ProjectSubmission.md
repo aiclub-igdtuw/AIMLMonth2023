@@ -1,9 +1,7 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       :   23368
 
-Student Name      :   < Your good name >
+Student Name      :   Shatakshi Bansal
 
-Project Title     :   < Problem statement allotted to you >
+Project Title     :   Global Air Pollution
 
-Google Colab Link :   < View only link of your Google Colab Notebook >
-
-Summary(Optional) :   < Brief summary of your project >
+Google Colab Link :   Submitted Jupyter Notebook and a PDF
