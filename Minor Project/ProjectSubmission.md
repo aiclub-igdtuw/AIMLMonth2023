@@ -1,9 +1,9 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       :   23045
 
-Student Name      :   < Your good name >
+Student Name      :  Ananya Kundu
 
-Project Title     :   < Problem statement allotted to you >
+Project Title     :   Email Spam Classification Dataset
 
-Google Colab Link :   < View only link of your Google Colab Notebook >
+Google Colab Link :   < https://colab.research.google.com/drive/1bILQrHgqHusi_aqPpEKy_BoIcUkS4jyi?usp=sharing >
 
-Summary(Optional) :   < Brief summary of your project >
+Summary(Optional) :   This minor project is focused to implement an email spam filter to determine whether an email is spam (spam) or not.
