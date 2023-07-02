@@ -1,9 +1,9 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       :   <23349> 
 
-Student Name      :   < Your good name >
+Student Name      :   <Samiya Malhotra >
 
-Project Title     :   < Problem statement allotted to you >
+Project Title     :   < Honda Car Model Resale >
 
-Google Colab Link :   < View only link of your Google Colab Notebook >
+Google Colab Link :  https://colab.research.google.com/drive/1otGmBGNLoeAJ7qvLF8IvcztyB_L_zVVu#scrollTo=kZwV2ZPVmHZq
 
-Summary(Optional) :   < Brief summary of your project >
+Summary(Optional) :   task 1 is completed using the EDA approach. Then using regression models (linear regression and then random forest regression ) task 2 was completed.  
