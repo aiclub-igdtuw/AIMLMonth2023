@@ -1,9 +1,7 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       :   < 23106 >
 
-Student Name      :   < Your good name >
+Student Name      :   < Chetan Maan >
 
-Project Title     :   < Problem statement allotted to you >
+Project Title     :   < Breast Cancer Prediction >
 
-Google Colab Link :   < View only link of your Google Colab Notebook >
-
-Summary(Optional) :   < Brief summary of your project >
+Google Colab Link :   < https://colab.research.google.com/drive/10OXhyZ6D4qRTT53zR-UwqUTOLttfkudg?usp=sharing >
