@@ -1,9 +1,8 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       :   23329
 
-Student Name      :   < Your good name >
+Student Name      :   Riya Mahajan
 
-Project Title     :   < Problem statement allotted to you >
+Project Title     :   PCOS Diagnostic
 
-Google Colab Link :   < View only link of your Google Colab Notebook >
+Google Colab Link :   Done on Jupyter Notebook
 
-Summary(Optional) :   < Brief summary of your project >
