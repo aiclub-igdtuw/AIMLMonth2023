@@ -1,9 +1,8 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       :  23287
 
-Student Name      :   < Your good name >
+Student Name      :  Prakriti Jaiswal
 
-Project Title     :   < Problem statement allotted to you >
+Project Title     :   (18) Diabetes prediction last year
 
-Google Colab Link :   < View only link of your Google Colab Notebook >
+submission mode : jupyter notebook
 
-Summary(Optional) :   < Brief summary of your project >
