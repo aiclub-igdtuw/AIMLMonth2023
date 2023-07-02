@@ -1,9 +1,9 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       :    23393 
 
-Student Name      :   < Your good name >
+Student Name      :   ShrutiJha 
 
-Project Title     :   < Problem statement allotted to you >
+Project Title     :   Movie Recommendation
 
-Google Colab Link :   < View only link of your Google Colab Notebook >
+Google Colab Link :  https://colab.research.google.com/drive/1EE4m2DgHaubl7NsgnJ54h28Y2gWfUCB9?usp=sharing
 
-Summary(Optional) :   < Brief summary of your project >
+Summary(Optional) :   
