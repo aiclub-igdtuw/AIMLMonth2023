@@ -1,9 +1,8 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       :   23199
+Student Name      :   Komal
 
-Student Name      :   < Your good name >
+Project Title     :   BodyFat Prediction
 
-Project Title     :   < Problem statement allotted to you >
+Google Colab Link :   https://colab.research.google.com/drive/1H_qDj1LPTjvDlVIDoOlB5qeFhVo3COBv?usp=sharing
 
-Google Colab Link :   < View only link of your Google Colab Notebook >
-
-Summary(Optional) :   < Brief summary of your project >
+Summary(Optional) :   EDA questions, Regression,sumarry etc
