@@ -1,9 +1,9 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       :   23079
 
-Student Name      :   < Your good name >
+Student Name      :   Arshi Gupta
 
-Project Title     :   < Problem statement allotted to you >
+Project Title     :   Honda Car Model Resale
 
-Google Colab Link :   < View only link of your Google Colab Notebook >
+Google Colab Link :   https://colab.research.google.com/drive/1018rq0nq18bNhpucJHrLYGjnmPCbwcb_#scrollTo=EVWocKcxzO-m
 
-Summary(Optional) :   < Brief summary of your project >
+Summary(Optional) :   Hi there! I am Arshi Gupta, my mini project primarily analyzes the data set alloted and the subsequent tasks given. The accuracy is 71%. Please check out the link for details.
