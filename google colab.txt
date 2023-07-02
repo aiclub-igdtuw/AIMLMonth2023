@@ -1,0 +1,132 @@
+port statistics 
+
+# Calculate the mean (average) of the happiness scores
+mean_happiness = statistics.mean(happiness_scores)
+print("Mean happiness score:", mean_happiness)
+
+# Calculate the median of the happiness scores
+median_happiness = statistics.median(happiness_scores)
+print("Median happiness score:", median_happiness)
+
+# Calculate the standard deviation of the happiness scores
+std_deviation = statistics.stdev(happiness_scores)
+print("Standard deviation of happiness scores:", std_deviation)
+
+
+
+
+import pandas as pd
+
+# Assuming 'df' is the DataFrame containing the dataset
+
+# Select the columns for analysis
+columns_of_interest = ['Happiness Score', 'GDP per Capita', 'Social Support', 'Life Expectancy', 'Freedom', 'Generosity', 'Perceptions of Corruption']
+
+# Subset the DataFrame with the selected columns
+subset_df = df[columns_of_interest]
+
+# Calculate the correlation matrix
+correlation_matrix = subset_df.corr()
+
+# Print the correlation coefficients
+print(correlation_matrix['Happiness Score'])
+import statistics 
+
+# Calculate the mean (average) of the happiness scores
+mean_happiness = statistics.mean(happiness_scores)
+print("Mean happiness score:", mean_happiness)
+
+# Calculate the median of the happiness scores
+median_happiness = statistics.median(happiness_scores)
+print("Median happiness score:", median_happiness)
+
+# Calculate the standard deviation of the happiness scores
+std_deviation = statistics.stdev(happiness_scores)
+print("Standard deviation of happiness scores:", std_deviation)
+
+
+
+
+import pandas as pd
+
+# Assuming 'df' is the DataFrame containing the dataset
+
+# Select the columns for analysis
+columns_of_interest = ['Happiness Score', 'GDP per Capita', 'Social Support', 'Life Expectancy', 'Freedom', 'Generosity', 'Perceptions of Corruption']
+
+# Subset the DataFrame with the selected columns
+subset_df = df[columns_of_interest]
+
+# Calculate the correlation matrix
+correlation_matrix = subset_df.corr()
+
+
+
+
+import seaborn as sns
+import matplotlib.pyplot as plt
+
+# Assuming 'df' is the DataFrame containing the dataset
+
+# Box plots for variables of interest
+variables_of_interest = ['GDP per Capita', 'Life Expectancy']
+
+# Create box plots
+for variable in variables_of_interest:
+    plt.figure(figsize=(8, 4))
+    sns.boxplot(x=variable, data=df)
+    plt.title(f'Box plot of {variable}')
+    plt.show()
+
+# Scatter plots for variables of interest
+plt.figure(figsize=(8, 4))
+sns.scatterplot(x='GDP per Capita', y='Happiness Score', data=df)
+plt.title('Scatter plot: GDP per Capita vs. Happiness Score')
+plt.show()
+
+plt.figure(figsize=(8, 4))
+sns.scatterplot(x='Life Expectancy', y='Happiness Score', data=df)
+plt.title('Scatter plot: Life Expectancy vs. Happiness Score')
+plt.show()
+
+
+
+import seaborn as sns
+import matplotlib.pyplot as plt
+
+# Assuming 'df' is the DataFrame containing the dataset
+
+# Scatter plot: Social Support vs. Happiness Score
+plt.figure(figsize=(8, 4))
+sns.scatterplot(x='Social Support', y='Happiness Score', data=df)
+plt.title('Scatter plot: Social Support vs. Happiness Score')
+plt.show()
+
+
+
+
+import pandas as pd
+
+# Assuming 'df' is the DataFrame containing the dataset
+
+# Calculate the mean freedom score
+mean_freedom_score = df['Freedom'].mean()
+print("Mean freedom score:", mean_freedom_score)
+
+# Identify countries with high and low levels of freedom
+high_freedom_countries = df[df['Freedom'] > mean_freedom_score]['Country']
+low_freedom_countries = df[df['Freedom'] < mean_freedom_score]['Country']
+
+print("Countries with high levels of freedom:")
+
+
+
+print("Countries with high levels of freedom:")
+print(high_freedom_countries)
+
+print("Countries with low levels of freedom:")
+print(low_freedom_countries)
+
+
+
+
