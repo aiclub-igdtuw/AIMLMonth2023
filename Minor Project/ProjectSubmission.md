@@ -1,9 +1,9 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       :   23181
 
-Student Name      :   < Your good name >
+Student Name      :  kanishka kaintura
 
-Project Title     :   < Problem statement allotted to you >
+Project Title     :  Used cars
 
-Google Colab Link :   < View only link of your Google Colab Notebook >
+Google Colab Link :   https://colab.research.google.com/drive/1p_uLggqZePFVbEX-j14uM5GBnikmu8Zw?usp=sharing
 
-Summary(Optional) :   < Brief summary of your project >
+Summary(Optional) :  accuracy  of training data: 25%     
