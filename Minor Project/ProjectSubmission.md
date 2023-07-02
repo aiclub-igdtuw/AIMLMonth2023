@@ -1,9 +1,9 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       :   < 23310>
 
-Student Name      :   < Your good name >
+Student Name      :   < Ranya Batsyas >
 
-Project Title     :   < Problem statement allotted to you >
+Project Title     :   < World Happiness dataset 2015 >
 
-Google Colab Link :   < View only link of your Google Colab Notebook >
+Google Colab Link :   < http://localhost:8888/notebooks/Untitled29.ipynb >
 
 Summary(Optional) :   < Brief summary of your project >
