@@ -1,9 +1,9 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       :   23059
 
-Student Name      :   < Your good name >
+Student Name      :   Anjali Silawat
 
-Project Title     :   < Problem statement allotted to you >
+Project Title     :   The dataset initially assigned to me was the 'Email Spam Classification Dataset'. However, due to a mistake on my part, I accidentally worked on and submitted the 'Twitter Sentiment Analysis' project instead. I apologize for the confusion caused. Thank you for your understanding.
 
-Google Colab Link :   < View only link of your Google Colab Notebook >
+Google Colab Link :https://colab.research.google.com/drive/15ASNvWUp12XOPSjgc6XU26tdCaOTK6vH?usp=sharing
 
-Summary(Optional) :   < Brief summary of your project >
+Summary(Optional) :   
