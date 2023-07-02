@@ -2,7 +2,7 @@ Roll Number       :   23305
 
 Student Name      :   Priyanka Sahoo
 
-Project Title     :   WorldHappiness Prediction
+Project Title     :   World Happiness Prediction
 
 Google Colab Link :   https://colab.research.google.com/drive/1YhjRNPpB7ousgXJlzbs6C2p-s1FS5rrS?usp=sharing
 
