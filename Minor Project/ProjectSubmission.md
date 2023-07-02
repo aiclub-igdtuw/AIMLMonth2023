@@ -1,9 +1,9 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       :   < 2477 >
 
-Student Name      :   < Your good name >
+Student Name      :   < varda misra >
 
-Project Title     :   < Problem statement allotted to you >
+Project Title     :   < MINOR PROJECT(FETAL HEALTH) >
 
-Google Colab Link :   < View only link of your Google Colab Notebook >
+Juypter notebook Link :   < http://localhost:8888/notebooks/MINOR%20PROJECT(FETAL%20HEALTH).ipynb# >
 
-Summary(Optional) :   < Brief summary of your project >
+Summary(Optional) :   < EDA and logistic regression >
