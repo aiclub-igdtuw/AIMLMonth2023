@@ -1,9 +1,9 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       :   < 23402 >
 
-Student Name      :   < Your good name >
+Student Name      :   < Siddhi Shrivastwa >
 
-Project Title     :   < Problem statement allotted to you >
+Project Title     :   < Movie Recommendation >
 
-Google Colab Link :   < View only link of your Google Colab Notebook >
+Google Colab Link :   < )https://colab.research.google.com/drive/1lDgurwZHRtt7l5YXn68ja5DsU0UttA1i?usp=sharing >
 
-Summary(Optional) :   < Brief summary of your project >
+Summary(Optional) :   < This project deals with a dataset called movies.csv and as of Task 1, it analysis and visualizes comparison, association, etc between variables. >
