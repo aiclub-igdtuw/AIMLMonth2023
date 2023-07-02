@@ -1,9 +1,9 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       :   23258
 
-Student Name      :   < Your good name >
+Student Name      :   Neha Choudhary
 
-Project Title     :   < Problem statement allotted to you >
+Project Title     :   Mechanical Tools Classification
 
-Google Colab Link :   < View only link of your Google Colab Notebook >
+Google Colab Link :   https://colab.research.google.com/drive/1kti1yw60Fxe9Jd5zHvYMz7dK0vaR0rx_?usp=sharing
 
-Summary(Optional) :   < Brief summary of your project >
+Summary(Optional) :   Mechanical tools classification dataset shows the classifications of Mechanical tools like hammer, screw driver,rope,toolbox etc. I have worked on data processing, EDA, feature encoding, Feature Engineering, Split dataset in train-test (80:20 ratio), Model selection, Model training, Model evaluation, fine-tuning the Model, and predictions.
