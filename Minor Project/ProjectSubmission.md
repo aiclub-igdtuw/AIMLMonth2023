@@ -1,9 +1,9 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       :   < 23420 >
 
-Student Name      :   < Your good name >
+Student Name      :   < Sonam >
 
-Project Title     :   < Problem statement allotted to you >
+Project Title     :   < Video Game Rating by 'ESBR' >
 
-Google Colab Link :   < View only link of your Google Colab Notebook >
+Google Colab Link :   < https://colab.research.google.com/drive/1MU3DJUycI2Zr1kOvVz8mMG1E9OmQBOwv?usp=sharing >
 
-Summary(Optional) :   < Brief summary of your project >
+Summary(Optional) :   < NA >
