@@ -1,9 +1,9 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       :   23185
 
-Student Name      :   < Your good name >
+Student Name      :   Kashish Tiwari
 
-Project Title     :   < Problem statement allotted to you >
+Project Title     :   wind speed prediction 
 
-Google Colab Link :   < View only link of your Google Colab Notebook >
+Google Colab Link :    View https://github.com/Kashishtiwari23185/AIMLMonth2023-1 
 
-Summary(Optional) :   < Brief summary of your project >
+Summary(Optional) :   100 percent accuracy 
