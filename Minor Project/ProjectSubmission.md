@@ -1,9 +1,9 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       :   23383
 
-Student Name      :   < Your good name >
+Student Name      :  Shreya Jha
 
-Project Title     :   < Problem statement allotted to you >
+Project Title     :  Red Wine Quality 
 
-Google Colab Link :   < View only link of your Google Colab Notebook >
+Google Colab Link :   https://colab.research.google.com/drive/19d6L1ImxIPyPFxLCcVhRPbYvw_rdrAep?usp=sharing
 
-Summary(Optional) :   < Brief summary of your project >
+Summary(Optional) :  EDA on red wine quality 
