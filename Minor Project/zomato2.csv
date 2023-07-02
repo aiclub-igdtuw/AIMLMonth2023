@@ -1,0 +1,207 @@
+Restaurant ID,Name,Country Code,City,Address,Locality,Locality Verbose,Latitude,Cuisines,Average Cost for two,Currency,Has Table booking,Has Online delivery,Is delivering now,Price range,Aggregate_rating,Longitude
+6317637,Le Petit Souffle,162,Makati City,"Third Floor, Century City Mall, Kalayaan Avenue, Poblacion, Makati City","Century City Mall, Poblacion, Makati City","Century City Mall, Poblacion, Makati City, Makati City",14.565443,"French, Japanese, Desserts",1100,Botswana Pula(P),Yes,No,No,3,4.8,121.027535
+6304287,Izakaya Kikufuji,162,Makati City,"Little Tokyo, 2277 Chino Roces Avenue, Legaspi Village, Makati City","Little Tokyo, Legaspi Village, Makati City","Little Tokyo, Legaspi Village, Makati City, Makati City",14.553708,Japanese,1200,Botswana Pula(P),Yes,No,No,3,4.5,121.014101
+6300002,Heat - Edsa Shangri-La,162,Mandaluyong City,"Edsa Shangri-La, 1 Garden Way, Ortigas, Mandaluyong City","Edsa Shangri-La, Ortigas, Mandaluyong City","Edsa Shangri-La, Ortigas, Mandaluyong City, Mandaluyong City",14.581404,"Seafood, Asian, Filipino, Indian",4000,Botswana Pula(P),Yes,No,No,4,4.4,121.056831
+6318506,Ooma,162,Mandaluyong City,"Third Floor, Mega Fashion Hall, SM Megamall, Ortigas, Mandaluyong City","SM Megamall, Ortigas, Mandaluyong City","SM Megamall, Ortigas, Mandaluyong City, Mandaluyong City",14.585318,"Japanese, Sushi",1500,Botswana Pula(P),No,No,No,4,4.9,121.056475
+6314302,Sambo Kojin,162,Mandaluyong City,"Third Floor, Mega Atrium, SM Megamall, Ortigas, Mandaluyong City","SM Megamall, Ortigas, Mandaluyong City","SM Megamall, Ortigas, Mandaluyong City, Mandaluyong City",14.58445,"Japanese, Korean",1500,Botswana Pula(P),Yes,No,No,4,4.8,121.057508
+18189371,Din Tai Fung,162,Mandaluyong City,"Ground Floor, Mega Fashion Hall, SM Megamall, Ortigas, Mandaluyong City","SM Megamall, Ortigas, Mandaluyong City","SM Megamall, Ortigas, Mandaluyong City, Mandaluyong City",14.583764,Chinese,1000,Botswana Pula(P),No,No,No,3,4.4,121.056314
+6300781,Buffet 101,162,Pasay City,"Building K, SM By The Bay, Sunset Boulevard, Mall of Asia Complex (MOA), Pasay City","SM by the Bay, Mall of Asia Complex, Pasay City","SM by the Bay, Mall of Asia Complex, Pasay City, Pasay City",14.53133333,"Asian, European",2000,Botswana Pula(P),Yes,No,No,4,4,120.9796667
+6301290,Vikings,162,Pasay City,"Building B, By The Bay, Seaside Boulevard, Mall of Asia Complex (MOA), Pasay City","SM by the Bay, Mall of Asia Complex, Pasay City","SM by the Bay, Mall of Asia Complex, Pasay City, Pasay City",14.54,"Seafood, Filipino, Asian, European",2000,Botswana Pula(P),Yes,No,No,4,4.2,120.9793333
+6300010,Spiral - Sofitel Philippine Plaza Manila,162,Pasay City,"Plaza Level, Sofitel Philippine Plaza Manila, CCP Complex, Pasay City","Sofitel Philippine Plaza Manila, Pasay City","Sofitel Philippine Plaza Manila, Pasay City, Pasay City",14.55299,"European, Asian, Indian",6000,Botswana Pula(P),Yes,No,No,4,4.9,120.98009
+6314987,Locavore,162,Pasig City,"Brixton Technology Center, 10 Brixton Street, Kapitolyo, Pasig City",Kapitolyo,"Kapitolyo, Pasig City",14.572041,Filipino,1100,Botswana Pula(P),Yes,No,No,3,4.8,121.056532
+6309903,Silantro Fil-Mex,162,Pasig City,"75 East Capitol Drive, Kapitolyo, Pasig City",Kapitolyo,"Kapitolyo, Pasig City",14.567689,"Filipino, Mexican",800,Botswana Pula(P),No,No,No,3,4.9,121.057916
+6309455,Mad Mark's Creamery & Good Eats,162,Pasig City,"23 East Capitol Drive, Kapitolyo, Pasig City",Kapitolyo,"Kapitolyo, Pasig City",14.570849,"American, Ice Cream, Desserts",900,Botswana Pula(P),Yes,No,No,3,4.2,121.06082
+6318433,Silantro Fil-Mex,162,Quezon City,"Second Floor, UP Town Center, Katipunan Avenue, Diliman, Quezon City","UP Town Center, Diliman, Quezon City","UP Town Center, Diliman, Quezon City, Quezon City",14.649503,"Filipino, Mexican",800,Botswana Pula(P),No,No,No,3,4.8,121.075419
+6310470,Guevarra's,162,San Juan City,"387 P. Guevarra Corner Argonne Street, Addition Hills, San Juan City",Addition Hills,"Addition Hills, San Juan City",14.59345,Filipino,1000,Botswana Pula(P),Yes,No,No,3,4.2,121.0335917
+6314605,Sodam Korean Restaurant,162,San Juan City,"17 J. Abad Santos Drive, Little Baguio, San Juan City",Little Baguio,"Little Baguio, San Juan City",14.59889,Korean,700,Botswana Pula(P),No,No,No,3,4.3,121.03811
+18185059,Cafe Arabelle,162,Santa Rosa,"Ayala Mall, Solenad, Nuvali, Santa Rosa - Tagaytay Road, Don Jose, Santa Rosa","Nuvali, Don Jose, Santa Rosa","Nuvali, Don Jose, Santa Rosa, Santa Rosa",14.237082,"Cafe, American, Italian, Filipino",800,Botswana Pula(P),No,No,No,3,3.6,121.05704
+18182702,Nonna's Pasta & Pizzeria,162,Santa Rosa,"Ground Floor, Building G, Solenad 3, Nuvali, Don Jose, Santa Rosa","Solenad 3, Don Jose, Santa Rosa","Solenad 3, Don Jose, Santa Rosa, Santa Rosa",14.23767897,"Italian, Pizza",850,Botswana Pula(P),No,No,No,3,4,121.0565874
+6318213,Balay Dako,162,Tagaytay City,"Aguinaldo Highway, Tagaytay City",Tagaytay City,"Tagaytay City, Tagaytay City",14.101834,Filipino,1200,Botswana Pula(P),Yes,No,No,3,4.5,120.951589
+18255654,Hobing Korean Dessert Cafe,162,Taguig City,"Third Floor, BGC Stopover Pavillion, Rizal Drive Corner 31st Street, Bonifacio Global City, Taguig City","BGC Stopover Pavillion, Bonifacio Global City","BGC Stopover Pavillion, Bonifacio Global City, Taguig City",14.55436,"Cafe, Korean, Desserts",600,Botswana Pula(P),No,No,No,2,4.5,121.045878
+6308205,Wildflour Cafe + Bakery,162,Taguig City,"Ground Floor, Netlima Building, 4th Avenue Corner 26th Street, Bonifacio Global City, Taguig City",Bonifacio Global City,"Bonifacio Global City, Taguig City",14.549337,"Cafe, Bakery, American, Italian",1500,Botswana Pula(P),Yes,No,No,4,4.4,121.04622
+6315438,NIU by Vikings,162,Taguig City,"Sixth Floor, SM Aura Premier, C5 Road Corner 26th Street, Bonifacio Global City, Taguig City","SM Aura Premier, Bonifacio Global City, Taguig City","SM Aura Premier, Bonifacio Global City, Taguig City, Taguig City",14.545858,"Seafood, American, Mediterranean, Japanese",3000,Botswana Pula(P),Yes,No,No,4,4.7,121.053725
+6310406,The Food Hall by Todd English,162,Taguig City,"Fifth Floor, SM Aura Premier, C5 Corner 26th Street, Bonifacio Global City, Taguig City","SM Aura Premier, Bonifacio Global City, Taguig City","SM Aura Premier, Bonifacio Global City, Taguig City, Taguig City",14.54565535,"American, Asian, Italian, Seafood",1800,Botswana Pula(P),Yes,No,No,4,4.5,121.0534998
+6600681,Chez Michou,30,Bras?lia,"SCLN, 208, Bloco A, Loja 30, Asa Norte, Bras?lia",Asa Norte,"Asa Norte, Bras?lia",-15.76414167,"Fast Food, French",55,Brazilian Real(R$),No,No,No,2,3,-47.88178889
+6601005,Caf? Daniel Briand,30,Bras?lia,"SCLN 104, Bloco A, Loja 26, Asa Norte, Bras?lia",Asa Norte,"Asa Norte, Bras?lia",-15.7775,Cafe,30,Brazilian Real(R$),No,No,No,1,3.8,-47.88266667
+6600292,Casa do Biscoito Mineiro,30,Bras?lia,"SCLN 210, Bloco D, Loja 36/48, Asa Norte, Bras?lia",Asa Norte,"Asa Norte, Bras?lia",-15.75747222,Bakery,45,Brazilian Real(R$),No,No,No,2,3.7,-47.88213611
+6600441,Maori,30,Bras?lia,"CLN 110, Bloco D, Loja 28, Asa Norte, Bras?lia",Asa Norte,"Asa Norte, Bras?lia",-15.75883333,Brazilian,60,Brazilian Real(R$),No,No,No,3,3.8,-47.88816667
+6600970,Pizza ? Bessa,30,Bras?lia,"SCS 214, Bloco C, Loja 40, Asa Sul, Bras?lia",Asa Sul,"Asa Sul, Bras?lia",-15.83116667,Pizza,50,Brazilian Real(R$),No,No,No,2,3.2,-47.91566667
+6600379,Sushi Loko,30,Bras?lia,"SCS 213, Bloco C, Loja 35, Asa Sul, Bras?lia",Asa Sul,"Asa Sul, Bras?lia",-15.831,Japanese,80,Brazilian Real(R$),No,No,No,3,3.1,-47.91566667
+6600214,Beirute,30,Bras?lia,"CLS 109, Bloco A, Loja 2/6, Asa Sul, Bras?lia",Asa Sul,"Asa Sul, Bras?lia",-15.82,Arabian,90,Brazilian Real(R$),No,No,No,3,3.7,-47.9075
+6601218,New Koto,30,Bras?lia,"SCS 212, Bloco B, Loja 26, Asa Sul, Bras?lia",Asa Sul,"Asa Sul, Bras?lia",-15.82733333,Japanese,200,Brazilian Real(R$),No,No,No,4,3.7,-47.91016667
+6600060,Sandubas Caf?,30,Bras?lia,"Edif?cio Jos? Severo, SCS 6, Bloco A, Loja 99, Asa Sul, Bras?lia",Asa Sul,"Asa Sul, Bras?lia",-15.797,"Brazilian, Cafe",30,Brazilian Real(R$),No,No,No,1,0,-47.89016667
+6600083,Villa Tevere,30,Bras?lia,"CLS 115, Bloco A, Loja 2, Asa Sul, Bras?lia",Asa Sul,"Asa Sul, Bras?lia",-15.83133333,Italian,150,Brazilian Real(R$),No,No,No,4,4.1,-47.92366667
+6601515,Rovereto,30,Bras?lia,"Rua 13 Norte, Lote 4, ?guas Claras, Bras?lia",?guas Claras,"?guas Claras, Bras?lia",-15.83716667,Pizza,100,Brazilian Real(R$),No,No,No,4,3.1,-48.019
+6601361,Buena Carne,30,Bras?lia,"Avenida Arauc?rias, 1325, Loja 19, ?guas Claras, Bras?lia",?guas Claras,"?guas Claras, Bras?lia",-15.839775,"Bar Food, Brazilian",60,Brazilian Real(R$),No,No,No,3,3.6,-48.01909167
+6601602,Taco Pep,30,Bras?lia,"Vila Malls, Avenida das Castanheiras, Lote 1060, ?guas Claras, Bras?lia",?guas Claras,"?guas Claras, Bras?lia",-15.83483333,"Mexican, Grill",100,Brazilian Real(R$),No,No,No,4,4.3,-48.01666667
+6601589,Coco Bambu,30,Bras?lia,"Bras?lia Shopping - Piso 2, SCN 5, Bloco A, Asa Norte, Bras?lia","Bras?lia Shopping, Asa Norte","Bras?lia Shopping, Asa Norte, Bras?lia",-15.7865,International,230,Brazilian Real(R$),No,No,No,4,4.2,-47.889
+6601862,Tayp?,30,Bras?lia,"Fashion Park, Shis Ql 17, Bloco G, Loja 208, Lago Sul, Bras?lia",Lago Sul,"Lago Sul, Bras?lia",-15.860621,"Peruvian, Latin American",100,Brazilian Real(R$),No,No,No,4,3.6,-47.872359
+6601595,Outback Steakhouse,30,Bras?lia,"ParkShopping - Piso 2, SAI/SO, ?rea 6580, Guar? I, Bras?lia","ParkShopping, Guar? I","ParkShopping, Guar? I, Bras?lia",-15.83451389,"American, Grill",150,Brazilian Real(R$),No,No,No,4,4,-47.95628333
+6601158,Manzu?,30,Bras?lia,"Pont?o Lago Sul, SHIS 10, Lote 9, Lago Sul, Bras?lia","Pont?o Lago Sul, Lago Sul","Pont?o Lago Sul, Lago Sul, Bras?lia",-15.82566667,Seafood,240,Brazilian Real(R$),No,No,No,4,3.2,-47.87283333
+6600427,Coco Bambu,30,Bras?lia,"SCES, Trecho 2, Conjunto 13/36, Setor de Clubes Esportivos Sul, Bras?lia",Setor De Clubes Esportivos Sul,"Setor De Clubes Esportivos Sul, Bras?lia",-15.819,International,230,Brazilian Real(R$),No,No,No,4,4.9,-47.8685
+6600116,Gero,30,Bras?lia,"Shopping Iguatemi - piso 1, SHIN CA 4, Lote A, Lago Norte, Bras?lia","Shopping Iguatemi, Lago Norte","Shopping Iguatemi, Lago Norte, Bras?lia",-15.720118,Italian,350,Brazilian Real(R$),No,No,No,4,3.3,-47.885812
+6601457,Brazilian American Burgers,30,Bras?lia,"CLSN 301, Bloco C, Loja 86, Sudoeste, Bras?lia",Sudoeste,"Sudoeste, Bras?lia",-15.79753056,"American, Burger",50,Brazilian Real(R$),No,No,No,2,3.6,-47.92102778
+7303219,Pesqueiro Eco Gourmet,30,Rio de Janeiro,"Praia da Barra da Tijuca, Avenida L?cio Costa, Ilha 25, Barra da Tijuca, Rio de Janeiro",Barra da Tijuca,"Barra da Tijuca, Rio de Janeiro",-23.0115,"Seafood, Bar Food, Brazilian",140,Brazilian Real(R$),No,No,No,4,4,-43.377
+7304307,Confeitaria Colombo,30,Rio de Janeiro,"Rua Gon?alves Dias, 32, Centro, Rio de Janeiro",Centro,"Centro, Rio de Janeiro",-22.905293,"Desserts, Cafe",100,Brazilian Real(R$),No,No,No,4,4.8,-43.178826
+7301215,Bibi,30,Rio de Janeiro,"Rua Santa Clara, 36, Copabana, Rio de Janeiro",Copacabana,"Copacabana, Rio de Janeiro",-22.97207222,"Juices, Healthy Food",60,Brazilian Real(R$),No,No,No,3,4.7,-43.18669167
+7300596,Cervantes,30,Rio de Janeiro,"Avenida Prado Junior, 335 B, Copacabana, Rio de Janeiro",Copacabana,"Copacabana, Rio de Janeiro",-22.96216667,"Beverages, Bar Food, Fast Food",90,Brazilian Real(R$),No,No,No,3,4.5,-43.17583333
+7300612,Amir,30,Rio de Janeiro,"Rua Ronald de Carvalho, 55, Copacabana, Rio de Janeiro",Copacabana,"Copacabana, Rio de Janeiro",-22.96516667,Lebanese,170,Brazilian Real(R$),No,No,No,4,4.2,-43.176
+7300704,TT Burger,30,Rio de Janeiro,"Galeria River, Rua Francisco Otaviano, 67, Copacabana, Rio de Janeiro","Galeria River, Copacabana","Galeria River, Copacabana, Rio de Janeiro",-22.98683333,Burger,60,Brazilian Real(R$),No,No,No,3,4.8,-43.191
+7300955,Braseiro da G?vea,30,Rio de Janeiro,"Pra?a Santos Dumont, 116, G?vea, Rio de Janeiro",G?vea,"G?vea, Rio de Janeiro",-22.973507,"Brazilian, Bar Food",100,Brazilian Real(R$),No,No,No,4,4.9,-43.227042
+7300521,Balada Mix,30,Rio de Janeiro,"Rua An?bal de Mendon?a, 37, Ipanema, Rio de Janeiro",Ipanema,"Ipanema, Rio de Janeiro",-22.98520833,"Brazilian, Healthy Food, Juices, Pizza",90,Brazilian Real(R$),No,No,No,3,4.6,-43.211425
+7300515,Garota de Ipanema,30,Rio de Janeiro,"Rua Vinicius de Moraes, 49, Ipanema, Rio de Janeiro",Ipanema,"Ipanema, Rio de Janeiro",-22.98533333,"Brazilian, Bar Food",120,Brazilian Real(R$),No,No,No,4,4.9,-43.203
+7300483,Zaz? Bistr? Tropical,30,Rio de Janeiro,"Rua Joana Ang?lica, 40, Ipanema, Rio de Janeiro",Ipanema,"Ipanema, Rio de Janeiro",-22.98531944,Brazilian,170,Brazilian Real(R$),No,No,No,4,4.6,-43.20520833
+7301064,Fil? de Ouro,30,Rio de Janeiro,"Rua Jardim Bot?nico, 731, Jardim Bot?nico, Lagoa, Rio de Janeiro",Lagoa,"Lagoa, Rio de Janeiro",-22.966647,Brazilian,90,Brazilian Real(R$),No,No,No,3,4.3,-43.219563
+7304312,D.O.C Ristorante,30,Rio de Janeiro,"Le Monde, Bloco 3, Lojas A/B, Avenida das Am?ricas, 3500, Barra da Tijuca, Rio de Janeiro","Le Monde, Barra da Tijuca","Le Monde, Barra da Tijuca, Rio de Janeiro",-22.99991111,Italian,150,Brazilian Real(R$),No,No,No,4,4,-43.34879167
+7300004,Sushi Leblon,30,Rio de Janeiro,"Rua Dias Ferreira, 256, Leblon, Rio de Janeiro",Leblon,"Leblon, Rio de Janeiro",-22.98416667,Japanese,250,Brazilian Real(R$),No,No,No,4,4.6,-43.227
+7300868,Talho Capixaba,30,Rio de Janeiro,"Avenida Ataulfo de Paiva, 1022, Lojas A e B, Leblon, Rio de Janeiro",Leblon,"Leblon, Rio de Janeiro",-22.98516667,"Bakery, Sandwich, Brazilian",120,Brazilian Real(R$),No,No,No,4,4.4,-43.22566667
+7302637,Leme Light,30,Rio de Janeiro,"Rua Gustavo Sampaio, 798, Leme, Rio de Janeiro",Leme,"Leme, Rio de Janeiro",-22.963925,Brazilian,40,Brazilian Real(R$),No,No,No,2,4.2,-43.17279167
+7302140,Shirley,30,Rio de Janeiro,"Rua Gustavo Sampaio, 610, Leme, Rio de Janeiro",Leme,"Leme, Rio de Janeiro",-22.96337222,"Brazilian, Seafood",250,Brazilian Real(R$),No,No,No,4,4.2,-43.17126389
+7305048,Quiosque Chopp Brahma,30,Rio de Janeiro,"Madureira Shopping - Loja 289/290, Piso 2, Estrada do Portela, 222, Madureira, Rio de Janeiro, RJ",Madureira,"Madureira, Rio de Janeiro",-22.870413,"Bar Food, Brazilian",70,Brazilian Real(R$),No,No,No,3,0,-43.341164
+7302898,Apraz?vel,30,Rio de Janeiro,"Rua Apraz?vel, 62, Santa Teresa, Rio de Janeiro",Santa Teresa,"Santa Teresa, Rio de Janeiro",-22.92481389,Brazilian,300,Brazilian Real(R$),No,No,No,4,4.7,-43.18736944
+7302859,Aconchego Carioca,30,Rio de Janeiro,"Rua Bar?o de Iguatemi, 379, Tijuca, Rio de Janeiro",Tijuca,"Tijuca, Rio de Janeiro",-22.91370833,"Brazilian, Bar Food",85,Brazilian Real(R$),No,No,No,3,4.6,-43.21551111
+7301700,Garota de Ipanema,30,Rio de Janeiro,"Avenida Jo?o Alves, 56, Urca, Rio de Janeiro",Urca,"Urca, Rio de Janeiro",-22.94783333,"Brazilian, Bar Food",80,Brazilian Real(R$),No,No,No,3,4.3,-43.16266667
+6706313,Cantina Famiglia Mancini,30,S?o Paulo,"Rua Avanhandava, 81, Bela Vista, S?o Paulo 10000","Bela Vista, Centro","Bela Vista, Centro, S?o Paulo",-23.55066667,"Italian, Pizza",250,Brazilian Real(R$),No,No,No,4,4.5,-46.64516667
+6704326,Templo da Carne - Marcos Bassi,30,S?o Paulo,"Rua Treze de Maio, 668, Bela Vista, S?o Paulo 01327000","Bela Vista, Centro","Bela Vista, Centro, S?o Paulo",-23.559,"Steak, BBQ",250,Brazilian Real(R$),No,No,No,4,4.4,-46.64633333
+6711179,Gopala Hari,30,S?o Paulo,"Rua Antonio Carlos, 429, Consola??o, S?o Paulo",Consola??o,"Consola??o, S?o Paulo",-23.55616667,Indian,70,Brazilian Real(R$),No,No,No,3,3.1,-46.65866667
+6702797,Jiquitaia,30,S?o Paulo,"Rua Ant?nio Carlos, 268, Consola??o, S?o Paulo",Consola??o,"Consola??o, S?o Paulo",-23.55671,Brazilian,100,Brazilian Real(R$),No,No,No,4,4.1,-46.657523
+6700475,Skye - Hotel Unique,30,S?o Paulo,"Hotel Unique, Avenida Brigadeiro Lu?s Ant?nio, 4700, Jardim Paulista, S?o Paulo","Hotel Unique, Jardim Paulista","Hotel Unique, Jardim Paulista, S?o Paulo",-23.581688,"Beverages, International",300,Brazilian Real(R$),No,No,No,4,4.8,-46.666851
+6713413,Les 3 Brasseurs,30,S?o Paulo,"Rua Jesu?no Arruda, 470, Itaim Bibi, S?o Paulo",Itaim Bibi,"Itaim Bibi, S?o Paulo",-23.582135,"French, Brazilian, Beverages",120,Brazilian Real(R$),No,No,No,4,4.6,-46.67511
+6714340,Red Steak & Burger,30,S?o Paulo,"Rua Tabapu?, 1417, Itaim Bibi, S?o Paulo",Itaim Bibi,"Itaim Bibi, S?o Paulo",-23.585324,"Brazilian, Grill",75,Brazilian Real(R$),No,No,No,3,3.9,-46.683888
+6710645,Cantinho da Gula,30,S?o Paulo,"Rua Pedroso Alvarenga, 522, Itaim Bibi, S?o Paulo, SP",Itaim Bibi,"Itaim Bibi, S?o Paulo",-23.581,Brazilian,55,Brazilian Real(R$),No,No,No,2,0,-46.67566667
+6700402,Paris 6 Classique,30,S?o Paulo,"Rua Haddock Lobo, 1240, Cerqueira C?sar, Jardim Paulista, S?o Paulo",Jardim Paulista,"Jardim Paulista, S?o Paulo",-23.561568,French,200,Brazilian Real(R$),No,No,No,4,3.4,-46.666041
+6700846,Kawa Sushi,30,S?o Paulo,"Alameda Lorena, 300, Jardim Paulista, S?o Paulo",Jardim Paulista,"Jardim Paulista, S?o Paulo",-23.571638,"Sushi, Japanese",120,Brazilian Real(R$),No,No,No,4,3.5,-46.657418
+6702159,A Figueira Rubaiyat,30,S?o Paulo,"Rua Haddock Lobo, 1738, Cerqueira C?sar, Jardim Paulista, S?o Paulo 10000",Jardim Paulista,"Jardim Paulista, S?o Paulo",-23.5655,"BBQ, Grill, Brazilian",300,Brazilian Real(R$),No,No,No,4,4.3,-46.66983333
+6711666,Kinoshita,30,S?o Paulo,"Rua Jacques F?lix, 405, Vila Nova Concei??o, Moema, S?o Paulo",Moema,"Moema, S?o Paulo",-23.59233333,Sushi,230,Brazilian Real(R$),No,No,No,4,3.9,-46.67133333
+6701257,Meats,30,S?o Paulo,"Rua dos Pinheiros, 320, Pinheiros, S?o Paulo",Pinheiros,"Pinheiros, S?o Paulo",-23.56483333,"Gourmet Fast Food, Burger",120,Brazilian Real(R$),No,No,No,4,4.3,-46.68133333
+6706211,Paribar,30,S?o Paulo,"Pra?a Dom Jos? Gaspar, 42, Rep?blica, S?o Paulo 10000",Rep?blica,"Rep?blica, S?o Paulo",-23.54664167,"Brazilian, Italian",150,Brazilian Real(R$),No,No,No,4,4.3,-46.64159444
+6705858,Terra?o It?lia,30,S?o Paulo,"Edif?cio It?lia - 41? Andar, Avenida Ipiranga, 344, Rep?blica, S?o Paulo",Rep?blica,"Rep?blica, S?o Paulo",-23.545163,Italian,400,Brazilian Real(R$),No,No,No,4,4.4,-46.643425
+6701419,Divino Fog?o,30,S?o Paulo,"Shopping Metr? Santa Cruz - Piso L2, Rua Domingos de Morais, 2564, Vila Mariana, S?o Paulo","Shopping Metr? Santa Cruz, Vila Mariana","Shopping Metr? Santa Cruz, Vila Mariana, S?o Paulo",-23.5995,"Brazilian, Mineira",65,Brazilian Real(R$),No,No,No,3,0,-46.63716667
+6703956,Super Grill,30,S?o Paulo,"Shopping Morumbi - Piso Lazer, Avenida Roque Petroni J?nior, 1089, Santo Amaro, S?o Paulo","Shopping Morumbi, Santo Amaro","Shopping Morumbi, Santo Amaro, S?o Paulo",-23.622925,Brazilian,50,Brazilian Real(R$),No,No,No,2,0,-46.698574
+6709580,Esquina Mocot?,30,S?o Paulo,"Avenida Nossa Senhora do Loreto, 1104, Vila Medeiros, Vila Maria, S?o Paulo",Vila Maria,"Vila Maria, S?o Paulo",-23.486535,"Brazilian, North Eastern",100,Brazilian Real(R$),No,No,No,4,4.4,-46.581672
+6703176,Veloso,30,S?o Paulo,"Rua Concei??o Veloso, 56, Vila Mariana, S?o Paulo",Vila Mariana,"Vila Mariana, S?o Paulo",-23.58516667,"Brazilian, Bar Food, Beverages",70,Brazilian Real(R$),No,No,No,3,4.6,-46.63566667
+6713772,Sainte Marie Gastronomia,30,S?o Paulo,"Rua Dom Jo?o Batista da Costa, 70, Vila S?nia, S?o Paulo",Vila S?nia,"Vila S?nia, S?o Paulo",-23.609207,"Lebanese, Arabian",120,Brazilian Real(R$),No,No,No,4,4.1,-46.746958
+17284404,Austin's BBQ and Oyster Bar,216,Albany,"2820 Meredyth Dr, Albany, GA 31707",Albany,"Albany, Albany",31.610387,"BBQ, Burger, Seafood",25,Dollar($),No,No,No,2,3.3,-84.221535
+17284203,BJ's Country Buffet,216,Albany,"2401 Dawson Rd, Albany, GA 31707",Albany,"Albany, Albany",31.608743,"American, BBQ",10,Dollar($),No,No,No,1,3.3,-84.207095
+17284105,Cookie Shoppe,216,Albany,"115 N Jackson St, Albany, GA 31701",Albany,"Albany, Albany",31.5772,Italian,0,Dollar($),No,No,No,1,3.4,-84.154
+17284302,El Vaquero Mexican Restaurant,216,Albany,"2700 Dawson Rd, Albany, GA 31707",Albany,"Albany, Albany",31.6158,Mexican,0,Dollar($),No,No,No,1,3.4,-84.2194
+17284397,Elements Coffee Co - Northwest,216,Albany,"2726 Ledo Rd Ste 10, Albany, GA 31707",Albany,"Albany, Albany",31.622412,"Coffee and Tea, Sandwich",10,Dollar($),No,No,No,1,3.4,-84.206944
+17284211,Pearly's Famous Country Cookng,216,Albany,"814 N Slappey Blvd, Albany, GA 31701",Albany,"Albany, Albany",31.5882,"Mediterranean, Tapas, Vegetarian",0,Dollar($),No,No,No,1,3.4,-84.1759
+17284094,Chick-fil-A,216,Albany,"2703 Dawson Rd, Albany, GA 31707",Albany,"Albany, Albany",31.616,Fast Food,10,Dollar($),No,No,No,1,3.5,-84.2193
+17284409,Guang Zhou Chinese Restaurant,216,Albany,"1214 N Westover Blvd, Albany, GA 31707",Albany,"Albany, Albany",31.6155186,"Asian, Chinese, Vegetarian",10,Dollar($),No,No,No,1,3.9,-84.2091458
+17284139,Harvest Moon,216,Albany,"2347 Dawson Road, Albany, GA 31707",Albany,"Albany, Albany",31.604905,"Pizza, Bar Food, Sandwich",25,Dollar($),No,No,No,2,3.7,-84.205718
+17284403,Henry Campbell's Steakhouse,216,Albany,"629 N. Westover Blvd, Albany, GA 31707",Albany,"Albany, Albany",31.612121,"Steak, Tapas, Bar Food",70,Dollar($),No,No,No,4,3.5,-84.223278
+17284145,Hong Kong Cafe,216,Albany,"2700 Dawson Rd, Albany, GA 31707",Albany,"Albany, Albany",31.6156,"Chinese, Seafood, Vegetarian",25,Dollar($),No,No,No,2,3.6,-84.2191
+17284150,House of China Restaurant II,216,Albany,"2526 Dawson Rd Ste A, Albany, GA 31707",Albany,"Albany, Albany",31.6104,Chinese,10,Dollar($),No,No,No,1,3.8,-84.212
+17284158,Jimmie's Hot Dogs,216,Albany,"204 S Jackson St, Albany, GA 31701",Albany,"Albany, Albany",31.5751,American,10,Dollar($),No,No,No,1,3.9,-84.1534
+17284175,Locos Grill & Pub,216,Albany,"547 N Westover Blvd, Albany, GA 31707",Albany,"Albany, Albany",31.6077,"American, Burger, Sandwich",25,Dollar($),No,No,No,2,3.5,-84.2228
+17284179,Longhorn Steakhouse,216,Albany,"2733 Dawson Rd, Albany, GA 31707",Albany,"Albany, Albany",31.6185,"American, Steak",25,Dollar($),No,No,No,2,3.5,-84.2229
+17284197,Mikata Japanese Steakhouse,216,Albany,"2610 Dawson Rd, Albany, GA 31707",Albany,"Albany, Albany",31.6137,"Japanese, Steak, Sushi",40,Dollar($),No,No,No,3,3.6,-84.2164
+17284241,Shogun Japanese Steak House,216,Albany,"629 N Westover Blvd, Albany, GA 31707",Albany,"Albany, Albany",31.6118,"Japanese, Steak, Sushi",40,Dollar($),No,No,No,3,3.5,-84.2233
+17284390,The Catch Seafood Room & Oyster Bar,216,Albany,"2332 Whispering Pines Road, Albany, GA 31707",Albany,"Albany, Albany",31.605882,"Seafood, Tapas, Bar Food",40,Dollar($),No,No,No,3,3.8,-84.205025
+17284279,Villa Gargano,216,Albany,"1604 N Slappey Blvd, Albany, GA 31701",Albany,"Albany, Albany",31.5985,"Italian, Pizza",10,Dollar($),No,No,No,1,3.7,-84.1757
+17284364,3 Squares Diner,216,Albany,"202 W Franklin St, Sylvester, GA 31791",Sylvester,"Sylvester, Albany",31.5308,"American, Breakfast, Diner",10,Dollar($),No,No,No,1,3.4,-83.8389
+16611114,Whitebull Hotel,14,Armidale,"117 Marsh St, Armidale, NSW",Armidale,"Armidale, Armidale",-30.5147169,"Bar Food, Steak",20,Dollar($),No,No,No,2,3.5,151.6688792
+17293281,Last Resort Grill,216,Athens,"184 W Clayton St, Athens, GA 30601",Athens,"Athens, Athens",33.957999,"American, Southern, Southwestern",40,Dollar($),No,No,No,3,4.5,-83.378273
+17293301,Mama's Boy Restaurant,216,Athens,"197 Oak St, GA 30601",Athens,"Athens, Athens",33.9535,Southern,10,Dollar($),No,No,No,1,4.5,-83.3654
+17293409,Sr. Sol 1,216,Athens,"175 Tallassee Rd, Athens, GA 30606",Athens,"Athens, Athens",33.9652,Mexican,10,Dollar($),No,No,No,1,4.6,-83.4293
+17293163,Choo Choo Eastside,216,Athens,"1055 Gaines School Rd Ste 100, Athens, GA 30605",Athens,"Athens, Athens",33.9259,"Japanese, Korean",10,Dollar($),No,No,No,1,3.9,-83.3389
+17293228,The Grill,216,Athens,"171 College Ave, Athens, GA 30601",Athens,"Athens, Athens",33.958198,"Breakfast, Burger, Sandwich",10,Dollar($),No,No,No,1,3.7,-83.375523
+17293880,Big City Bread Cafe,216,Athens,"393 N Finley St, Athens, GA 30601",Athens,"Athens, Athens",33.959392,"Breakfast, Sandwich",10,Dollar($),No,No,No,1,4.3,-83.384004
+17293169,Clocked,216,Athens,"259 W Washington St, Athens, GA 30601",Athens,"Athens, Athens",33.9584,"American, Burger, Sandwich",10,Dollar($),No,No,No,1,4.2,-83.3797
+17293186,DePalma's Italian Cafe - Downtown,216,Athens,"401 E Broad St, Athens, GA 30601",Athens,"Athens, Athens",33.958112,"American, Italian, Pizza",25,Dollar($),No,No,No,2,4,-83.373596
+17293180,DePalma's Italian Cafe - East Side,216,Athens,"1965 Barnett Shoals Rd, Athens, GA 30605",Athens,"Athens, Athens",33.924275,"American, Italian, Pizza",25,Dollar($),No,No,No,2,4.1,-83.33995
+17293205,Five & Ten,216,Athens,"1073 South Milledge Ave, Athens, GA 30605",Athens,"Athens, Athens",33.9415545,American,40,Dollar($),No,No,No,3,4.3,-83.3872482
+17293229,Grit,216,Athens,"199 Prince Ave, Athens, GA 30601",Athens,"Athens, Athens",33.960112,"International, Southern, Vegetarian",10,Dollar($),No,No,No,1,4.2,-83.381625
+17293897,Ike & Jane,216,Athens,"1307 Prince Ave, Athens, GA 30606",Athens,"Athens, Athens",33.963296,Sandwich,10,Dollar($),No,No,No,1,4.1,-83.400887
+17293273,La Dolce Vita Ristorante,216,Athens,"323 E Broad St, Athens, GA 30601",Athens,"Athens, Athens",33.9584,Italian,40,Dollar($),No,No,No,3,4.1,-83.4075
+17293870,Shokitini,216,Athens,"251 W Clayton St, Athens, GA 30601",Athens,"Athens, Athens",33.957503,"Asian, Japanese, Sushi",25,Dollar($),No,No,No,2,4.2,-83.379251
+17293877,Taqueria Del Sol,216,Athens,"334 Prince Ave, Athens, GA 30601",Athens,"Athens, Athens",33.960571,"Mexican, Spanish",10,Dollar($),No,No,No,1,4.1,-83.383605
+17293890,The National,216,Athens,"232 W. Hancock Ave., Athens, GA 30601",Athens,"Athens, Athens",33.959468,"International, Southern",40,Dollar($),No,No,No,3,4.1,-83.37967
+17293915,The Royal Peasant,216,Athens,"1675 S. Lumpkin St., Athens, GA 30606",Athens,"Athens, Athens",33.937502,Bar Food,10,Dollar($),No,No,No,1,4.4,-83.38728
+17293422,Transmetropolitan,216,Athens,"145 E Clayton St, Athens, GA 30601",Athens,"Athens, Athens",33.9584,"Italian, Pizza, Sandwich",10,Dollar($),No,No,No,1,4.4,-83.3764
+17293873,Trappeze Pub,216,Athens,"269 N Hull St, Athens, GA 30601",Athens,"Athens, Athens",33.958363,"Burger, Bar Food",25,Dollar($),No,No,No,2,4.2,-83.378881
+17294014,Viva! Argentine Cuisine,216,Athens,"247 Prince Ave, Athens, GA 30601",Athens,"Athens, Athens",33.9600227,"Desserts, Latin American, Argentine",10,Dollar($),No,No,No,1,4.1,-83.3828224
+17294556,Miyabi Kyoto Japanese Steak House,216,Augusta,"1315 Augusta West Pkwy, Augusta, GA 30909",Augusta,"Augusta, Augusta",33.4721,"Chinese, Steak",40,Dollar($),No,No,No,3,4.6,-82.0865
+17294607,Rae's Coastal Cafe,216,Augusta,"3208 W Wimbledon Dr, Augusta, GA 30909",Augusta,"Augusta, Augusta",33.4791,"American, Caribbean, Seafood",40,Dollar($),No,No,No,3,4.9,-82.0698
+17294279,The Bee's Knees,216,Augusta,"211 10th Street, Augusta, GA 30901",Augusta,"Augusta, Augusta",33.4765,"International, Tapas, Vegetarian",25,Dollar($),No,No,No,2,4.5,-81.97
+17294300,Boll Weevil Cafe,216,Augusta,"10 9th St, Augusta, GA 30901",Augusta,"Augusta, Augusta",33.474,"Desserts, Sandwich, Southern",10,Dollar($),No,No,No,1,3.9,-81.9684
+17295028,Manuel's Bread Cafe,216,Augusta,"505 Railroad Ave, North Augusta, GA 29841",Augusta,"Augusta, Augusta",33.481779,"Breakfast, French",40,Dollar($),No,No,No,3,3.8,-81.965571
+17294642,Sconyers Bar B Que,216,Augusta,"2250 Sconyers Way, Augusta, GA 30906",Augusta,"Augusta, Augusta",33.4086,BBQ,25,Dollar($),No,No,No,2,3.5,-82.0327
+17295109,Frog Hollow Tavern,216,Augusta,"1282 broad street, Augusta, GA 30901",Augusta,"Augusta, Augusta",33.478231,American,40,Dollar($),No,No,No,3,4.3,-81.974944
+17294441,Giuseppe's Pizza & Italian Specialities,216,Augusta,"3690 Wheeler Rd, Augusta, GA 30909",Augusta,"Augusta, Augusta",33.4827,"Desserts, Italian, Pizza",25,Dollar($),No,No,No,2,4.1,-82.096
+17294552,Mellow Mushroom,216,Augusta,"1167 Broad St, Augusta, GA 30901",Augusta,"Augusta, Augusta",33.4778,"Italian, Pizza, Sandwich",25,Dollar($),No,No,No,2,4.4,-81.9721
+17294565,Nacho Mamas Burritos,216,Augusta,"976 Broad St, Augusta, GA 30901",Augusta,"Augusta, Augusta",33.4764,Mexican,10,Dollar($),No,No,No,1,4,-81.9694
+17294623,Rhinehart's Oyster Bar,216,Augusta,"3051 Washington Rd, Augusta, GA 30907",Augusta,"Augusta, Augusta",33.5133,"Bar Food, Sandwich, Seafood",25,Dollar($),No,No,No,2,4,-82.0505
+17294712,Takosushi,216,Augusta,"437 Highland Ave, Augusta, GA 30909",Augusta,"Augusta, Augusta",33.4848,"Mexican, Southwestern, Sushi",40,Dollar($),No,No,No,3,4.2,-82.0301
+17295033,The Chop House,216,Augusta,"Augusta Mall, Augusta, GA 30909",Augusta,"Augusta, Augusta",33.467201,Steak,40,Dollar($),No,No,No,3,4,-82.080788
+17295069,The Taj of India,216,Augusta,"502 Furys Ferry Rd, Augusta, GA 30907",Augusta,"Augusta, Augusta",33.5375868,Indian,25,Dollar($),No,No,No,2,4,-82.0805493
+17294261,Augsburg Haus,216,Augusta,"4460 Washington Road, Evans, GA 30809",Evans,"Evans, Augusta",33.544342,German,25,Dollar($),No,No,No,2,3.9,-82.143793
+17295115,Pho Bac,216,Augusta,"4300 Towne Centre, Evans, GA 30809",Evans,"Evans, Augusta",33.532249,Vietnamese,10,Dollar($),No,No,No,1,4.1,-82.126161
+17294836,Rhinehart's Oyster Bar,216,Augusta,"303 North Bel Air Rd, Evans, GA 30809",Evans,"Evans, Augusta",33.521291,"Burger, Seafood",25,Dollar($),No,No,No,2,4,-82.141284
+17294850,Thai Kitchen,216,Augusta,"4357 Washington Road, Evans, GA 30809",Evans,"Evans, Augusta",33.5406,Thai,35,Dollar($),No,No,No,3,4.3,-82.1328
+17294883,El Kiosco Mexican Restaurant,216,Augusta,"5174 Wrightsboro Rd, Grovetown, GA 30813",Grovetown,"Grovetown, Augusta",33.4574,Mexican,10,Dollar($),No,No,No,1,4.2,-82.1997
+16608864,Taste of Balingup,14,Balingup,"63 South Western Hwy, Balingup, WA",Balingup,"Balingup, Balingup",-33.7845269,Modern Australian,20,Dollar($),No,No,No,2,3.2,115.9844924
+16604911,Bridge Road Brewers,14,Beechworth,"Old Coach House 50 Ford St, Beechworth, Beechworth, VIC",Beechworth,"Beechworth, Beechworth",-36.360439,"Pizza, Bar Food",20,Dollar($),No,No,No,2,4.6,146.685852
+17303465,Bardenay,216,Boise,"610 W Grove St, Boise, ID 83702",Boise,"Boise, Boise",43.6138,"American, Bar Food",25,Dollar($),No,No,No,2,4.5,-116.2019
+17303642,Flatbread Neapolitan Pizzeria,216,Boise,"800 W Main Suite 230, Boise, ID 83702",Boise,"Boise, Boise",43.616068,"Italian, Pizza",25,Dollar($),No,No,No,2,4.6,-116.203466
+17303670,Goldy's Breakfast Bistro,216,Boise,"108 S Capitol Blvd, Boise, ID 83702",Boise,"Boise, Boise",43.6149,"Breakfast, Sandwich",25,Dollar($),No,No,No,2,4.5,-116.2023
+17303545,Chandlers Steakhouse,216,Boise,"981 W Grove St, Boise, ID 83702",Boise,"Boise, Boise",43.6157,"American, Seafood, Steak",70,Dollar($),No,No,No,4,3.9,-116.2064
+17303655,Bar Gernika Basque Pub & Eatery,216,Boise,"202 S Capitol Blvd, Boise, ID 83702",Boise,"Boise, Boise",43.614,"European, Spanish",10,Dollar($),No,No,No,1,4.3,-116.2031
+17304691,Barbacoa Restaurant,216,Boise,"276 Bobwhite Ct, Boise, ID 83706",Boise,"Boise, Boise",43.597235,"Latin American, Steak",70,Dollar($),No,No,No,4,4.1,-116.185034
+17303478,Big Jud's,216,Boise,"1289 Protest Rd, Boise, ID 83706",Boise,"Boise, Boise",43.5945,"American, Burger, Sandwich",10,Dollar($),No,No,No,1,4.2,-116.2062
+17303480,Bittercreek Ale House,216,Boise,"246 N 8th St, Boise, ID 83702",Boise,"Boise, Boise",43.6167,"American, Bar Food",25,Dollar($),No,No,No,2,4.3,-116.2022
+17304733,Boise Fry Company,216,Boise,"204 N Capitol Blvd, Boise, ID 83702",Boise,"Boise, Boise",43.610279,"American, Burger",10,Dollar($),No,No,No,1,4.4,-116.193409
+17303646,Flying Pie Pizzaria,216,Boise,"6508 W Fairview Ave, Boise, ID 83704",Boise,"Boise, Boise",43.6192,Pizza,25,Dollar($),No,No,No,2,4.1,-116.2625
+17304929,Fork,216,Boise,"199 N 8th St, Boise, ID 83702",Boise,"Boise, Boise",43.616295,"American, Burger",25,Dollar($),No,No,No,2,4.4,-116.202845
+17303684,Guido's Original New York Style Pizza,216,Boise,"235 N 5th St, Boise, ID 83702",Boise,"Boise, Boise",43.615,Pizza,10,Dollar($),No,No,No,1,4.3,-116.199
+17303772,Los Beto's,216,Boise,"5220 W Fairview Ave, Boise, ID 83706",Boise,"Boise, Boise",43.6191,Mexican,10,Dollar($),No,No,No,1,4.4,-116.2463
+17305123,Lucianos Italian Restaurant,216,Boise,"11 N Orchard St, Boise, ID 83706",Boise,"Boise, Boise",43.6051379,"Italian, Seafood, Vegetarian",25,Dollar($),No,No,No,2,4.4,-116.245165
+17303787,Mai Thai Restaurant,216,Boise,"750 W Idaho St, Boise, ID 83702",Boise,"Boise, Boise",43.6162,"Sushi, Thai",40,Dollar($),No,No,No,3,4,-116.2021
+17303990,Shige Japanese Cuisine,216,Boise,"100 N 8th St, Boise, ID 83702",Boise,"Boise, Boise",43.6156,"Japanese, Sushi, Teriyaki",25,Dollar($),No,No,No,2,4.1,-116.2031
+17304741,The Egg Factory,216,Boise,"8061 W Fairview Ave, Boise, ID 83704",Boise,"Boise, Boise",43.619274,Breakfast,10,Dollar($),No,No,No,1,4.3,-116.281809
+17304726,Tucanos,216,Boise,"1388 S Entertainment Ave, Boise, ID 83709",Boise,"Boise, Boise",43.591706,Brazilian,40,Dollar($),No,No,No,3,4,-116.280614
+17304533,Brick 29,216,Boise,"320 11th Avenue S, Nampa, ID 83651",Nampa,"Nampa, Boise",43.5777,American,40,Dollar($),No,No,No,3,4.4,-116.5629
+17316233,Winifreds,216,Cedar Rapids/Iowa City,"3847 1st Ave SE, Cedar Rapids, IA 52402",Cedar Rapids,"Cedar Rapids, Cedar Rapids/Iowa City",42.0179,"American, Mediterranean, Seafood",40,Dollar($),No,No,No,3,3.7,-91.6336
+17315883,Biaggi's Ristorante Italiano,216,Cedar Rapids/Iowa City,"320 Collins Rd NE, Cedar Rapids, IA 52402",Cedar Rapids,"Cedar Rapids, Cedar Rapids/Iowa City",42.0281,"Italian, Pizza",40,Dollar($),No,No,No,3,4.1,-91.6327
+17315995,El Super Burrito,216,Cedar Rapids/Iowa City,"3300 Johnson Ave NW, Cedar Rapids, IA 52405",Cedar Rapids,"Cedar Rapids, Cedar Rapids/Iowa City",41.9748,Mexican,10,Dollar($),No,No,No,1,4.1,-91.7148
+17316018,Granite City Food & Brewery,216,Cedar Rapids/Iowa City,"4755 1st Ave SE, Cedar Rapids, IA 52402",Cedar Rapids,"Cedar Rapids, Cedar Rapids/Iowa City",42.0249,"American, Breakfast, Burger",40,Dollar($),No,No,No,3,4.1,-91.6224
+17316038,Irish Democrat,216,Cedar Rapids/Iowa City,"3207 1st Ave SE, Cedar Rapids, IA 52402",Cedar Rapids,"Cedar Rapids, Cedar Rapids/Iowa City",42.01,"American, BBQ, Burger",25,Dollar($),No,No,No,2,4.4,-91.6347
+17316771,Taste of India,216,Cedar Rapids/Iowa City,"1060 Old Marion Rd NE, Cedar Rapids, IA 52402",Cedar Rapids,"Cedar Rapids, Cedar Rapids/Iowa City",42.0215347,Indian,25,Dollar($),No,No,No,2,4.2,-91.6499622
+17316201,Thai Moon Restaurant,216,Cedar Rapids/Iowa City,"4362 16th Ave SW, Cedar Rapids, IA 52404",Cedar Rapids,"Cedar Rapids, Cedar Rapids/Iowa City",41.9639,"Chinese, Sushi, Thai",10,Dollar($),No,No,No,1,4.2,-91.7266
+17316208,Ting's Red Lantern,216,Cedar Rapids/Iowa City,"540 Boyson Rd NE, Cedar Rapids, IA 52402",Cedar Rapids,"Cedar Rapids, Cedar Rapids/Iowa City",42.0468,Chinese,10,Dollar($),No,No,No,1,4.2,-91.6394
+17316389,Monica's,216,Cedar Rapids/Iowa City,"303 2nd Street, Coralville, IA 52241",Coralville,"Coralville, Cedar Rapids/Iowa City",41.670466,"American, Italian, Pizza",25,Dollar($),No,No,No,2,3.8,-91.569767
+17316278,Exotic India,216,Cedar Rapids/Iowa City,"102 2nd Ave, Coralville, IA 52241",Coralville,"Coralville, Cedar Rapids/Iowa City",41.6685,Indian,25,Dollar($),No,No,No,2,4.1,-91.5687
+17316744,Shorts Burger and Shine,216,Cedar Rapids/Iowa City,"18 S Clinton St, Iowa City, IA 52240",Iowa City,"Iowa City, Cedar Rapids/Iowa City",41.660982,Burger,10,Dollar($),No,No,No,1,4.9,-91.534424
+17316751,The Hamburg Inn No. 2 Inc.,216,Cedar Rapids/Iowa City,"214 N Linn St, Iowa City, IA 52245",Iowa City,"Iowa City, Cedar Rapids/Iowa City",41.663849,"American, Breakfast, Burger",10,Dollar($),No,No,No,1,4.5,-91.531414
+17316766,Bluebird Diner,216,Cedar Rapids/Iowa City,"330 E Market St, Iowa City, IA 52245",Iowa City,"Iowa City, Cedar Rapids/Iowa City",41.663751,"Breakfast, Diner",25,Dollar($),No,No,No,2,3.6,-91.531093
+17316743,Graze,216,Cedar Rapids/Iowa City,"115 East College St, Iowa City, IA 52240",Iowa City,"Iowa City, Cedar Rapids/Iowa City",41.658691,"American, International, Sushi",40,Dollar($),No,No,No,3,3.8,-91.534302
+17316374,A & A Pagliai's Pizza,216,Cedar Rapids/Iowa City,"302 E Bloomington St, Iowa City, IA 52245",Iowa City,"Iowa City, Cedar Rapids/Iowa City",41.6648,Pizza,25,Dollar($),No,No,No,2,4.3,-91.5314
+17316381,Atlas World Grill,216,Cedar Rapids/Iowa City,"127 Iowa Ave, Iowa City, IA 52240",Iowa City,"Iowa City, Cedar Rapids/Iowa City",41.661,International,40,Dollar($),No,No,No,3,4.3,-91.5341
+17316802,BlackStone,216,Cedar Rapids/Iowa City,"503 Westbury Dr Ste 1, Iowa City, IA 52245",Iowa City,"Iowa City, Cedar Rapids/Iowa City",41.667742,"American, Breakfast",25,Dollar($),No,No,No,2,4.1,-91.482165
+17316416,Devotay,216,Cedar Rapids/Iowa City,"117 N Linn St, Iowa City, IA 52245",Iowa City,"Iowa City, Cedar Rapids/Iowa City",41.6625,"Mediterranean, Tapas, Vegetarian",40,Dollar($),No,No,No,3,4,-91.5318
+17316449,Jimmy Jack's Rib Shack,216,Cedar Rapids/Iowa City,"1940 Lower Muscatine Rd, Iowa City, IA 52240",Iowa City,"Iowa City, Cedar Rapids/Iowa City",41.6428,BBQ,25,Dollar($),No,No,No,2,4.2,-91.5074
+17316603,Zoeys Pizzeria,216,Cedar Rapids/Iowa City,"690 10th St, Marion, IA 52302",Marion,"Marion, Cedar Rapids/Iowa City",42.0331,"Pizza, Sandwich",25,Dollar($),No,No,No,2,4.7,-91.5995
+16659169,Tokyo Sushi,37,Chatham-Kent,"150 Richmond St, Chatham-Kent, ON N7M2V2",Chatham-Kent,"Chatham-Kent, Chatham-Kent",42.397683,"Japanese, Sushi",25,Dollar($),No,No,No,2,3.7,-82.188438
+17558684,Berry Patch Restaurant,216,Clatskanie,"49289 Us-30, Westport, OR 97016",Clatskanie,"Clatskanie, Clatskanie",46.126967,"American, Breakfast, Desserts",10,Dollar($),No,No,No,1,4.3,-123.368151
+18366580,Sakura Sushi & Grill,216,Cochrane,"130 Quarry Street, Unit 20, Cochrane, AB T4C 0W5",Cochrane,"Cochrane, Cochrane",51.183934,"Asian, Japanese",25,Dollar($),No,No,No,2,3.1,-114.472474
+17330755,Uptown Vietnam cuisine,216,Columbus,"1250 Broadway, Columbus, GA 31901",Columbus,"Columbus, Columbus",32.470315,"Asian, Vietnamese",10,Dollar($),No,No,No,1,3.3,-84.992671
+17330611,Cafe Le Rue @ The Landings,216,Columbus,"2523 Airport Thruway, Columbus, GA 31904",Columbus,"Columbus, Columbus",32.519247,"American, Seafood, Cajun",25,Dollar($),No,No,No,2,4.6,-84.95591
+17330609,Mark's City Grille,216,Columbus,"7160 moon road, Columbus, GA 31909",Columbus,"Columbus, Columbus",32.555591,American,25,Dollar($),No,No,No,2,4.5,-84.927047
+17330024,B Merrell's,216,Columbus,"7600 Veterans Pkwy, Columbus, GA 31909",Columbus,"Columbus, Columbus",32.5577,"Burger, Bar Food, Southern",25,Dollar($),No,No,No,2,3.8,-84.9436
+17330074,Cannon Brewpub,216,Columbus,"1041 Broadway, Columbus, GA 31901",Columbus,"Columbus, Columbus",32.4656,"Pizza, Bar Food",25,Dollar($),No,No,No,2,3.9,-84.9936
+17330185,Fuji Japanese Steak House,216,Columbus,"6499 Veterans Pkwy, Columbus, GA 31909",Columbus,"Columbus, Columbus",32.5382197,"Japanese, Steak",40,Dollar($),No,No,No,3,3.9,-84.954984
+17330397,Ruth Ann's Family Restaurant,216,Columbus,"941 Veterans Parkway, Columbus, GA 31901",Columbus,"Columbus, Columbus",32.4637,"Breakfast, Diner, Southern",10,Dollar($),No,No,No,1,3.7,-84.9876
+17330735,Samurai Japanese Cuisine & Sushi Bar,216,Columbus,"1009 Broadway, Columbus, GA 31901",Columbus,"Columbus, Columbus",32.4652417,"Japanese, Steak, Sushi",40,Dollar($),No,No,No,3,3.6,-84.9933631
+17330676,Wasabi Sushi and Thai,216,Columbus,"1639 Bradley Park Dr, Columbus, GA 31904",Columbus,"Columbus, Columbus",32.534002,"Japanese, Sushi, Thai",40,Dollar($),No,No,No,3,3.7,-84.96661
+17330048,Buckhead Bar and Grill,216,Columbus,"5010 Armour Rd, Columbus, GA 31904",Columbus,"Columbus, Columbus",32.513154,"Seafood, Steak, Vegetarian",40,Dollar($),No,No,No,3,4.2,-84.95367
+17330604,Burt's Butcher Shoppe and Eatery,216,Columbus,"2932 Warm Springs Rd, Columbus, GA 31909",Columbus,"Columbus, Columbus",32.504657,Steak,25,Dollar($),No,No,No,2,4.3,-84.947569
+17330087,Chef Lee's Peking Restaurant,216,Columbus,"6100 Bradley Park Dr, Columbus, GA 31904",Columbus,"Columbus, Columbus",32.5393,Chinese,25,Dollar($),No,No,No,2,4,-84.9607
+17330137,Country's Barbecue,216,Columbus,"3137 Mercury Dr, Columbus, GA 31906",Columbus,"Columbus, Columbus",32.4792,"BBQ, Southern",25,Dollar($),No,No,No,2,4,-84.9464
+17330155,Deorio's,216,Columbus,"3201 Macon Rd Ste 167, Columbus, GA 31906",Columbus,"Columbus, Columbus",32.481,"Italian, Pizza",0,Dollar($),No,No,No,1,4,-84.9427
+17330309,Mellow Mushroom,216,Columbus,"6100 Veterans Pkwy, Columbus, GA 31909",Columbus,"Columbus, Columbus",32.5321,Pizza,25,Dollar($),No,No,No,2,4.1,-84.9557
+17330311,Meritage,216,Columbus,"1039 1st Ave, Columbus, GA 31901",Columbus,"Columbus, Columbus",32.466158,"American, Tapas",40,Dollar($),No,No,No,3,4.1,-84.992093
+17330615,Mongo The Mongolian Fire Pit,216,Columbus,"7830 - E Veterans Pkwy, Columbus, GA 31909",Columbus,"Columbus, Columbus",32.560905,"Asian, Chinese",10,Dollar($),No,No,No,1,4.2,-84.938698
+17330638,The Black Cow,216,Columbus,"115 A 12th St, Columbus, GA 31901",Columbus,"Columbus, Columbus",32.468757,American,25,Dollar($),No,No,No,2,4.3,-84.991384
+17330628,Wood Stone,216,Columbus,"5739 Whitesville Rd, Columbus, GA 31904",Columbus,"Columbus, Columbus",32.527217,"Italian, Mediterranean, Pizza",40,Dollar($),No,No,No,3,4,-84.963201
+17330546,Hunter's Pub,216,Columbus,"11269 GA Hwy 219, Hamilton, GA 31811",Hamilton,"Hamilton, Columbus",32.7455,"American, Seafood, Steak",40,Dollar($),No,No,No,3,4.4,-85.0213
