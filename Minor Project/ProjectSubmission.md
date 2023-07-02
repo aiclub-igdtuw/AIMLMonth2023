@@ -1,9 +1,10 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       :   23281
 
-Student Name      :   < Your good name >
+Student Name      :   POOJA
 
-Project Title     :   < Problem statement allotted to you >
+Project Title     :   USED CARS
 
-Google Colab Link :   < View only link of your Google Colab Notebook >
+Google Colab Link :   https://colab.research.google.com/drive/1YfzMu7sFGR8seh51thGiZTjC9HHuiCUP?usp=sharing
 
-Summary(Optional) :   < Brief summary of your project >
+Summary(Optional) :   This project involves analyzing car data to predict if a car listing will result in a successful sale.
+Accuracy, Result and Findings.
