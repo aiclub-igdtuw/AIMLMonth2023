@@ -52,7 +52,7 @@ git push origin minorproject
 ```
 
 ## Step 6: Open a Pull Request
-Now that you have committed your changes to your forked repository's minorproject branch, it's time to submit it as a pull request to us for review.
+Now that you have committed your changes to your forked repository's `minorproject` branch, it's time to submit it as a pull request to us for review.
 
 * Ensure you are on the "minorproject" branch in your GitHub repository.
 
@@ -71,3 +71,11 @@ Now that you have committed your changes to your forked repository's minorprojec
 * Double-check that the "base" branch is set to the main branch.
 
 * When you're ready, click on the "Create pull request" button to submit your pull request.
+
+</br>
+
+<h2>Submission Template (Google Colab Notebook)- </h2>
+https://colab.research.google.com/drive/1Ayd5GG4qyLplqfT_YTXQupqpPCqQwpVd?usp=sharing
+
+<h2>Submission Demonstration Video- </h2>
+https://drive.google.com/file/d/12AXwiMD-pMBUACCjW_Wkbhwj0isXbVq2/view?usp=sharing
