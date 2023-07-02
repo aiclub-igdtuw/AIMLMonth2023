@@ -1,9 +1,7 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       :   < 23068 >
 
-Student Name      :   < Your good name >
+Student Name      :   < ANSHU >
 
-Project Title     :   < Problem statement allotted to you >
+Project Title     :  < EMPLOYEE ATTRITION >
 
-Google Colab Link :   < View only link of your Google Colab Notebook >
-
-Summary(Optional) :   < Brief summary of your project >
+Google Colab Link :   < https://colab.research.google.com/drive/1fHn2M7vX42fZHB6kNde7T9Hjyx9xvvYh?usp=sharing >
