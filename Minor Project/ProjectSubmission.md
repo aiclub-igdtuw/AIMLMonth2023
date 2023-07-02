@@ -1,9 +1,9 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       :   23023
 
-Student Name      :   < Your good name >
+Student Name      :   Aditi Gahoi
 
-Project Title     :   < Problem statement allotted to you >
+Project Title     :   Email Spam Classificaation
 
-Google Colab Link :   < View only link of your Google Colab Notebook >
+Google Colab Link :   https://colab.research.google.com/drive/1Jf0iS15PnTWkB_vmDY_QucA5Sxm9ze0p?usp=sharing
 
 Summary(Optional) :   < Brief summary of your project >
