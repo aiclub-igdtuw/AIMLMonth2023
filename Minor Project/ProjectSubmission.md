@@ -1,9 +1,9 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       : 23019
 
-Student Name      :   < Your good name >
+Student Name      :  aaysha nigar
 
-Project Title     :   < Problem statement allotted to you >
+Project Title     :   email spam classification analysis
 
-Google Colab Link :   < View only link of your Google Colab Notebook >
+Google Colab Link :   https://colab.research.google.com/drive/1aPrz5-AO8Grmh8V3KezZZjvqbDuSKzVi?usp=sharing
 
 Summary(Optional) :   < Brief summary of your project >
