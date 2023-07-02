@@ -1,6 +1,6 @@
 Roll Number       :   23376
 
-Student Name      :   Shiavni Bhardwaj
+Student Name      :   Shivani Bhardwaj
 
 Project Title     :   Global Air Pollution Dataset
 
