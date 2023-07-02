@@ -2,7 +2,7 @@ Roll Number       :   23001
 
 Student Name      :   Aahana Tiwari
 
-Project Title     :   Tiitanic - Machine Learning from Disaster
+Project Title     :   Titanic - Machine Learning from Disaster
 
 Google Colab Link :   https://colab.research.google.com/drive/1GayVQ9APXVXogpnH8MDM8cjnxGlt0dnj?usp=sharing
 
