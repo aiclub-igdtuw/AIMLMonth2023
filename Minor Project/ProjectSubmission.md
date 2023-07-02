@@ -1,9 +1,9 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       :   < 23157 >
 
-Student Name      :   < Your good name >
+Student Name      :   <JAHNAVI >
 
-Project Title     :   < Problem statement allotted to you >
+Project Title     :   <Stroke prediction  >
 
-Google Colab Link :   < View only link of your Google Colab Notebook >
+Google Colab Link :   < https://colab.research.google.com/drive/12cS1EA3tzSNYW8GwHOn37mUai59yO3fo?usp=sharing >
 
-Summary(Optional) :   < Brief summary of your project >
+Summary(Optional) :   <  In this minor project we analysed how various factors like age , gender, ever married, avg gluscose level, bmi affect chances of having stroke with the dataset provided. Accuracy : 99.92%  >
