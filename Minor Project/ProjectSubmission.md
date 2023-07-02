@@ -1,9 +1,8 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       :  23203
+Student Name      :   Kriti Singh
 
-Student Name      :   < Your good name >
+Project Title     :   Mechanical Tools Classification
 
-Project Title     :   < Problem statement allotted to you >
+Google Colab Link :  https://colab.research.google.com/drive/1d6eba2maM4BEn6-g28jG-h1kicakVKBz?usp=sharing
 
-Google Colab Link :   < View only link of your Google Colab Notebook >
-
-Summary(Optional) :   < Brief summary of your project >
+Summary(Optional) :   
