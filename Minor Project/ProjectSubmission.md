@@ -1,9 +1,9 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       :   23305
 
-Student Name      :   < Your good name >
+Student Name      :   Priyanka Sahoo
 
-Project Title     :   < Problem statement allotted to you >
+Project Title     :   World Happiness Prediction
 
-Google Colab Link :   < View only link of your Google Colab Notebook >
+Google Colab Link :   https://colab.research.google.com/drive/1YhjRNPpB7ousgXJlzbs6C2p-s1FS5rrS?usp=sharing
 
-Summary(Optional) :   < Brief summary of your project >
+Summary(Optional) :   we here are predicting world happiness using data analysis.we have analysed the model using Linear Regression.The root mean square error for this 0.59
