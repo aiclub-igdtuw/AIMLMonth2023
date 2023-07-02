@@ -1,9 +1,9 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       :   < 23084 >
 
-Student Name      :   < Your good name >
+Student Name      :   < Ashmita Sharma>
 
-Project Title     :   < Problem statement allotted to you >
+Project Title     :   < Employee Attrition >
 
-Google Colab Link :   < View only link of your Google Colab Notebook >
+Google Colab Link :   < http://localhost:8888/notebooks/minor%20project%20EDA.ipynb >
 
 Summary(Optional) :   < Brief summary of your project >
