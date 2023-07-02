@@ -1,9 +1,9 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       :   23251 
 
-Student Name      :   < Your good name >
+Student Name      :   Navya Kataria 
 
-Project Title     :   < Problem statement allotted to you >
+Project Title     :   Hepatitis C Prediction
 
-Google Colab Link :   < View only link of your Google Colab Notebook >
+Google Colab Link :   https://colab.research.google.com/drive/1z2UmtuOGgl16q37mci5nnX5FNtzRapzQ?usp=sharing
 
 Summary(Optional) :   < Brief summary of your project >
