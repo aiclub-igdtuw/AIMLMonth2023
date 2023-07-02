@@ -1,9 +1,8 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       :   23332
 
-Student Name      :   < Your good name >
+Student Name      :   Ruchika Patro
 
-Project Title     :   < Problem statement allotted to you >
+Project Title     :   PCOS Diagnostic
 
-Google Colab Link :   < View only link of your Google Colab Notebook >
-
-Summary(Optional) :   < Brief summary of your project >
+Google Colab Link :   https://colab.research.google.com/drive/1ZSvUr9v0h3g5PRNuMNtBulqLYd4h9Zkj?usp=sharing
+Summary(Optional) :   This project aims to diagnose PCOS using machine learning techniques. Various features such as hormonal levels and physical characteristics are analyzed to predict the likelihood of PCOS accurately.
