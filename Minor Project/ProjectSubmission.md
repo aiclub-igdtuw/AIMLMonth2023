@@ -1,9 +1,9 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       :  23032
 
-Student Name      :   < Your good name >
+Student Name      :   Akansha chaurasia
 
-Project Title     :   < Problem statement allotted to you >
+Project Title     :  Disease burden by cause 1990-2019
 
-Google Colab Link :   < View only link of your Google Colab Notebook >
+Google Colab Link :  https://colab.research.google.com/drive/1CXNpvJXfZZND7G0v2cpeOzV5zkFWIZcN?usp=sharing
 
-Summary(Optional) :   < Brief summary of your project >
+Summary(Optional) :  
