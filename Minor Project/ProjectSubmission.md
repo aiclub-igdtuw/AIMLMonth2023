@@ -1,9 +1,9 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       :   < 23382 >
 
-Student Name      :   < Your good name >
+Student Name      :   < Shreya Jain >
 
-Project Title     :   < Problem statement allotted to you >
+Project Title     :   < Red Wine Quality >
 
-Google Colab Link :   < View only link of your Google Colab Notebook >
+Google Colab Link :   < https://colab.research.google.com/drive/1C3SGUmnsT7lawyloobNZ616iCeuQH9eA?usp=sharing >
 
-Summary(Optional) :   < Brief summary of your project >
+Summary(Optional) :   < I studied about the dataset and performed different kind of operations. Got to learn many new things doing this project. >
