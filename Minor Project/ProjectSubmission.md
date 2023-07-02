@@ -1,9 +1,9 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       :   23076
 
-Student Name      :   < Your good name >
+Student Name      :   APOORVA
 
-Project Title     :   < Problem statement allotted to you >
+Project Title     :   Performance analysis on Employee Attrition
 
-Google Colab Link :   < View only link of your Google Colab Notebook >
+Jupyter notebook link :   http://localhost:8888/notebooks/23076_APOORVA_MinorProject.ipynb
 
 Summary(Optional) :   < Brief summary of your project >
