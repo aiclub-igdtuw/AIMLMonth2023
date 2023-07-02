@@ -1,9 +1,9 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       :   23472
 
-Student Name      :   < Your good name >
+Student Name      :   Vanshika Chaudhary
 
-Project Title     :   < Problem statement allotted to you >
+Project Title     :   Fetal Health
 
-Google Colab Link :   < View only link of your Google Colab Notebook >
+Google Colab Link :   https://colab.research.google.com/drive/1pRWiTrV9YZ5Vkes1FftAQuG7C7jBIae6#scrollTo=duE31-cXCazr
 
 Summary(Optional) :   < Brief summary of your project >
