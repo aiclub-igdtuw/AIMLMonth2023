@@ -1,9 +1,10 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       :  23012
 
-Student Name      :   < Your good name >
+Student Name      :  Aarushi Sahu
 
-Project Title     :   < Problem statement allotted to you >
+Project Title     :  Twitter Sentiments Annalysis
 
-Google Colab Link :   < View only link of your Google Colab Notebook >
+Google Colab Link :  https://colab.research.google.com/drive/16n8wZvaQ9_JIv0n2roCxmmhL0EDjt9fE?usp=sharing
 
-Summary(Optional) :   < Brief summary of your project >
+Summary(Optional) :  This project was the annalysis of the tweets . This is the sentiment140 dataset. It contains 1,600,000 tweets extracted using the twitter api .
+                     Using different plots, I have analysed the tweets.
