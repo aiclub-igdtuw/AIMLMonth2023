@@ -1,9 +1,9 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       :   < 23279 >
 
-Student Name      :   < Your good name >
+Student Name      :   Pavitra Asthana
 
-Project Title     :   < Problem statement allotted to you >
+Project Title     :   Credit Card Approval Prediction
 
-Google Colab Link :   < View only link of your Google Colab Notebook >
+Google Colab Link :   <https://colab.research.google.com/drive/1JcXrfh2zhebxErvn9Jd4a9aMmF-vOmgA?usp=sharing >
 
-Summary(Optional) :   < Brief summary of your project >
+Summary(Optional) :   < This problem statment was about predicting the approval status of credit card as applied by different applicants.I have made a model using kNN for the same and did all the preprocessing required for that. >
