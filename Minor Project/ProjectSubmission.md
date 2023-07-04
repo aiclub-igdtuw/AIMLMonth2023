@@ -1,9 +1,9 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       :   < 23303 >
 
-Student Name      :   < Your good name >
+Student Name      :   < PRIYANI SRIVASTAVA >
 
-Project Title     :   < Problem statement allotted to you >
+Project Title     :   < 41 USED CARS >
 
-Google Colab Link :   < View only link of your Google Colab Notebook >
+Google Colab Link :   <https://colab.research.google.com/drive/1AHFzoo591O2pDgoY9kXQCCYiVkoRMUgE?usp=sharing&authuser=2>
 
-Summary(Optional) :   < Brief summary of your project >
+Summary(Optional) :   < My project was based on used cars and provided the problem staements i could actually apply the learning.Interestingly i learnt all the ways to upload a file because there was something going wrong while uploading so i tried it all and eventually was able too.Through this i was actually able to learn how to analyse the data provided to answer the problem statements as per requirement.>
