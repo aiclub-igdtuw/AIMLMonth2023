@@ -1,6 +1,6 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23201 >
+Roll Number       :   <23201 >
 
-Student Name      :   < kriti khurana >
+Student Name      :   < Kriti Khurana >
 
 Project Title     :   < BODY FAT PREDICTION >
 
