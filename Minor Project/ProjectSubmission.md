@@ -1,9 +1,9 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       :   23423
 
-Student Name      :   < Your good name >
+Student Name      :   Sonia Singh
 
-Project Title     :   < Problem statement allotted to you >
+Project Title     :   Video Games Rating by 'ESRB'
 
-Google Colab Link :   < View only link of your Google Colab Notebook >
+Google Colab Link :   https://colab.research.google.com/drive/1z1KOuAGUV-KoQtka5YbkYNi8dNtyIzJ_?usp=sharing
 
-Summary(Optional) :   < Brief summary of your project >
+Summary(Optional) :   bar plot, frequency, correlation, patterns, accuracy,  classification model, etc 
