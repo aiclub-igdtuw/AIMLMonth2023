@@ -1,9 +1,9 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       :    23179
 
-Student Name      :   < Your good name >
+Student Name      :   KANISHKA
 
-Project Title     :   < Problem statement allotted to you >
+Project Title     :   CLASSIFICATION OF ROBOTS FROM THEIR CONVERSATION
 
-Google Colab Link :   < View only link of your Google Colab Notebook >
+Google Colab Link :   https://colab.research.google.com/drive/1JL5NRKLVZe00BYPKOLEE7UvnI1ZXb-Za?usp=sharing
 
 Summary(Optional) :   < Brief summary of your project >
