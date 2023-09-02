@@ -1,6 +1,6 @@
-Roll Number       :    Roll no. allotted for this internship eg - 23054 
+Roll Number       :    Roll no. allotted for this internship  - 23054 
 
-Student Name      :    Your Anika Malhotra 
+Student Name      :    Anika Malhotra 
 
 Project Title     :    Factors Affecting Campus Placement 
 
