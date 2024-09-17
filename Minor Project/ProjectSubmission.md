@@ -1,9 +1,9 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       :   <23313 >
 
-Student Name      :   < Your good name >
+Student Name      :   < Reema Kumari >
 
-Project Title     :   < Problem statement allotted to you >
+Project Title     :   <Mechanical tool classification >
 
-Google Colab Link :   < View only link of your Google Colab Notebook >
+Google Colab Link :   < https://colab.research.google.com/drive/16oJ9XiHVL3cw6EnUzgG8vbOLcPDtHXr5#scrollTo=rqo2Td7E8GkD >
 
-Summary(Optional) :   < Brief summary of your project >
+Summary(Optional) :   < Dataset contains images of tools like hammer, wrench, ropes, toolbox, gasoline can. >
