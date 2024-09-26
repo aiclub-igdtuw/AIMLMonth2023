@@ -1,9 +1,9 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       :   23357
 
-Student Name      :   < Your good name >
+Student Name      :   SANYA KAPOOR
 
-Project Title     :   < Problem statement allotted to you >
+Project Title     :   Used Cars
 
-Google Colab Link :   < View only link of your Google Colab Notebook >
+Google Colab Link :   https://colab.research.google.com/drive/1ONx6CepZE5aY_ics-Fg7jlJiC1RuwS9d#scrollTo=EEYH5lRyc81l
 
-Summary(Optional) :   < Brief summary of your project >
+Summary(Optional) :   A project on analysing how a Car's price changes along with its age and what could be its best potential price.
