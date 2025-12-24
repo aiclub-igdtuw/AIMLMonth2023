@@ -1,9 +1,9 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       :  23240
 
-Student Name      :   < Your good name >
+Student Name      :   Muskan Gurain
 
-Project Title     :   < Problem statement allotted to you >
+Project Title     :   Hepatits C
 
-Google Colab Link :   < View only link of your Google Colab Notebook >
+Google Colab Link : https://colab.research.google.com/drive/1tejP2klEFWpCo8qmBqSjv512aJcgj6LU#scrollTo=lXZ6pJkTWc7K
 
 Summary(Optional) :   < Brief summary of your project >
