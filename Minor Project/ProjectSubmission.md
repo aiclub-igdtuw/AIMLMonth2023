@@ -1,9 +1,9 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       :   <  23385 >
 
-Student Name      :   < Your good name >
+Student Name      :   < SHREYA RUHELA>
 
-Project Title     :   < Problem statement allotted to you >
+Project Title     :   <  Wine Quality Prediction>
 
-Google Colab Link :   < View only link of your Google Colab Notebook >
+Google Colab Link :   <jupyter   >
 
-Summary(Optional) :   < Brief summary of your project >
+Summary(Optional) :   < In this project we have shown that a good quality wine will have quality rating >7 > >
